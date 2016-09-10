@@ -1,0 +1,8793 @@
+0 HEAD
+1 SOUR SIMPLE_FAMILY_TREE
+2 VERS 1.30
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+0 @I1@ INDI
+1 NAME     /Henry_III/
+1 SEX M
+1 BIRT
+2 DATE 1216
+1 DEAT
+2 DATE 1272
+1 FAMC @F63@
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME /Eleanor_Provence/
+1 SEX F
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME /Edward_I/
+1 NAME Longshanks
+1 SEX M
+1 BIRT
+2 DATE 1272
+1 DEAT
+2 DATE 1307
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME /Eleanor_Castile/
+1 SEX F
+1 FAMS @F2@
+0 @I5@ INDI
+1 NAME /Margaret_France/
+1 SEX F
+0 @I6@ INDI
+1 NAME /Edmund_Earl_Lancaster/
+1 SEX M
+1 FAMC @F1@
+1 FAMS @F6@
+0 @I7@ INDI
+1 NAME /Edward_II/
+1 SEX M
+1 BIRT
+2 DATE 1307
+1 DEAT
+2 DATE 1327
+1 FAMC @F2@
+1 FAMS @F4@
+0 @I8@ INDI
+1 NAME /Edward_III/
+1 SEX M
+1 BIRT
+2 DATE 1327
+1 DEAT
+2 DATE 1377
+1 FAMC @F4@
+1 FAMS @F5@
+0 @I9@ INDI
+1 NAME /Philippa_Hainault/
+1 SEX F
+1 DEAT
+2 DATE 1369
+1 FAMC @F402@
+1 FAMC @F250@
+1 FAMS @F5@
+0 @I11@ INDI
+1 NAME /Thomas_Earl_Lancaster/
+1 SEX M
+1 FAMC @F6@
+0 @I12@ INDI
+1 NAME /Henry_Earl_Lancaster/
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F7@
+0 @I13@ INDI
+1 NAME /Henry_Earl_Duke_Lancaster/
+1 SEX M
+1 FAMC @F7@
+1 FAMS @F8@
+0 @I15@ INDI
+1 NAME /Edward_Black_Prince/
+1 SEX M
+1 DEAT
+2 DATE 1376
+1 FAMC @F5@
+1 FAMS @F9@
+0 @I17@ INDI
+1 NAME /Joan_Kent/
+1 SEX F
+1 FAMS @F9@
+0 @I18@ INDI
+1 NAME /William_Hatfield/
+1 SEX M
+1 FAMC @F5@
+0 @I19@ INDI
+1 NAME /Lionel_Duke_Clarence/
+1 SEX M
+1 BIRT
+2 PLAC Antwerp
+1 DEAT
+2 DATE 7 Oct 1368
+1 FAMC @F5@
+1 FAMS @F10@
+0 @I20@ INDI
+1 NAME /John_Gaunt/
+1 NAME Duke of Lancaster
+1 SEX M
+1 BIRT
+2 PLAC Ghent
+1 DEAT
+2 DATE Feb 1399
+1 FAMC @F5@
+1 FAMS @F11@
+1 FAMS @F12@
+1 FAMS @F13@
+0 @I21@ INDI
+1 NAME /Thomas_Duke_Gloucester/
+1 NAME Thomas of Woodstock
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F22@
+0 @I22@ INDI
+1 NAME /Elizabeth_Burghs/
+1 SEX F
+1 FAMS @F10@
+0 @I23@ INDI
+1 NAME /Blanche_Lancaster/
+1 SEX F
+1 FAMC @F8@
+1 FAMS @F11@
+0 @I24@ INDI
+1 NAME  /Henry_IV/
+1 NAME Bolingbroke
+1 SEX M
+1 BIRT
+2 DATE 1399
+1 DEAT
+2 DATE 1413
+1 FAMC @F11@
+1 FAMS @F14@
+1 NOTE Replaced Richard II
+0 @I25@ INDI
+1 NAME /Constance_Castile/
+1 SEX F
+1 DEAT
+2 DATE 1394
+1 FAMC @F374@
+1 FAMS @F12@
+0 @I26@ INDI
+1 NAME Catherine /Swynford/
+1 SEX F
+1 DEAT
+2 DATE 1403
+1 FAMC @F376@
+1 FAMS @F13@
+1 FAMS @F377@
+1 NOTE Had John of Gaunt's children before her marriage to him.
+0 @I27@ INDI
+1 NAME /Henry_Beaufort/
+1 SEX M
+1 FAMC @F13@
+0 @I28@ INDI
+1 NAME John /Beaufort/
+1 NAME Earl of Somerset
+1 SEX M
+1 DEAT
+2 DATE 1410
+1 FAMC @F13@
+1 FAMS @F19@
+0 @I29@ INDI
+1 NAME /Thomas_Beaufort/
+1 SEX M
+1 FAMC @F13@
+0 @I30@ INDI
+1 NAME Mary /Bohun/
+1 SEX F
+1 FAMS @F14@
+0 @I31@ INDI
+1 NAME /Thomas_Duke_Clarence/
+1 SEX M
+1 FAMC @F14@
+0 @I32@ INDI
+1 NAME /John_Duke_Bedford/
+1 NAME John Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 1435
+1 FAMC @F14@
+1 FAMS @F386@
+1 FAMS @F387@
+0 @I33@ INDI
+1 NAME /Humphrey_Duke_Gloucester/
+1 SEX M
+1 FAMC @F14@
+0 @I34@ INDI
+1 NAME    /Henry_V/
+1 SEX M
+1 BIRT
+2 DATE 1413
+1 DEAT
+2 DATE 1422
+1 FAMC @F14@
+1 FAMS @F15@
+0 @I35@ INDI
+1 NAME /Catherine_France/
+1 SEX F
+1 DEAT
+2 DATE 1437
+1 FAMC @F120@
+1 FAMS @F15@
+1 FAMS @F16@
+0 @I36@ INDI
+1 NAME Owen /Tudor/
+1 SEX M
+1 DEAT
+2 DATE 1461
+1 FAMC @F107@
+1 FAMS @F16@
+0 @I38@ INDI
+1 NAME Jasper /Tudor/
+1 NAME Earl of Pembroke
+1 SEX M
+1 FAMC @F16@
+0 @I39@ INDI
+1 NAME Edmund /Tudor/
+1 DEAT
+2 DATE 1456
+1 NAME Earl of Richmond
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F17@
+0 @I40@ INDI
+1 NAME Margaret /Beaufort/
+1 SEX F
+1 DEAT
+2 DATE 1509
+1 FAMC @F97@
+1 FAMS @F17@
+0 @I41@ INDI
+1 NAME /Henry_VII/
+1 NAME  Henry Tudor Earl of Richmond
+1 SEX M
+1 BIRT
+2 DATE 1485
+2 PLAC Wales
+1 DEAT
+2 DATE 1509
+1 FAMC @F17@
+1 FAMS @F34@
+1 NOTE Won the Battle of Bosworth Field against Richard III
+0 @I42@ INDI
+1 NAME   /Henry_VI/
+1 SEX M
+1 BIRT
+2 DATE 1422
+1 DEAT
+2 DATE 1471
+1 FAMC @F15@
+1 FAMS @F18@
+1 NOTE Occasionally insane
+0 @I43@ INDI
+1 NAME /Margaret_Anjou/
+1 SEX F
+1 FAMS @F18@
+0 @I44@ INDI
+1 NAME /Edward_Prince_Wales/
+1 SEX M
+1 DEAT
+2 DATE 1471
+1 FAMC @F18@
+1 FAMS @F121@
+0 @I46@ INDI
+1 NAME /Edmund_Beaufort_Duke_Somerset/
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F29@
+0 @I47@ INDI
+1 NAME /Jane_Beaufort/
+1 NAME Joan
+1 SEX F
+1 DEAT
+2 DATE 1445
+1 FAMC @F19@
+1 FAMS @F20@
+0 @I48@ INDI
+1 NAME /James_I_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1406
+1 DEAT
+2 DATE 1437
+1 FAMC @F56@
+1 FAMS @F20@
+0 @I50@ INDI
+1 NAME /Edmond_Duke_York/
+1 SEX M
+1 DEAT
+2 DATE 1402
+1 FAMC @F5@
+1 FAMS @F26@
+0 @I51@ INDI
+1 NAME /Anne/
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F23@
+0 @I52@ INDI
+1 NAME Edmund /Stafford/
+1 SEX M
+1 FAMS @F23@
+0 @I53@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F24@
+0 @I54@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F25@
+0 @I55@ INDI
+1 NAME /Henry_Stafford_Duke_Buckingham/
+1 SEX M
+1 DEAT
+2 DATE 1483
+1 FAMC @F25@
+1 FAMS @F310@
+0 @I56@ INDI
+1 NAME /Richard_Earl_Cambridge/
+1 SEX M
+1 DEAT
+2 DATE 1415
+1 FAMC @F26@
+1 FAMS @F27@
+0 @I57@ INDI
+1 NAME Anne /Mortimer/
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F27@
+0 @I58@ INDI
+1 NAME /Richard_Duke_York/
+1 NAME Richard Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 1460
+1 FAMC @F27@
+1 FAMS @F28@
+1 NOTE Started the Wars of the Roses
+0 @I59@ INDI
+1 NAME Cecily /Neville/
+1 NAME Cecilia
+1 SEX F
+1 DEAT
+2 DATE 1495
+1 FAMC @F98@
+1 FAMS @F28@
+0 @I60@ INDI
+1 NAME /Henry_Beaufort_Duke_Somerset/
+1 SEX M
+1 FAMC @F29@
+0 @I61@ INDI
+1 NAME /Edward_Beaufort_Duke_Somerset/
+1 SEX M
+1 FAMC @F29@
+0 @I62@ INDI
+1 NAME /Edward_IV/
+1 NAME Edward Earl of March
+1 SEX M
+1 BIRT
+2 DATE 1461
+1 DEAT
+2 DATE 1483
+1 FAMC @F28@
+1 FAMS @F30@
+0 @I63@ INDI
+1 NAME Elizabeth /Woodville/
+1 SEX F
+1 BIRT
+2 DATE 1437
+1 FAMC @F388@
+1 FAMS @F30@
+0 @I64@ INDI
+1 NAME /Edward_V/
+1 SEX M
+1 BIRT
+2 DATE 1483
+1 DEAT
+2 DATE 1483
+1 FAMC @F30@
+0 @I65@ INDI
+1 NAME /Edmund_Earl_Rutland/
+1 SEX M
+1 FAMC @F28@
+0 @I66@ INDI
+1 NAME /George_Duke_Clarence/
+1 SEX M
+1 FAMC @F28@
+1 FAMS @F31@
+0 @I67@ INDI
+1 NAME Isabella /Neville/
+1 SEX F
+1 FAMS @F31@
+0 @I68@ INDI
+1 NAME /Richard_III/
+1 NAME Richard Duke of Gloucester
+1 SEX M
+1 BIRT
+2 DATE 1483
+1 DEAT
+2 DATE 1485
+1 FAMC @F28@
+1 FAMS @F32@
+1 NOTE Lost the Battle of Bosworth Field to Henry VII
+0 @I69@ INDI
+1 NAME Anne /Neville/
+1 SEX F
+1 DEAT
+2 DATE 1485
+1 FAMC @F122@
+1 FAMS @F121@
+1 FAMS @F32@
+0 @I70@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F33@
+0 @I71@ INDI
+1 NAME /Charles_The_Rash_Duke_Burgandy/
+1 SEX M
+1 FAMS @F33@
+0 @I72@ INDI
+1 NAME /Richard_Duke_York/
+1 SEX M
+1 DEAT
+2 DATE 1483
+1 FAMC @F30@
+0 @I73@ INDI
+1 NAME /Elizabeth_York/
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F34@
+0 @I74@ INDI
+1 NAME /Henry_VIII/
+1 SEX M
+1 BIRT
+2 DATE 1509
+1 DEAT
+2 DATE 1547
+1 FAMC @F34@
+1 FAMS @F113@
+1 FAMS @F114@
+1 FAMS @F115@
+1 FAMS @F168@
+1 FAMS @F360@
+1 FAMS @F361@
+0 @I75@ INDI
+1 NAME Roger /Mortimer/
+1 DEAT
+2 DATE 1398
+1 NAME Earl of March
+1 SEX M
+1 FAMC @F36@
+1 FAMS @F35@
+0 @I76@ INDI
+1 NAME Edmund /Mortimer/
+1 DEAT
+2 DATE 1424
+1 NAME Earl of March
+1 SEX M
+1 FAMC @F35@
+0 @I77@ INDI
+1 NAME Edmund /Mortimer/
+1 SEX M
+1 DEAT
+2 DATE 1381
+1 FAMC @F37@
+1 FAMS @F36@
+0 @I78@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F37@
+0 @I79@ INDI
+1 NAME Roger /Mortimer/
+1 NAME Earl of March
+1 SEX M
+1 DEAT
+2 DATE 1360
+1 FAMC @F39@
+1 FAMS @F38@
+0 @I80@ INDI
+1 NAME Roger /Mortimer/
+1 NAME Earl of March
+1 SEX M
+1 DEAT
+2 DATE 1330
+1 FAMS @F39@
+0 @I81@ INDI
+1 NAME /Philippa/
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F36@
+0 @I82@ INDI
+1 NAME Edmund /Mortimer/ Sir
+1 SEX M
+1 DEAT
+2 DATE 1409
+1 FAMC @F36@
+1 FAMS @F40@
+0 @I83@ INDI
+1 NAME /Unknown/
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F40@
+0 @I84@ INDI
+1 NAME Owen /Glendower/
+1 SEX M
+1 FAMS @F41@
+0 @I85@ INDI
+1 NAME Elizabeth /Mortimer/
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F42@
+0 @I86@ INDI
+1 NAME Henry /Percy/
+1 NAME Hotspur
+1 SEX M
+1 DEAT
+2 DATE 21 July 1403
+1 FAMS @F42@
+1 NOTE Died in the Battle of Shrewsbury against Henry IV
+0 @I87@ INDI
+1 NAME /Catherine/
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F43@
+0 @I88@ INDI
+1 NAME William /Courtenay/
+1 NAME Earl of Devonshire
+1 SEX M
+1 FAMS @F43@
+0 @I89@ INDI
+1 NAME Henry /Courtenay/
+1 NAME Marquis of Exeter
+1 SEX M
+1 FAMC @F43@
+1 FAMS @F44@
+0 @I90@ INDI
+1 NAME Edward /Courtenay/
+1 SEX M
+1 DEAT
+2 DATE 1556
+1 FAMC @F44@
+0 @I91@ INDI
+1 NAME /Arthur/
+1 SEX M
+1 DEAT
+2 DATE 1502
+1 FAMC @F34@
+1 FAMS @F108@
+0 @I92@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 DEAT
+2 DATE 1541
+1 FAMC @F34@
+1 FAMS @F45@
+1 FAMS @F46@
+0 @I93@ INDI
+1 NAME /James_IV_Scotland/
+1 BIRT
+2 DATE 1488
+1 DEAT
+2 DATE 1513
+1 NAME James Stuart
+1 SEX M
+1 FAMC @F111@
+1 FAMS @F45@
+1 NOTE Died on Flodden Field
+0 @I94@ INDI
+1 NAME /Earl_Angus/
+1 NAME Archibald Douglas
+1 SEX M
+1 FAMS @F46@
+0 @I95@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F47@
+0 @I96@ INDI
+1 NAME /Earl_Lennox/
+1 SEX M
+1 FAMS @F47@
+0 @I97@ INDI
+1 NAME /Earl_Darnley/
+1 NAME Henry Stuart
+1 SEX M
+1 FAMC @F47@
+1 FAMS @F48@
+0 @I98@ INDI
+1 NAME /Mary_Queen_Scots/
+1 SEX F
+1 DEAT
+2 DATE 8 Feb 1587
+1 FAMC @F54@
+1 FAMS @F117@
+1 FAMS @F48@
+1 FAMS @F119@
+0 @I99@ INDI
+1 NAME    /James_I/
+1 NAME James VI of Scotland 1567-1625
+1 SEX M
+1 BIRT
+2 DATE 1603
+1 DEAT
+2 DATE 1625
+1 FAMC @F48@
+1 FAMS @F73@
+0 @I100@ INDI
+1 NAME Mary /Tudor/
+1 SEX F
+1 FAMC @F34@
+1 FAMS @F50@
+1 FAMS @F241@
+0 @I102@ INDI
+1 NAME /Duke_Suffolk/
+1 NAME Charles Brandon
+1 SEX M
+1 FAMS @F50@
+0 @I103@ INDI
+1 NAME Frances /Brandon/
+1 SEX F
+1 FAMC @F50@
+1 FAMS @F51@
+0 @I104@ INDI
+1 NAME Henry /Grey/
+1 NAME Marquess of Dorset & Duke of Suffolk
+1 SEX M
+1 FAMS @F51@
+0 @I105@ INDI
+1 NAME Jane /Grey/
+1 NAME Lady Jane Grey
+1 SEX F
+1 DEAT
+2 DATE 1554
+1 FAMC @F51@
+1 FAMS @F52@
+0 @I106@ INDI
+1 NAME Guildford /Dudley/
+1 NAME Lord
+1 SEX M
+1 FAMC @F170@
+1 FAMS @F52@
+0 @I107@ INDI
+1 NAME Catherine /Grey/
+1 SEX F
+1 FAMC @F51@
+1 FAMS @F171@
+0 @I109@ INDI
+1 NAME /James_V_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1513
+1 DEAT
+2 DATE 1542
+1 FAMC @F45@
+1 FAMS @F54@
+1 FAMS @F231@
+1 NOTE Lost the battle at Solway Moss
+0 @I110@ INDI
+1 NAME /James_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1437
+1 DEAT
+2 DATE 1460
+1 FAMC @F20@
+1 FAMS @F110@
+0 @I111@ INDI
+1 NAME /Robert_III_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1390
+1 DEAT
+2 DATE 1406
+1 FAMC @F57@
+1 FAMS @F56@
+0 @I112@ INDI
+1 NAME /Robert_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1371
+1 DEAT
+2 DATE 1390
+1 FAMC @F58@
+1 FAMS @F57@
+0 @I113@ INDI
+1 NAME /Margaret/
+1 NAME Marjorie
+1 SEX F
+1 DEAT
+2 DATE 1316
+1 FAMC @F59@
+1 FAMS @F58@
+0 @I114@ INDI
+1 NAME /Walter_Stewart_Scotland/
+1 SEX M
+1 DEAT
+2 DATE 1326
+1 FAMS @F58@
+0 @I115@ INDI
+1 NAME /Robert_the_Bruce_Scotland/
+1 BIRT
+2 DATE 1306
+1 DEAT
+2 DATE 1329
+1 NAME Robert I
+1 SEX M
+1 DEAT
+2 DATE 1329
+1 FAMC @F525@
+1 FAMS @F59@
+1 FAMS @F516@
+0 @I116@ INDI
+1 NAME /Richard_II/
+1 SEX M
+1 BIRT
+2 DATE 1377
+1 DEAT
+2 DATE 1399
+1 FAMC @F9@
+1 FAMS @F60@
+1 FAMS @F61@
+1 NOTE Replaced by Henry IV
+0 @I117@ INDI
+1 NAME /Anne_Bohemia/
+1 SEX F
+1 DEAT
+2 DATE June 1394
+1 FAMS @F60@
+0 @I118@ INDI
+1 NAME /Isabella_France/
+1 SEX F
+1 FAMC @F120@
+1 FAMS @F61@
+1 FAMS @F207@
+0 @I119@ INDI
+1 NAME           /John/
+1 NAME King John "Lackland"
+1 SEX M
+1 BIRT
+2 DATE 1199
+1 DEAT
+2 DATE 1216
+1 FAMC @F65@
+1 FAMS @F512@
+1 FAMS @F63@
+0 @I120@ INDI
+1 NAME /Isabella_Gloucester/
+1 SEX F
+0 @I121@ INDI
+1 NAME /Isabella_Angouleme/
+1 SEX F
+1 DEAT
+2 DATE 1246
+1 FAMS @F63@
+0 @I122@ INDI
+1 NAME     /Henry_II/
+1 SEX M
+1 BIRT
+2 DATE 1154
+1 DEAT
+2 DATE 1189
+1 FAMC @F72@
+1 FAMS @F65@
+1 NOTE First Plantagenet king
+0 @I123@ INDI
+1 NAME /Eleanor_Aquitaine/
+1 SEX F
+1 DEAT
+2 DATE 1204
+1 FAMS @F65@
+1 FAMS @F264@
+0 @I124@ INDI
+1 NAME /Henry_Young_King/
+1 SEX M
+1 DEAT
+2 DATE 1183
+1 FAMC @F65@
+0 @I125@ INDI
+1 NAME  /Richard_I/
+1 NAME The Lionheart
+1 SEX M
+1 BIRT
+2 DATE 1189
+1 DEAT
+2 DATE 1199
+1 FAMC @F65@
+1 FAMS @F87@
+0 @I126@ INDI
+1 NAME /Geoffrey_Count_Brittany/
+1 SEX M
+1 DEAT
+2 DATE 1186
+1 FAMC @F65@
+1 FAMS @F66@
+0 @I127@ INDI
+1 NAME /Constance_Brittany/
+1 SEX F
+1 FAMS @F66@
+0 @I128@ INDI
+1 NAME /Arthur_Brittany/
+1 SEX M
+1 FAMC @F66@
+0 @I129@ INDI
+1 NAME /William_Conqueror/
+1 NAME Duke of Normandy
+1 SEX M
+1 BIRT
+2 DATE 1066
+1 DEAT
+2 DATE 1087
+1 FAMC @F391@
+1 FAMS @F67@
+0 @I130@ INDI
+1 NAME /Matilda_Flanders/
+1 SEX F
+1 FAMC @F176@
+1 FAMS @F67@
+0 @I131@ INDI
+1 NAME /Robert_Duke_Normandy/
+1 SEX M
+1 FAMC @F67@
+0 @I132@ INDI
+1 NAME    /William_II/
+1 NAME William Rufus
+1 SEX M
+1 BIRT
+2 DATE 1087
+1 DEAT
+2 DATE 1100
+1 FAMC @F67@
+0 @I133@ INDI
+1 NAME     /Henry_I/
+1 SEX M
+1 BIRT
+2 DATE 1100
+1 DEAT
+2 DATE 1135
+1 FAMC @F67@
+1 FAMS @F70@
+0 @I134@ INDI
+1 NAME /Adela/
+1 SEX F
+1 FAMC @F67@
+1 FAMS @F68@
+0 @I135@ INDI
+1 NAME /Stephen_Count_Blois/
+1 SEX M
+1 FAMS @F68@
+0 @I136@ INDI
+1 NAME /Stephen/
+1 NAME King Stephen
+1 SEX M
+1 BIRT
+2 DATE 1135
+1 DEAT
+2 DATE 1154
+1 FAMC @F68@
+1 FAMS @F69@
+0 @I137@ INDI
+1 NAME /Henry_Blois/
+1 NAME Bishop of Winchester
+1 SEX M
+1 FAMC @F68@
+0 @I138@ INDI
+1 NAME /Matilda_Boulogne/
+1 SEX F
+1 FAMC @F539@
+1 FAMS @F69@
+0 @I139@ INDI
+1 NAME /Eustace/
+1 SEX F
+1 FAMC @F69@
+0 @I140@ INDI
+1 NAME /Matilda_Scotland/
+1 NAME Edith
+1 SEX F
+1 DEAT
+2 DATE 1118
+1 FAMC @F86@
+1 FAMS @F70@
+0 @I141@ INDI
+1 NAME /William/
+1 NAME Duke of Normandy
+1 SEX M
+1 DEAT
+2 DATE 1120
+1 FAMC @F70@
+1 NOTE Died when the White Ship sank - leaving no heir.
+0 @I142@ INDI
+1 NAME /Matilda/
+1 NAME Maud
+1 SEX F
+1 DEAT
+2 DATE 1167
+1 FAMC @F70@
+1 FAMS @F71@
+1 FAMS @F72@
+0 @I143@ INDI
+1 NAME /Henry_V_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1099
+1 DEAT
+2 DATE 1125
+1 FAMC @F429@
+1 FAMS @F71@
+0 @I144@ INDI
+1 NAME /Geoffrey_Count_Anjou/
+1 NAME Plantagenet
+1 SEX M
+1 DEAT
+2 DATE 1151
+1 FAMC @F380@
+1 FAMS @F72@
+0 @I145@ INDI
+1 NAME /Anne_Denmark/
+1 SEX F
+1 DEAT
+2 DATE 1662
+1 FAMS @F73@
+0 @I146@ INDI
+1 NAME /Henry_Prince_Wales/
+1 SEX M
+1 DEAT
+2 DATE 1612
+1 FAMC @F73@
+0 @I147@ INDI
+1 NAME  /Charles_I/
+1 SEX M
+1 BIRT
+2 DATE 1625
+1 DEAT
+2 DATE 1649
+1 FAMC @F73@
+1 FAMS @F74@
+0 @I148@ INDI
+1 NAME /Elizabeth/
+1 SEX F
+1 DEAT
+2 DATE 1662
+1 FAMC @F73@
+1 FAMS @F75@
+0 @I149@ INDI
+1 NAME /Henrietta_Maria_France/
+1 SEX F
+1 DEAT
+2 DATE 1669
+1 FAMC @F237@
+1 FAMS @F74@
+0 @I150@ INDI
+1 NAME /Frederick_Elector_Palatine/
+1 NAME The Winter King of Bohemia
+1 SEX M
+1 DEAT
+2 DATE 1632
+1 FAMS @F75@
+0 @I151@ INDI
+1 NAME /Charles_II/
+1 SEX M
+1 BIRT
+2 DATE 1660
+1 DEAT
+2 DATE 1685
+1 FAMC @F74@
+1 FAMS @F76@
+0 @I152@ INDI
+1 NAME /Catherine_Braganza_Portugal/
+1 SEX F
+1 FAMS @F76@
+0 @I153@ INDI
+1 NAME /Mary/
+1 SEX F
+1 DEAT
+2 DATE 1660
+1 FAMC @F74@
+1 FAMS @F77@
+0 @I154@ INDI
+1 NAME /William_II_Orange/
+1 SEX M
+1 FAMS @F77@
+0 @I155@ INDI
+1 NAME /William_III_Orange/
+1 SEX M
+1 BIRT
+2 DATE 1689
+1 DEAT
+2 DATE 1702
+1 FAMC @F77@
+1 FAMS @F80@
+0 @I156@ INDI
+1 NAME   /James_II/
+1 NAME James Stuart
+1 SEX M
+1 BIRT
+2 DATE 1685
+1 DEAT
+2 DATE 1688
+1 FAMC @F74@
+1 FAMS @F78@
+1 FAMS @F79@
+1 NOTE Catholic
+0 @I157@ INDI
+1 NAME Ann /Hyde/
+1 SEX F
+1 FAMS @F78@
+0 @I158@ INDI
+1 NAME /Mary_Modena/
+1 SEX F
+1 FAMS @F79@
+0 @I159@ INDI
+1 NAME Mary /Stuart/
+1 SEX F
+1 FAMC @F78@
+1 FAMS @F80@
+0 @I160@ INDI
+1 NAME /James_Old_Pretender/
+1 SEX M
+1 DEAT
+2 DATE 1765
+1 FAMC @F79@
+1 FAMS @F81@
+0 @I161@ INDI
+1 NAME /Charles_Edward/
+1 NAME Bonnie Prince Charlie
+1 SEX M
+1 DEAT
+2 DATE 1788
+1 FAMC @F81@
+1 FAMS @F175@
+0 @I162@ INDI
+1 NAME /Henry_Duke_York/
+1 SEX M
+1 DEAT
+2 DATE 1807
+1 FAMC @F81@
+0 @I163@ INDI
+1 NAME /Charles_Louis_Elector_Palatine/
+1 SEX M
+1 DEAT
+2 DATE 1680
+1 FAMC @F75@
+0 @I164@ INDI
+1 NAME /Prince_Rupert/
+1 NAME Rupert of the Rhine
+1 SEX M
+1 DEAT
+2 DATE 1682
+1 FAMC @F75@
+1 NOTE Fought in the English Civil War
+0 @I165@ INDI
+1 NAME /Sophia/
+1 SEX F
+1 DEAT
+2 DATE 1714
+1 FAMC @F75@
+1 FAMS @F82@
+0 @I166@ INDI
+1 NAME /Elector_Hanover/
+1 NAME Ernest Augustus, Duke of Brunswick-Luneburg
+1 SEX M
+1 DEAT
+2 DATE 1698
+1 FAMS @F82@
+0 @I167@ INDI
+1 NAME   /George_I/
+1 NAME George Louis, Elector 1698
+1 SEX M
+1 BIRT
+2 DATE 1714
+1 DEAT
+2 DATE 1727
+1 FAMC @F82@
+1 FAMS @F83@
+0 @I168@ INDI
+1 NAME /Sophia_Dorothea_of_Celle/
+1 SEX F
+1 FAMS @F83@
+0 @I169@ INDI
+1 NAME /George_II/
+1 SEX M
+1 BIRT
+2 DATE 1727
+1 DEAT
+2 DATE 1760
+1 FAMC @F83@
+1 FAMS @F85@
+0 @I170@ INDI
+1 NAME /Sophia_Dorothea/
+1 SEX F
+1 FAMC @F83@
+1 FAMS @F84@
+0 @I171@ INDI
+1 NAME /Frederick_William_II_Prussia/
+1 SEX M
+1 FAMS @F84@
+0 @I172@ INDI
+1 NAME /Caroline_Brandenburg-Anspach/
+1 SEX F
+1 FAMS @F85@
+0 @I173@ INDI
+1 NAME /Malcolm_III_Scotland/
+1 NAME Malcolm Canmore
+1 SEX M
+1 BIRT
+2 DATE 1058
+1 DEAT
+2 DATE 1093
+1 FAMC @F513@
+1 FAMS @F86@
+1 FAMS @F538@
+0 @I175@ INDI
+1 NAME /Berengeria_Navarre/
+1 SEX F
+1 FAMS @F87@
+0 @I176@ INDI
+1 NAME /Richard_Earl_Cornwall/
+1 SEX M
+1 FAMC @F63@
+0 @I177@ INDI
+1 NAME /Simon_de_Montfort/
+1 SEX M
+1 FAMS @F88@
+0 @I178@ INDI
+1 NAME /Eleanor/
+1 SEX F
+1 DEAT
+2 DATE 1275
+1 FAMC @F63@
+1 FAMS @F88@
+1 FAMS @F92@
+0 @I181@ INDI
+1 NAME /Joan/
+1 NAME Joanna
+1 SEX F
+1 DEAT
+2 DATE 1238
+1 FAMC @F63@
+1 FAMS @F90@
+0 @I182@ INDI
+1 NAME /Alexander_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1214
+1 DEAT
+2 DATE 1249
+1 FAMC @F521@
+1 FAMS @F90@
+1 FAMS @F515@
+0 @I183@ INDI
+1 NAME /Isabella_England/
+1 SEX F
+1 DEAT
+2 DATE 1241
+1 FAMC @F63@
+1 FAMS @F91@
+0 @I184@ INDI
+1 NAME /Frederick_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1220
+1 DEAT
+2 DATE 1250
+1 FAMS @F447@
+1 FAMS @F448@
+1 FAMC @F445@
+1 FAMS @F91@
+1 NOTE born 1194
+2 CONT King of Germany, Italy, and Burgandy from 1212
+2 CONT King of Sicily, King of Cyprus, and King of Jerusalem.
+0 @I185@ INDI
+1 NAME William /Marshall/
+1 NAME Earl of Pembroke, Earl of Strigu, William Mareschal
+1 SEX M
+1 FAMS @F92@
+0 @I186@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F93@
+0 @I187@ INDI
+1 NAME /Alexander_III_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1249
+1 DEAT
+2 DATE 1286
+1 FAMC @F515@
+1 FAMS @F93@
+0 @I188@ INDI
+1 NAME /Beatrice/
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F94@
+0 @I189@ INDI
+1 NAME /John_II_Duke_Brittany/
+1 SEX M
+1 FAMS @F94@
+0 @I190@ INDI
+1 NAME /Joanna/
+1 NAME Joan of the Tower
+1 SEX F
+1 DEAT
+2 DATE 1362
+1 FAMC @F4@
+1 FAMS @F517@
+0 @I192@ INDI
+1 NAME John /Beaufort/
+1 SEX M
+1 DEAT
+2 DATE 1444
+1 FAMC @F19@
+1 FAMS @F97@
+0 @I193@ INDI
+1 NAME Margaret /Beauchamp/
+1 SEX F
+1 FAMS @F97@
+0 @I195@ INDI
+1 NAME Margaret /Holland/
+1 SEX F
+1 FAMS @F19@
+0 @I196@ INDI
+1 NAME Joan /Beaufort/
+1 SEX F
+1 FAMC @F13@
+1 FAMS @F98@
+0 @I197@ INDI
+1 NAME Ralph /Neville/
+1 SEX M
+1 DEAT
+2 DATE 1425
+1 FAMS @F98@
+0 @I198@ INDI
+1 NAME /Richard_Earl_Salisbury/
+1 SEX M
+1 FAMC @F98@
+1 FAMS @F99@
+0 @I199@ INDI
+1 NAME Richard /Neville/
+1 NAME Earl of Warwick "The Kingmaker"
+1 SEX M
+1 DEAT
+2 DATE 1471
+1 FAMC @F99@
+1 FAMS @F122@
+0 @I200@ INDI
+1 NAME Anne /Stuart/
+1 SEX F
+1 BIRT
+2 DATE 1704
+1 DEAT
+2 DATE 1714
+1 FAMC @F78@
+1 FAMS @F101@
+1 NOTE All of her children in early childhood (or earlier).
+0 @I201@ INDI
+1 NAME /George_Denmark/
+1 SEX M
+1 DEAT
+2 DATE 1708
+1 FAMS @F101@
+1 NOTE Brother of the King of Denmark.
+0 @I202@ INDI
+1 NAME /Edward_Prince_Wales/
+1 SEX M
+1 DEAT
+2 DATE 1484
+1 FAMC @F32@
+0 @I203@ INDI
+1 NAME /Edward/
+1 DEAT
+2 DATE 1499
+1 NAME Earl of Warwick
+1 SEX M
+1 FAMC @F31@
+1 NOTE Executed for treason by Henry VII
+0 @I204@ INDI
+1 NAME /Eleanor/
+1 SEX F
+1 DEAT
+2 DATE 1282
+1 FAMC @F88@
+1 FAMS @F102@
+0 @I205@ INDI
+1 NAME /Llywelyn_ap_Gruffyd/
+1 NAME Llywelyn_II_Prince_Wales
+1 SEX M
+1 DEAT
+2 DATE 1282
+1 FAMS @F102@
+0 @I206@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F102@
+1 FAMS @F103@
+0 @I207@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F103@
+1 FAMS @F104@
+0 @I208@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F104@
+1 FAMS @F105@
+0 @I209@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F105@
+1 FAMS @F106@
+0 @I210@ INDI
+1 NAME /Unknown/
+1 SEX M
+1 FAMC @F106@
+1 FAMS @F107@
+0 @I211@ INDI
+1 NAME /Katherine_Aragon/
+1 SEX F
+1 FAMC @F109@
+1 FAMS @F108@
+1 FAMS @F113@
+0 @I212@ INDI
+1 NAME /Ferdinand_II_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1474
+1 DEAT
+2 DATE 1516
+1 FAMC @F399@
+1 FAMS @F109@
+1 NOTE Ferdinand of Aragon
+0 @I213@ INDI
+1 NAME /Isabella_Spain/
+1 SEX F
+1 BIRT
+2 DATE 1474
+1 DEAT
+2 DATE 1504
+1 FAMC @F398@
+1 FAMS @F109@
+0 @I214@ INDI
+1 NAME /James_III_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1460
+1 DEAT
+2 DATE 1488
+1 FAMC @F110@
+1 FAMS @F111@
+0 @I215@ INDI
+1 NAME Anne /Boleyn/
+1 SEX F
+1 DEAT
+2 DATE 1536
+1 FAMC @F383@
+1 FAMS @F114@
+0 @I216@ INDI
+1 NAME Jane /Seymour/
+1 SEX F
+1 FAMS @F115@
+0 @I217@ INDI
+1 NAME       /Mary_I/
+1 BIRT
+2 DATE 1553
+1 DEAT
+2 DATE 1558
+1 NAME Bloody Mary
+1 SEX F
+1 FAMC @F113@
+1 FAMS @F311@
+0 @I218@ INDI
+1 NAME /Elizabeth_I/
+1 SEX F
+1 BIRT
+2 DATE 1558
+1 DEAT
+2 DATE 1603
+1 FAMC @F114@
+0 @I219@ INDI
+1 NAME /Mary_Guise/
+1 NAME Mary of Guise-Lorraine
+1 SEX F
+1 DEAT
+2 DATE 1560
+1 FAMS @F54@
+1 NOTE Catholic
+0 @I220@ INDI
+1 NAME /Alexander/
+1 SEX M
+1 FAMC @F110@
+1 FAMS @F116@
+0 @I221@ INDI
+1 NAME /John_Duke_Albany/
+1 SEX M
+1 FAMC @F116@
+0 @I222@ INDI
+1 NAME /Margaret_Denmark/
+1 SEX F
+1 FAMS @F111@
+0 @I223@ INDI
+1 NAME /Francis_II_France/
+1 SEX M
+1 BIRT
+2 DATE 1559
+1 DEAT
+2 DATE 1560
+1 FAMC @F230@
+1 FAMS @F117@
+0 @I225@ INDI
+1 NAME /Earl_Bothwell/
+1 NAME James Hepburn
+1 SEX M
+1 FAMS @F119@
+0 @I226@ INDI
+1 NAME /Charles_VI_France/
+1 SEX M
+1 BIRT
+2 DATE 1380
+1 DEAT
+2 DATE 1422
+1 FAMC @F212@
+1 FAMS @F120@
+1 NOTE Occasionally insane
+0 @I227@ INDI
+1 NAME /Eleanor_Holland/
+1 SEX F
+1 FAMS @F35@
+0 @I228@ INDI
+1 NAME /Frederick_Prince_Wales/
+1 SEX M
+1 DEAT
+2 DATE 1751
+1 FAMC @F85@
+1 FAMS @F123@
+0 @I229@ INDI
+1 NAME /Augusta_Saxony-Gotha/
+1 SEX F
+1 FAMS @F123@
+0 @I230@ INDI
+1 NAME /Anne/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F124@
+0 @I231@ INDI
+1 NAME /William_IV_Orange/
+1 SEX M
+1 FAMS @F124@
+0 @I232@ INDI
+1 NAME /William_Duke_Cumberland/
+1 SEX M
+1 DEAT
+2 DATE 1765
+1 FAMC @F85@
+0 @I233@ INDI
+1 NAME /Augusta/
+1 SEX F
+1 FAMC @F123@
+1 FAMS @F125@
+0 @I234@ INDI
+1 NAME /William_Ferdinand_Duke_Brunswick-Wolfenbuttel/
+1 SEX M
+1 FAMS @F125@
+0 @I235@ INDI
+1 NAME /George_III/
+1 SEX M
+1 BIRT
+2 DATE 1760
+1 DEAT
+2 DATE 1820
+1 FAMC @F123@
+1 FAMS @F126@
+0 @I236@ INDI
+1 NAME /Charlotte_Mecklenburg-Strelitz/
+1 SEX F
+1 FAMS @F126@
+0 @I237@ INDI
+1 NAME /Amelia/
+1 SEX F
+1 FAMC @F85@
+0 @I238@ INDI
+1 NAME /Caroline/
+1 SEX F
+1 FAMC @F85@
+0 @I239@ INDI
+1 NAME /Mary/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F127@
+0 @I240@ INDI
+1 NAME /Louisa/
+1 SEX F
+1 FAMC @F85@
+1 FAMS @F128@
+0 @I241@ INDI
+1 NAME /Friederich_II_Landgrave_Hesse-Cassel/
+1 SEX M
+1 FAMS @F127@
+0 @I242@ INDI
+1 NAME /Friederich__V_Denmark_Norway/
+1 SEX M
+1 FAMS @F128@
+0 @I243@ INDI
+1 NAME /Christian_VII_Denmark/
+1 SEX M
+1 FAMC @F128@
+1 FAMS @F134@
+0 @I244@ INDI
+1 NAME /Caroline_Brunswick/
+1 SEX F
+1 FAMC @F125@
+1 FAMS @F129@
+0 @I245@ INDI
+1 NAME /George_IV/
+1 SEX M
+1 BIRT
+2 DATE 1820
+1 DEAT
+2 DATE 1830
+1 FAMC @F126@
+1 FAMS @F129@
+0 @I246@ INDI
+1 NAME /Frederick_Duke_York/
+1 SEX M
+1 FAMC @F126@
+0 @I247@ INDI
+1 NAME /William_IV/
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1837
+1 FAMC @F126@
+1 FAMS @F130@
+0 @I248@ INDI
+1 NAME /Edward_Duke_Kent/
+1 SEX M
+1 FAMC @F126@
+1 FAMS @F131@
+0 @I249@ INDI
+1 NAME /Ernest_Duke_Cumberland/
+1 SEX M
+1 FAMC @F126@
+0 @I250@ INDI
+1 NAME /Augustus_Duke_Sussex/
+1 SEX M
+1 FAMC @F126@
+0 @I251@ INDI
+1 NAME /Adolphus_Duke_Cambridge/
+1 SEX M
+1 DEAT
+2 DATE 1850
+1 FAMC @F126@
+1 FAMS @F137@
+0 @I253@ INDI
+1 NAME /Adelaide_Saxony-Meiningen/
+1 SEX F
+1 FAMS @F130@
+0 @I254@ INDI
+1 NAME /Victoria_Saxe-Coburg/
+1 SEX F
+1 FAMC @F544@
+1 FAMS @F131@
+0 @I255@ INDI
+1 NAME /Charlotte_Duchess_Kent/
+1 SEX F
+1 FAMC @F129@
+1 FAMS @F132@
+0 @I256@ INDI
+1 NAME /Leopold_Saxe-Coburg/
+1 NAME King of Belgium after 1831
+1 SEX M
+1 FAMS @F132@
+0 @I257@ INDI
+1 NAME /Queen Victoria/
+1 NAME Queen
+1 SEX F
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1901
+1 FAMC @F131@
+1 FAMS @F133@
+0 @I258@ INDI
+1 NAME /Albert_Saxe-Coburg/
+1 SEX M
+1 DEAT
+2 DATE 14 Dec 1861
+1 FAMC @F543@
+1 FAMS @F133@
+1 NOTE Nephew of Duchess of Kent and Leopold of Saxe-Coburg
+0 @I259@ INDI
+1 NAME /Edward_Augustus_Duke_York/
+1 SEX M
+1 DEAT
+2 DATE 1767
+1 FAMC @F123@
+0 @I260@ INDI
+1 NAME /William_Duke_Gloucester/
+1 SEX M
+1 DEAT
+2 DATE 1805
+1 FAMC @F123@
+1 FAMS @F135@
+0 @I261@ INDI
+1 NAME /Henry_Frederick_Duke_Cumberland/
+1 SEX M
+1 FAMC @F123@
+0 @I262@ INDI
+1 NAME /Caroline/
+1 SEX F
+1 DEAT
+2 DATE 1775
+1 FAMC @F123@
+1 FAMS @F134@
+0 @I263@ INDI
+1 NAME Maria /Walpole/
+1 SEX F
+1 FAMS @F135@
+0 @I264@ INDI
+1 NAME /Victoria/
+1 SEX F
+1 DEAT
+2 DATE 1901
+1 FAMC @F133@
+1 FAMS @F136@
+0 @I265@ INDI
+1 NAME /Frederick_III_Prussia/
+1 NAME King of Germany
+1 SEX M
+1 DEAT
+2 DATE 1888
+1 FAMS @F136@
+0 @I266@ INDI
+1 NAME /Edward_VII/
+1 SEX M
+1 BIRT
+2 DATE 1901
+1 DEAT
+2 DATE 1910
+1 FAMC @F133@
+1 FAMS @F139@
+0 @I267@ INDI
+1 NAME /Alice/
+1 SEX F
+1 FAMC @F133@
+1 FAMS @F141@
+0 @I268@ INDI
+1 NAME /Alfred_Duke_Edinburgh/
+1 SEX M
+1 DEAT
+2 DATE 1900
+1 FAMC @F133@
+0 @I269@ INDI
+1 NAME /Helena/
+1 SEX F
+1 FAMC @F133@
+1 FAMS @F142@
+0 @I270@ INDI
+1 NAME /Louise/
+1 SEX F
+1 FAMC @F133@
+1 FAMS @F143@
+0 @I271@ INDI
+1 NAME /Arthur_Duke_Connaught/
+1 SEX M
+1 FAMC @F133@
+0 @I272@ INDI
+1 NAME /Leopold_Duke_Albany/
+1 SEX M
+1 FAMC @F133@
+0 @I273@ INDI
+1 NAME /Beatrice/
+1 SEX F
+1 FAMC @F133@
+1 FAMS @F144@
+0 @I274@ INDI
+1 NAME /George_Duke_Cambridge/
+1 SEX M
+1 DEAT
+2 DATE 1904
+1 FAMC @F137@
+0 @I275@ INDI
+1 NAME /Mary_Adelaide/
+1 SEX F
+1 DEAT
+2 DATE 1900
+1 FAMC @F137@
+1 FAMS @F138@
+0 @I276@ INDI
+1 NAME /Francis_Duke_Teck/
+1 SEX M
+1 FAMS @F138@
+0 @I277@ INDI
+1 NAME /Mary_Teck/
+1 NAME Princess of Teck
+1 SEX F
+1 DEAT
+2 DATE 1953
+1 FAMC @F138@
+1 FAMS @F147@
+0 @I278@ INDI
+1 NAME /Alexandra_Denmark/
+1 SEX F
+1 FAMC @F140@
+1 FAMS @F139@
+0 @I279@ INDI
+1 NAME /Christian_IX_Denmark/
+1 SEX M
+1 FAMS @F140@
+0 @I280@ INDI
+1 NAME /Louis_Grand_Duke_Hesse-Darmstadt/
+1 SEX M
+1 FAMS @F141@
+0 @I281@ INDI
+1 NAME /Prince_Christian_Schleswig-Holstein/
+1 SEX M
+1 FAMS @F142@
+0 @I282@ INDI
+1 NAME /John_Duke_Argyll/
+1 SEX M
+1 DEAT
+2 DATE 1939
+1 FAMS @F143@
+0 @I283@ INDI
+1 NAME /Prince_Henry_Battenburg/
+1 SEX M
+1 FAMS @F144@
+0 @I284@ INDI
+1 NAME /Victoria_Eugenie/
+1 SEX F
+1 FAMC @F144@
+1 FAMS @F145@
+0 @I285@ INDI
+1 NAME /Alfonso_XIII_King_Spain/
+1 SEX M
+1 FAMS @F145@
+0 @I286@ INDI
+1 NAME /William_II_German_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1918
+1 FAMC @F136@
+1 FAMS @F146@
+0 @I287@ INDI
+1 NAME /William_Crown_Prince_Prussia/
+1 SEX M
+1 DEAT
+2 DATE 1951
+1 FAMC @F146@
+0 @I288@ INDI
+1 NAME /Albert_Victor_Duke_Clarence/
+1 SEX M
+1 DEAT
+2 DATE 1892
+1 FAMC @F139@
+0 @I289@ INDI
+1 NAME /George_V/
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 1936
+1 FAMC @F139@
+1 FAMS @F147@
+0 @I290@ INDI
+1 NAME /Louise_Princess_Royal/
+1 SEX F
+1 FAMC @F139@
+1 FAMS @F148@
+0 @I291@ INDI
+1 NAME /Maud/
+1 SEX F
+1 FAMC @F139@
+1 FAMS @F149@
+0 @I292@ INDI
+1 NAME /Alexander_Duke_Fife/
+1 SEX M
+1 FAMS @F148@
+0 @I293@ INDI
+1 NAME /Haakon_VII_Norway/
+1 SEX M
+1 FAMS @F149@
+0 @I294@ INDI
+1 NAME /Edward_VIII_Duke_Windsor/
+1 SEX M
+1 FAMC @F147@
+1 FAMS @F150@
+0 @I295@ INDI
+1 NAME /George_VI/
+1 NAME Albert "Bertie" Duke of York
+1 SEX M
+1 BIRT
+2 DATE 1936
+1 DEAT
+2 DATE 1952
+1 FAMC @F147@
+1 FAMS @F151@
+0 @I296@ INDI
+1 NAME Wallis /Simpson/
+1 SEX F
+1 DEAT
+2 DATE 1986
+1 FAMS @F150@
+0 @I297@ INDI
+1 NAME Elizabeth /Bowes-Lyon/
+1 NAME Queen Mother
+1 SEX F
+1 DEAT
+2 DATE 2002
+1 FAMC @F155@
+1 FAMS @F151@
+0 @I298@ INDI
+1 NAME /Elizabeth_II/
+1 SEX F
+1 BIRT
+2 DATE 21 April 1926
+1 FAMC @F151@
+1 FAMS @F152@
+0 @I299@ INDI
+1 NAME /Phillip_Mountbatten_Duke_Edinburgh/
+1 SEX M
+1 FAMC @F165@
+1 FAMS @F152@
+0 @I300@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 DEAT
+2 DATE 2002
+1 FAMC @F151@
+1 FAMS @F153@
+0 @I301@ INDI
+1 NAME /Anthony_Earl_Snowdon/
+1 NAME Armstrong-Jones
+1 SEX M
+1 FAMS @F153@
+0 @I302@ INDI
+1 NAME /David_Viscount_Linley/
+1 NAME Armstrong-Jones
+1 SEX M
+1 FAMC @F153@
+1 FAMS @F163@
+0 @I303@ INDI
+1 NAME Sarah /Armstrong-Jones/
+1 SEX F
+1 FAMC @F153@
+1 FAMS @F164@
+0 @I304@ INDI
+1 NAME /Charles/
+1 SEX M
+1 BIRT
+2 DATE 14 Nov 1948
+1 FAMC @F152@
+1 FAMS @F154@
+1 FAMS @F315@
+0 @I305@ INDI
+1 NAME Diana /Spencer/
+1 SEX F
+1 DEAT
+2 DATE 1997
+1 FAMC @F169@
+1 FAMS @F154@
+0 @I306@ INDI
+1 NAME /Earl_Strathmore/
+1 SEX M
+1 FAMS @F155@
+0 @I307@ INDI
+1 NAME /Mary/
+1 SEX F
+1 DEAT
+2 DATE 1965
+1 FAMC @F147@
+1 FAMS @F156@
+0 @I308@ INDI
+1 NAME /Henry_Viscount_Lascelles_Earl_Harewood/
+1 SEX M
+1 DEAT
+2 DATE 1942
+1 FAMS @F156@
+0 @I309@ INDI
+1 NAME /Henry_Duke_Gloucester/
+1 SEX M
+1 DEAT
+2 DATE 1974
+1 FAMC @F147@
+1 FAMS @F158@
+0 @I310@ INDI
+1 NAME /George_Duke_Kent/
+1 SEX M
+1 FAMC @F147@
+1 FAMS @F157@
+0 @I311@ INDI
+1 NAME /Marina_Princess_Greece/
+1 SEX F
+1 DEAT
+2 DATE 1968
+1 FAMS @F157@
+0 @I312@ INDI
+1 NAME Alice /Montagu-Douglas-Scot/
+1 SEX F
+1 FAMS @F158@
+0 @I313@ INDI
+1 NAME /William/
+1 SEX M
+1 DEAT
+2 DATE 1973
+1 FAMC @F158@
+0 @I314@ INDI
+1 NAME /Richard_Duke_Gloucester/
+1 SEX M
+1 FAMC @F158@
+0 @I315@ INDI
+1 NAME /Edward_Duke_Kent/
+1 SEX M
+1 FAMC @F157@
+0 @I316@ INDI
+1 NAME /Alexandra/
+1 SEX F
+1 FAMC @F157@
+0 @I317@ INDI
+1 NAME /Michael/
+1 SEX M
+1 FAMC @F157@
+0 @I318@ INDI
+1 NAME /George_Earl_Harewood/
+1 SEX M
+1 FAMC @F156@
+0 @I320@ INDI
+1 NAME /Anne/
+1 SEX F
+1 FAMC @F152@
+1 FAMS @F159@
+1 FAMS @F160@
+0 @I321@ INDI
+1 NAME /Andrew_Duke_York/
+1 SEX M
+1 FAMC @F152@
+1 FAMS @F161@
+0 @I322@ INDI
+1 NAME /Edward_Earl_Wessex/
+1 SEX M
+1 FAMC @F152@
+1 FAMS @F162@
+0 @I323@ INDI
+1 NAME Mark /Phillips/
+1 SEX M
+1 FAMS @F159@
+0 @I324@ INDI
+1 NAME Tim /Laurence/
+1 SEX M
+1 FAMS @F160@
+0 @I325@ INDI
+1 NAME Peter /Phillips/
+1 SEX M
+1 FAMC @F159@
+0 @I326@ INDI
+1 NAME Zara /Philips/
+1 SEX F
+1 FAMC @F159@
+0 @I327@ INDI
+1 NAME Sarah /Ferguson/
+1 SEX F
+1 FAMS @F161@
+0 @I328@ INDI
+1 NAME /Beatrice/
+1 SEX F
+1 FAMC @F161@
+0 @I329@ INDI
+1 NAME /Eugenie/
+1 SEX F
+1 FAMC @F161@
+0 @I330@ INDI
+1 NAME Sophie /Rhys-Jones/
+1 SEX F
+1 FAMS @F162@
+0 @I331@ INDI
+1 NAME Serena /Stanhope/
+1 SEX F
+1 FAMS @F163@
+0 @I332@ INDI
+1 NAME Daniel /Chatto/
+1 SEX M
+1 FAMS @F164@
+0 @I333@ INDI
+1 NAME Charles /Armstrong-Jones/
+1 SEX M
+1 FAMC @F163@
+0 @I334@ INDI
+1 NAME Margarita /Armstrong-Jones/
+1 SEX F
+1 FAMC @F163@
+0 @I335@ INDI
+1 NAME Samuel /Chatto/
+1 SEX M
+1 FAMC @F164@
+0 @I336@ INDI
+1 NAME Arthur /Chatto/
+1 SEX M
+1 FAMC @F164@
+0 @I337@ INDI
+1 NAME /Andrew_Greece/
+1 SEX M
+1 FAMS @F165@
+0 @I338@ INDI
+1 NAME /Alice_Battenberg/
+1 SEX F
+1 FAMC @F166@
+1 FAMS @F165@
+0 @I339@ INDI
+1 NAME /Louise_Battenbert_Marquess_Milford_Haven/
+1 SEX M
+1 FAMS @F166@
+0 @I340@ INDI
+1 NAME /Victoria_Hesse/
+1 SEX F
+1 FAMC @F141@
+1 FAMS @F166@
+0 @I341@ INDI
+1 NAME /Alix_Hesse/
+1 SEX F
+1 FAMC @F141@
+1 FAMS @F167@
+0 @I342@ INDI
+1 NAME /Nicholas_II_Tsar_Russia/
+1 SEX M
+1 BIRT
+2 DATE 1868
+1 DEAT
+2 DATE 1918
+1 FAMS @F167@
+0 @I343@ INDI
+1 NAME /William/
+1 SEX M
+1 BIRT
+2 DATE 21 Jun 1982
+1 FAMC @F154@
+1 FAMS @F560@
+0 @I344@ INDI
+1 NAME /Harry/
+1 NAME Henry
+1 SEX M
+1 FAMC @F154@
+0 @I345@ INDI
+1 NAME /Edward_VI/
+1 SEX M
+1 BIRT
+2 DATE 1547
+1 DEAT
+2 DATE 1553
+1 FAMC @F115@
+0 @I346@ INDI
+1 NAME /Anne_Cleves/
+1 SEX F
+1 FAMS @F168@
+0 @I347@ INDI
+1 NAME /Louise/
+1 SEX F
+1 FAMC @F162@
+0 @I348@ INDI
+1 NAME /Earl_Spencer/
+1 SEX M
+1 FAMS @F169@
+0 @I349@ INDI
+1 NAME /Geoffrey/
+1 SEX M
+1 FAMC @F72@
+0 @I350@ INDI
+1 NAME Mary /Grey/
+1 SEX F
+1 FAMC @F51@
+0 @I351@ INDI
+1 NAME John /Dudley/
+1 NAME Duke of Northumberland
+1 SEX M
+1 FAMS @F170@
+0 @I352@ INDI
+1 NAME Edward /Seymour/
+1 NAME Earl of Hertford
+1 SEX M
+1 DEAT
+2 DATE 1621
+1 FAMC @F172@
+1 FAMS @F171@
+0 @I353@ INDI
+1 NAME Edward /Seymour/
+1 NAME Duke of Somerset
+1 SEX M
+1 FAMS @F172@
+0 @I354@ INDI
+1 NAME Anne /Stanhope/
+1 SEX F
+1 FAMS @F172@
+0 @I355@ INDI
+1 NAME Edward /Seymour/
+1 NAME Lord Beauchamp
+1 SEX M
+1 DEAT
+2 DATE 1612
+1 FAMC @F171@
+1 FAMS @F173@
+0 @I356@ INDI
+1 NAME William /Seymour/
+1 NAME Duke of Somerset & Earl of Hertford
+1 SEX M
+1 DEAT
+2 DATE 1660
+1 FAMC @F173@
+0 @I357@ INDI
+1 NAME Honora /Rogers/
+1 SEX F
+1 FAMS @F173@
+0 @I358@ INDI
+1 NAME Cecilia /Cavendish-Bentinck/
+1 SEX F
+1 FAMS @F155@
+0 @I360@ INDI
+1 NAME Maria /Sobieski/
+1 SEX F
+1 FAMS @F81@
+0 @I361@ INDI
+1 NAME /Louise/
+1 SEX F
+1 DEAT
+2 DATE 1824
+1 FAMS @F175@
+0 @I362@ INDI
+1 NAME /Baldwin_V/
+1 SEX M
+1 FAMC @F177@
+1 FAMS @F176@
+0 @I363@ INDI
+1 NAME /Baldwin_IV/
+1 SEX M
+1 FAMC @F178@
+1 FAMS @F177@
+0 @I364@ INDI
+1 NAME /Arnulf_II/
+1 SEX M
+1 FAMC @F179@
+1 FAMS @F178@
+0 @I365@ INDI
+1 NAME /Baldwin_III/
+1 SEX M
+1 FAMC @F180@
+1 FAMS @F179@
+0 @I366@ INDI
+1 NAME /Arnulf_I_Count_Flanders/
+1 SEX M
+1 FAMC @F181@
+1 FAMS @F180@
+0 @I367@ INDI
+1 NAME /Baldwin_II_Count_Flanders/
+1 SEX M
+1 DEAT
+2 DATE 0918
+1 FAMS @F181@
+0 @I368@ INDI
+1 NAME /Elfrida/
+1 SEX F
+1 FAMC @F183@
+1 FAMS @F181@
+0 @I369@ INDI
+1 NAME /Alfred_Great/
+1 SEX M
+1 BIRT
+2 DATE 0871
+1 DEAT
+2 DATE 0899
+1 FAMC @F185@
+1 FAMS @F183@
+0 @I370@ INDI
+1 NAME /Ealthswith/
+1 SEX F
+1 FAMS @F183@
+0 @I371@ INDI
+1 NAME /Athelflaed/
+1 SEX F
+1 FAMC @F183@
+1 FAMS @F194@
+0 @I372@ INDI
+1 NAME /Edward_Elder/
+1 SEX M
+1 BIRT
+2 DATE 0899
+1 DEAT
+2 DATE 0924
+1 FAMC @F183@
+1 FAMS @F195@
+0 @I373@ INDI
+1 NAME /Athelwolf/
+1 SEX M
+1 BIRT
+2 DATE 0839
+1 DEAT
+2 DATE 0858
+1 FAMC @F186@
+1 FAMS @F185@
+0 @I374@ INDI
+1 NAME /Egbert_Wessex/
+1 SEX M
+1 BIRT
+2 DATE 0802
+1 DEAT
+2 DATE 0839
+1 FAMS @F186@
+0 @I375@ INDI
+1 NAME  /Athelbald/
+1 SEX M
+1 BIRT
+2 DATE 0858
+1 DEAT
+2 DATE 0860
+1 FAMC @F185@
+0 @I376@ INDI
+1 NAME   /Athelbert/
+1 SEX M
+1 BIRT
+2 DATE 0860
+1 DEAT
+2 DATE 0866
+1 FAMC @F185@
+1 FAMS @F187@
+0 @I377@ INDI
+1 NAME /Athelred_I/
+1 SEX M
+1 BIRT
+2 DATE 0866
+1 DEAT
+2 DATE 0871
+1 FAMC @F185@
+0 @I378@ INDI
+1 NAME /Athelhelm/
+1 SEX M
+1 FAMC @F187@
+1 FAMS @F188@
+0 @I379@ INDI
+1 NAME /Athelgyth/
+1 SEX F
+1 FAMS @F188@
+0 @I380@ INDI
+1 NAME /Athelweard_Chronicler/
+1 SEX M
+1 DEAT
+2 DATE 0998
+1 FAMC @F196@
+1 FAMS @F206@
+0 @I381@ INDI
+1 NAME /Athelmaer/
+1 SEX M
+1 DEAT
+2 DATE 1016
+1 FAMC @F206@
+1 FAMS @F190@
+0 @I382@ INDI
+1 NAME /Wulfnoth/
+1 SEX M
+1 FAMC @F190@
+1 FAMS @F191@
+0 @I383@ INDI
+1 NAME /Godwin_Earl_Wessex/
+1 SEX M
+1 DEAT
+2 DATE 1053
+1 FAMC @F191@
+1 FAMS @F192@
+0 @I384@ INDI
+1 NAME   /Harold_II/
+1 SEX M
+1 BIRT
+2 DATE 1066
+1 DEAT
+2 DATE 1066
+1 FAMC @F192@
+0 @I385@ INDI
+1 NAME /Edith/
+1 SEX F
+1 FAMC @F192@
+1 FAMS @F193@
+0 @I386@ INDI
+1 NAME /Edward_Confessor/
+1 SEX M
+1 BIRT
+2 DATE 1042
+1 DEAT
+2 DATE 1066
+1 FAMC @F201@
+1 FAMS @F193@
+0 @I387@ INDI
+1 NAME /Athelred_Mercia/
+1 SEX M
+1 DEAT
+2 DATE 0911
+1 FAMS @F194@
+0 @I388@ INDI
+1 NAME /Elfwynn/
+1 SEX M
+1 FAMC @F194@
+0 @I389@ INDI
+1 NAME /Athelstan/
+1 SEX M
+1 DEAT
+2 DATE 0939
+1 FAMC @F195@
+1 FAMS @F416@
+0 @I390@ INDI
+1 NAME /Edwin/
+1 SEX M
+1 FAMC @F195@
+0 @I391@ INDI
+1 NAME /Elfweard/
+1 SEX M
+1 FAMC @F195@
+0 @I392@ INDI
+1 NAME /Edmund_I/
+1 SEX M
+1 DEAT
+2 DATE 0946
+1 FAMC @F195@
+1 FAMS @F198@
+0 @I393@ INDI
+1 NAME /Eadred/
+1 SEX M
+1 DEAT
+2 DATE 0955
+1 FAMC @F195@
+0 @I394@ INDI
+1 NAME /Athelfrith/
+1 SEX M
+1 FAMC @F188@
+1 FAMS @F196@
+0 @I395@ INDI
+1 NAME /Elgiva/
+1 SEX F
+1 DEAT
+2 DATE 0959
+1 FAMC @F196@
+1 FAMS @F197@
+0 @I396@ INDI
+1 NAME /Edwy/
+1 SEX M
+1 BIRT
+2 DATE 0955
+1 DEAT
+2 DATE 0959
+1 FAMC @F198@
+1 FAMS @F197@
+0 @I397@ INDI
+1 NAME        /Edgar/
+1 SEX M
+1 BIRT
+2 DATE 0959
+1 DEAT
+2 DATE 0975
+1 FAMC @F198@
+1 FAMS @F199@
+0 @I398@ INDI
+1 NAME /Edgar_Martyr/
+1 SEX M
+1 FAMC @F199@
+0 @I399@ INDI
+1 NAME /Edmund/
+1 SEX M
+1 FAMC @F199@
+0 @I400@ INDI
+1 NAME /Athelred_Unready/
+1 SEX M
+1 BIRT
+2 DATE 0978
+1 DEAT
+2 DATE 1016
+1 FAMC @F199@
+1 FAMS @F200@
+1 FAMS @F201@
+0 @I401@ INDI
+1 NAME /Elgiva/
+1 SEX F
+1 DEAT
+2 DATE 1002
+1 FAMS @F200@
+0 @I402@ INDI
+1 NAME /Emma_Normandy/
+1 SEX F
+1 DEAT
+2 DATE 1052
+1 FAMC @F549@
+1 FAMS @F201@
+1 FAMS @F205@
+0 @I403@ INDI
+1 NAME /Edmund_II/
+1 NAME Edmund Ironside
+1 SEX M
+1 DEAT
+2 DATE 1016
+1 FAMC @F200@
+1 FAMS @F202@
+0 @I404@ INDI
+1 NAME /Edward_Exile/
+1 SEX M
+1 DEAT
+2 DATE 1057
+1 FAMC @F202@
+1 FAMS @F203@
+0 @I405@ INDI
+1 NAME /Edgar_Atheling/
+1 SEX M
+1 FAMC @F203@
+1 FAMS @F514@
+0 @I406@ INDI
+1 NAME /Alfred/
+1 SEX M
+1 DEAT
+2 DATE 1036
+1 FAMC @F201@
+0 @I407@ INDI
+1 NAME /Godgifu/
+1 SEX F
+1 FAMC @F201@
+1 FAMS @F204@
+0 @I408@ INDI
+1 NAME /Drogo_Count_Amiens/
+1 SEX M
+1 FAMS @F204@
+0 @I409@ INDI
+1 NAME /Ralph_Earl_Hereford/
+1 SEX M
+1 FAMC @F204@
+0 @I410@ INDI
+1 NAME          /Cnut/
+1 NAME King of Denmark & England
+1 SEX M
+1 BIRT
+2 DATE 1017
+1 DEAT
+2 DATE 1035
+1 FAMS @F205@
+0 @I411@ INDI
+1 NAME Harold /Harefoot/
+1 SEX M
+1 BIRT
+2 DATE 1037
+1 DEAT
+2 DATE 1040
+1 FAMC @F205@
+0 @I412@ INDI
+1 NAME /Harthacnut/
+1 SEX M
+1 BIRT
+2 DATE 1040
+1 DEAT
+2 DATE 1042
+1 FAMC @F205@
+0 @I413@ INDI
+1 NAME /St_Margaret/
+1 SEX F
+1 DEAT
+2 DATE 1093
+1 FAMC @F203@
+1 FAMS @F86@
+0 @I414@ INDI
+1 NAME /Isabella_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1435
+1 FAMS @F120@
+0 @I415@ INDI
+1 NAME /Duke_Orleans/
+1 SEX M
+1 FAMS @F207@
+0 @I416@ INDI
+1 NAME /Charles_VII_France/
+1 SEX M
+1 BIRT
+2 DATE 1422
+1 DEAT
+2 DATE 1461
+1 FAMC @F120@
+1 FAMS @F208@
+0 @I417@ INDI
+1 NAME /Louis_XI_France/
+1 NAME Spider King
+1 SEX M
+1 BIRT
+2 DATE 1461
+1 DEAT
+2 DATE 1483
+1 FAMC @F208@
+1 FAMS @F528@
+1 FAMS @F209@
+0 @I418@ INDI
+1 NAME /Charles_Duke_Berry/
+1 SEX M
+1 FAMC @F208@
+0 @I419@ INDI
+1 NAME /Charles_VIII/
+1 SEX M
+1 BIRT
+2 DATE 1488
+1 DEAT
+2 DATE 1498
+1 FAMC @F209@
+1 FAMS @F393@
+0 @I420@ INDI
+1 NAME /Anne_France/
+1 SEX F
+1 DEAT
+2 DATE 1522
+1 FAMC @F209@
+1 FAMS @F210@
+1 NOTE Regent of France
+0 @I421@ INDI
+1 NAME /Jeanne/
+1 NAME Joan
+1 SEX F
+1 DEAT
+2 DATE 1505
+1 FAMC @F209@
+1 FAMS @F239@
+0 @I422@ INDI
+1 NAME /Peter_II_Beaujeu_Duke_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1503
+1 FAMS @F210@
+0 @I424@ INDI
+1 NAME /Charles_V_France/
+1 NAME the Wise
+1 SEX M
+1 BIRT
+2 DATE 1364
+1 DEAT
+2 DATE 1380
+1 FAMC @F213@
+1 FAMS @F212@
+0 @I425@ INDI
+1 NAME /Louis_Valois_Duke_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1407
+1 FAMC @F212@
+1 FAMS @F222@
+1 NOTE Assassinated by Jean_sans_Peur
+2 CONT Founder of the line Valois-Orleans.
+0 @I426@ INDI
+1 NAME /John_II_France/
+1 NAME The Good
+1 SEX M
+1 BIRT
+2 DATE 1350
+1 DEAT
+2 DATE 1364
+1 FAMC @F214@
+1 FAMS @F213@
+1 FAMS @F244@
+0 @I427@ INDI
+1 NAME /Philip_VI_France/
+1 SEX M
+1 BIRT
+2 DATE 1328
+1 DEAT
+2 DATE 1350
+1 FAMC @F215@
+1 FAMS @F214@
+1 FAMS @F251@
+0 @I428@ INDI
+1 NAME /Charles_Count_Valois/
+1 SEX M
+1 DEAT
+2 DATE 1325
+1 FAMC @F247@
+1 FAMS @F215@
+1 FAMS @F248@
+1 FAMS @F379@
+0 @I429@ INDI
+1 NAME /Louis_Duke_Anjou/
+1 SEX M
+1 DEAT
+2 DATE 1384
+1 FAMC @F213@
+1 FAMS @F245@
+0 @I430@ INDI
+1 NAME /John_Duke_Berry/
+1 SEX M
+1 FAMC @F213@
+0 @I431@ INDI
+1 NAME /Philip_Duke_Burgandy/
+1 NAME the Bold
+1 SEX M
+1 DEAT
+2 DATE 1404
+1 FAMC @F213@
+1 FAMS @F216@
+0 @I432@ INDI
+1 NAME /Jean_sans_Peur/
+1 NAME John the Fearless, Count of Nevers
+1 SEX M
+1 DEAT
+2 DATE 1419
+1 FAMC @F216@
+1 FAMS @F217@
+0 @I433@ INDI
+1 NAME /Philip_III_Duke_Burgandy/
+1 NAME the Good
+1 SEX M
+1 DEAT
+2 DATE 1467
+1 FAMC @F217@
+1 FAMS @F218@
+0 @I434@ INDI
+1 NAME /Charles_Duke_Burgandy/
+1 NAME the Bold
+1 SEX M
+1 DEAT
+2 DATE 1477
+1 FAMC @F218@
+1 FAMS @F219@
+0 @I435@ INDI
+1 NAME /Mary_Duchess_Burgundy/
+1 SEX F
+1 FAMC @F219@
+1 FAMS @F220@
+0 @I436@ INDI
+1 NAME /Maximilian_I_Roman_Emperor_Archduke_Austria/
+1 SEX M
+1 BIRT
+2 DATE 1483
+1 DEAT
+2 DATE 1519
+1 FAMC @F314@
+1 FAMS @F220@
+0 @I437@ INDI
+1 NAME /Philip_I_Castile_Archduke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1506
+1 FAMC @F220@
+1 FAMS @F221@
+0 @I438@ INDI
+1 NAME /Juana_Castile_Aragon/
+1 NAME the Mad
+1 SEX F
+1 DEAT
+2 DATE 1555
+1 FAMC @F109@
+1 FAMS @F221@
+0 @I439@ INDI
+1 NAME /Charles_V_Roman_Emperor_I_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1516
+1 DEAT
+2 DATE 1556
+1 FAMC @F221@
+1 FAMS @F312@
+0 @I440@ INDI
+1 NAME /Charles_Duke_Orleans/
+1 SEX M
+1 FAMC @F222@
+1 FAMS @F223@
+0 @I441@ INDI
+1 NAME /John_Count_Angouleme/
+1 SEX M
+1 FAMC @F222@
+1 FAMS @F224@
+0 @I442@ INDI
+1 NAME /Louis_XII/
+1 NAME Duke of Orleans
+1 SEX M
+1 BIRT
+2 DATE 1498
+1 DEAT
+2 DATE 1515
+1 FAMC @F223@
+1 FAMS @F239@
+1 FAMS @F240@
+1 FAMS @F241@
+0 @I443@ INDI
+1 NAME /Charles_Count_Angouleme/
+1 SEX M
+1 DEAT
+2 DATE 1496
+1 FAMC @F224@
+1 FAMS @F225@
+0 @I444@ INDI
+1 NAME /Louisa_Savoy/
+1 SEX F
+1 DEAT
+2 DATE 1531
+1 FAMC @F226@
+1 FAMS @F225@
+0 @I445@ INDI
+1 NAME /Philip_II_Duke_Savoy/
+1 SEX M
+1 DEAT
+2 DATE 1497
+1 FAMS @F226@
+0 @I446@ INDI
+1 NAME /Francis_I/
+1 SEX M
+1 BIRT
+2 DATE 1515
+1 DEAT
+2 DATE 1547
+1 FAMC @F225@
+1 FAMS @F229@
+1 FAMS @F227@
+0 @I447@ INDI
+1 NAME /Claudia_Valois_Duchess_Brittany/
+1 SEX F
+1 DEAT
+2 DATE 1524
+1 FAMC @F240@
+1 FAMS @F227@
+0 @I448@ INDI
+1 NAME /Henry_II_France/
+1 SEX M
+1 BIRT
+2 DATE 1547
+1 DEAT
+2 DATE 1559
+1 FAMC @F227@
+1 FAMS @F230@
+0 @I449@ INDI
+1 NAME /Eleanor_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1558
+1 FAMC @F221@
+1 FAMS @F229@
+0 @I450@ INDI
+1 NAME /Catherine_Medici/
+1 SEX F
+1 DEAT
+2 DATE 1589
+1 FAMS @F230@
+0 @I451@ INDI
+1 NAME /Magdelaine_France/
+1 SEX F
+1 FAMC @F227@
+1 FAMS @F231@
+0 @I452@ INDI
+1 NAME /Marguerite/
+1 SEX F
+1 FAMC @F227@
+1 FAMS @F232@
+0 @I453@ INDI
+1 NAME /Duke_Savoy/
+1 SEX M
+1 FAMS @F232@
+0 @I454@ INDI
+1 NAME /Charles_IX/
+1 SEX M
+1 BIRT
+2 DATE 1560
+1 DEAT
+2 DATE 1574
+1 FAMC @F230@
+0 @I455@ INDI
+1 NAME /Henry_III_France/
+1 SEX M
+1 BIRT
+2 DATE 1574
+1 DEAT
+2 DATE 1589
+1 FAMC @F230@
+0 @I458@ INDI
+1 NAME /Claude/
+1 SEX F
+1 FAMC @F230@
+1 FAMS @F234@
+0 @I459@ INDI
+1 NAME /Duke_Lorraine/
+1 SEX M
+1 FAMS @F234@
+0 @I460@ INDI
+1 NAME /Marguerite_Valois/
+1 SEX F
+1 DEAT
+2 DATE 1613
+1 FAMC @F230@
+0 @I461@ INDI
+1 NAME /Henry_IV_Bourbon_Henry_III_Navarre/
+1 NAME Henry IV of France
+1 SEX M
+1 BIRT
+2 DATE 1589
+1 DEAT
+2 DATE 1610
+1 FAMC @F273@
+1 FAMS @F237@
+0 @I462@ INDI
+1 NAME /Rene/
+1 SEX F
+1 FAMC @F240@
+1 FAMS @F242@
+0 @I463@ INDI
+1 NAME /Duke_Ferrara/
+1 SEX M
+1 FAMS @F242@
+0 @I464@ INDI
+1 NAME /Mary_Medici/
+1 SEX F
+1 DEAT
+2 DATE 1642
+1 FAMS @F237@
+0 @I465@ INDI
+1 NAME /Louis_XIII/
+1 SEX M
+1 BIRT
+2 DATE 1610
+1 DEAT
+2 DATE 1643
+1 FAMC @F237@
+1 FAMS @F238@
+0 @I466@ INDI
+1 NAME /Louis_XIV/
+1 NAME the Sun King
+1 SEX M
+1 BIRT
+2 DATE 1643
+1 DEAT
+2 DATE 1715
+1 FAMC @F238@
+1 FAMS @F277@
+1 FAMS @F282@
+0 @I467@ INDI
+1 NAME /Anne_Duchess_Brittany/
+1 SEX F
+1 DEAT
+2 DATE 1514
+1 FAMC @F395@
+1 FAMS @F240@
+1 FAMS @F393@
+0 @I468@ INDI
+1 NAME /Valentina_Visconti_Milan/
+1 SEX F
+1 DEAT
+2 DATE 1408
+1 FAMC @F243@
+1 FAMS @F222@
+0 @I469@ INDI
+1 NAME /Marie_Anjou/
+1 SEX F
+1 DEAT
+2 DATE 1463
+1 FAMC @F246@
+1 FAMS @F208@
+0 @I470@ INDI
+1 NAME /Marie_Cleves/
+1 SEX F
+1 FAMS @F223@
+0 @I471@ INDI
+1 NAME /Jeanne_Bourbon/
+1 SEX F
+1 FAMC @F378@
+1 FAMS @F212@
+1 NOTE Occasionally insane.
+0 @I472@ INDI
+1 NAME /John_Visconti_Milan/
+1 SEX M
+1 FAMS @F243@
+0 @I473@ INDI
+1 NAME /Bonne_Luxemburg/
+1 NAME the Good
+1 SEX F
+1 FAMS @F213@
+0 @I474@ INDI
+1 NAME /Joan_Bologne/
+1 SEX F
+1 FAMS @F244@
+0 @I475@ INDI
+1 NAME /Marguerite_II_Countess_Flanders/
+1 SEX F
+1 FAMS @F216@
+0 @I476@ INDI
+1 NAME /Marie_Chatillon/
+1 SEX F
+1 FAMS @F245@
+0 @I477@ INDI
+1 NAME /Louis_II_Naples_Duke_Anjou/
+1 SEX M
+1 FAMC @F245@
+1 FAMS @F246@
+0 @I478@ INDI
+1 NAME /Iolanda_Aragon/
+1 SEX F
+1 FAMS @F246@
+0 @I479@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 BIRT
+2 DATE 1348
+1 FAMC @F213@
+1 FAMS @F243@
+0 @I480@ INDI
+1 NAME /Philip_III_France/
+1 NAME the Bold
+1 SEX M
+1 BIRT
+2 DATE 1270
+1 DEAT
+2 DATE 1285
+1 FAMC @F254@
+1 FAMS @F247@
+1 FAMS @F253@
+0 @I481@ INDI
+1 NAME /Catherine_Constantinople/
+1 SEX F
+1 DEAT
+2 DATE 1308
+1 FAMS @F248@
+0 @I482@ INDI
+1 NAME /Marguerite_Anjou/
+1 SEX F
+1 DEAT
+2 DATE 1299
+1 FAMS @F215@
+0 @I483@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 DEAT
+2 DATE 1309
+1 FAMC @F215@
+1 FAMS @F249@
+0 @I484@ INDI
+1 NAME /John_III_Duke_Brittany/
+1 SEX M
+1 FAMS @F249@
+0 @I485@ INDI
+1 NAME /Jeanne_Valois/
+1 SEX F
+1 DEAT
+2 DATE 1345
+1 FAMC @F215@
+1 FAMS @F250@
+0 @I486@ INDI
+1 NAME /William_III_Count_Hainault/
+1 SEX M
+1 FAMS @F250@
+0 @I487@ INDI
+1 NAME /Joan_Burgandy/
+1 SEX F
+1 DEAT
+2 DATE 1348
+1 FAMS @F214@
+0 @I488@ INDI
+1 NAME /Blanch_Navarre/
+1 SEX F
+1 DEAT
+2 DATE 1398
+1 FAMC @F271@
+1 FAMS @F251@
+0 @I489@ INDI
+1 NAME /Isabella_Aragon/
+1 SEX F
+1 DEAT
+2 DATE 1271
+1 FAMS @F247@
+0 @I490@ INDI
+1 NAME /Maria_Brabant/
+1 SEX F
+1 DEAT
+2 DATE 1321
+1 FAMS @F253@
+0 @I491@ INDI
+1 NAME /Louis_IX_France/
+1 NAME Saint Louis
+1 SEX M
+1 BIRT
+2 DATE 1226
+1 DEAT
+2 DATE 1270
+1 FAMC @F260@
+1 FAMS @F254@
+0 @I492@ INDI
+1 NAME /Marguerite_Provence/
+1 SEX F
+1 DEAT
+2 DATE 1295
+1 FAMS @F254@
+0 @I493@ INDI
+1 NAME /John_Tristan_Count_Valois/
+1 SEX M
+1 DEAT
+2 DATE 1270
+1 FAMC @F254@
+0 @I494@ INDI
+1 NAME /Agnes/
+1 SEX F
+1 DEAT
+2 DATE 1327
+1 FAMC @F254@
+1 FAMS @F255@
+0 @I495@ INDI
+1 NAME /Robert_II_Duke_Burgandy/
+1 SEX M
+1 FAMS @F255@
+0 @I496@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 DEAT
+2 DATE 1271
+1 FAMC @F254@
+1 FAMS @F256@
+0 @I497@ INDI
+1 NAME /Theobald_II_Navarre/
+1 SEX M
+1 FAMS @F256@
+0 @I498@ INDI
+1 NAME /Robert_Count_Clermont/
+1 SEX M
+1 DEAT
+2 DATE 1317
+1 FAMC @F254@
+1 FAMS @F257@
+0 @I499@ INDI
+1 NAME /Beatrice_Bourbon/
+1 SEX F
+1 FAMS @F257@
+0 @I500@ INDI
+1 NAME /Marguerite/
+1 SEX F
+1 DEAT
+2 DATE 1272
+1 FAMC @F254@
+1 FAMS @F258@
+0 @I501@ INDI
+1 NAME /John_II_Duke_Brabant/
+1 SEX M
+1 FAMS @F258@
+0 @I502@ INDI
+1 NAME /Blanche/
+1 SEX F
+1 DEAT
+2 DATE 1321
+1 FAMC @F254@
+1 FAMS @F259@
+0 @I503@ INDI
+1 NAME /Ferdinand_Prince_Castile/
+1 SEX M
+1 FAMS @F259@
+0 @I504@ INDI
+1 NAME /Louis_VIII_France/
+1 NAME Lion Heart
+1 SEX M
+1 BIRT
+2 DATE 1223
+1 DEAT
+2 DATE 1226
+1 FAMC @F261@
+1 FAMS @F260@
+0 @I505@ INDI
+1 NAME /Blanche_Princess_Castile/
+1 SEX F
+1 DEAT
+2 DATE 1252
+1 FAMS @F260@
+0 @I506@ INDI
+1 NAME /Philip_II_Augustus/
+1 SEX M
+1 BIRT
+2 DATE 1180
+1 DEAT
+2 DATE 1223
+1 FAMC @F267@
+1 FAMS @F261@
+1 FAMS @F262@
+1 FAMS @F263@
+0 @I507@ INDI
+1 NAME /Isabelle_Hainault/
+1 SEX F
+1 DEAT
+2 DATE 1189
+1 FAMS @F261@
+0 @I508@ INDI
+1 NAME /Ingeburg_Denmark/
+1 SEX F
+1 FAMS @F262@
+0 @I509@ INDI
+1 NAME /Agnes_Merania/
+1 SEX F
+1 FAMS @F263@
+0 @I510@ INDI
+1 NAME /Louis_VII_France/
+1 SEX M
+1 BIRT
+2 DATE 1137
+1 DEAT
+2 DATE 1180
+1 FAMC @F300@
+1 FAMS @F264@
+1 FAMS @F267@
+0 @I511@ INDI
+1 NAME /Marie/
+1 SEX F
+1 DEAT
+2 DATE 1198
+1 FAMC @F264@
+1 FAMS @F265@
+0 @I512@ INDI
+1 NAME /Alice/
+1 SEX F
+1 DEAT
+2 DATE 1195
+1 FAMC @F264@
+1 FAMS @F266@
+0 @I513@ INDI
+1 NAME /Henry_I_Champagne/
+1 SEX M
+1 FAMS @F265@
+0 @I514@ INDI
+1 NAME /Theobald_I_Chartres/
+1 SEX M
+1 FAMS @F266@
+0 @I515@ INDI
+1 NAME /Alice_Champagne/
+1 SEX F
+1 DEAT
+2 DATE 1206
+1 FAMS @F267@
+0 @I516@ INDI
+1 NAME /Philip_IV/
+1 NAME the Fair
+1 SEX M
+1 BIRT
+2 DATE 1285
+1 DEAT
+2 DATE 1314
+1 FAMC @F247@
+1 FAMS @F268@
+0 @I517@ INDI
+1 NAME /Joan_I_Navarre/
+1 SEX F
+1 DEAT
+2 DATE 1305
+1 FAMS @F268@
+0 @I518@ INDI
+1 NAME /Charles_IV/
+1 SEX M
+1 BIRT
+2 DATE 1322
+1 DEAT
+2 DATE 1328
+1 FAMC @F268@
+0 @I519@ INDI
+1 NAME /Philip_V/
+1 SEX M
+1 BIRT
+2 DATE 1316
+1 DEAT
+2 DATE 1322
+1 FAMC @F268@
+0 @I520@ INDI
+1 NAME /Louis_X_France/
+1 SEX M
+1 BIRT
+2 DATE 1314
+1 DEAT
+2 DATE 1316
+1 FAMC @F268@
+1 FAMS @F269@
+1 FAMS @F270@
+0 @I521@ INDI
+1 NAME /Marguerite_Burgandy/
+1 SEX F
+1 DEAT
+2 DATE 1315
+1 FAMS @F269@
+0 @I522@ INDI
+1 NAME /Clemence_Hungary/
+1 SEX F
+1 DEAT
+2 DATE 1348
+1 FAMS @F270@
+0 @I523@ INDI
+1 NAME /Joan_II_Navarre/
+1 SEX F
+1 DEAT
+2 DATE 1349
+1 FAMC @F269@
+1 FAMS @F271@
+0 @I524@ INDI
+1 NAME /Philip_Navarre/
+1 SEX M
+1 DEAT
+2 DATE 1343
+1 FAMS @F271@
+0 @I525@ INDI
+1 NAME /Marguerite_Rohan/
+1 SEX F
+1 FAMS @F224@
+0 @I526@ INDI
+1 NAME /Marguerie_Duchess_Berry/
+1 SEX F
+1 DEAT
+2 DATE 1549
+1 FAMC @F225@
+1 FAMS @F272@
+0 @I527@ INDI
+1 NAME /Henry_II_Navarre/
+1 SEX M
+1 DEAT
+2 DATE 1555
+1 FAMS @F272@
+0 @I528@ INDI
+1 NAME /Joan_III_Navarre/
+1 SEX F
+1 DEAT
+2 DATE 1572
+1 FAMC @F272@
+1 FAMS @F273@
+0 @I529@ INDI
+1 NAME /Antoine_Bourbon_Duke_Vendome/
+1 SEX M
+1 DEAT
+2 DATE 1562
+1 FAMS @F273@
+0 @I531@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 DEAT
+2 DATE 1644
+1 FAMC @F237@
+1 FAMS @F274@
+0 @I532@ INDI
+1 NAME /Philip_IV_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1621
+1 DEAT
+2 DATE 1665
+1 FAMC @F275@
+1 FAMS @F274@
+1 FAMS @F327@
+0 @I533@ INDI
+1 NAME /Philip_III_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1556
+1 DEAT
+2 DATE 1621
+1 FAMC @F323@
+1 FAMS @F275@
+0 @I534@ INDI
+1 NAME /Anna_Hapsburg_Princess_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1666
+1 FAMC @F275@
+1 FAMS @F238@
+0 @I535@ INDI
+1 NAME /Maria_Teresa_Hapsburg_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1683
+1 FAMC @F274@
+1 FAMS @F277@
+0 @I536@ INDI
+1 NAME /Philip_Bourbon_Duke_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1701
+1 FAMC @F238@
+1 FAMS @F278@
+1 FAMS @F280@
+0 @I537@ INDI
+1 NAME /Henrietta_Stuart/
+1 SEX F
+1 DEAT
+2 DATE 1670
+1 FAMC @F74@
+1 FAMS @F278@
+0 @I538@ INDI
+1 NAME /Marie_Louise/
+1 SEX F
+1 DEAT
+2 DATE 1689
+1 FAMC @F278@
+1 FAMS @F279@
+0 @I539@ INDI
+1 NAME /Charles_II_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1665
+1 DEAT
+2 DATE 1700
+1 FAMC @F274@
+1 FAMS @F279@
+1 NOTE His death caused the War of the Spanish Succession.
+0 @I540@ INDI
+1 NAME /Isabelle_Charlotte_Savoy/
+1 SEX F
+1 DEAT
+2 DATE 1722
+1 FAMS @F280@
+0 @I541@ INDI
+1 NAME /Philip_II_Bourbon_Duke_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1723
+1 FAMC @F280@
+1 FAMS @F281@
+0 @I542@ INDI
+1 NAME /Francoise_Blois/
+1 SEX F
+1 DEAT
+2 DATE 1724
+1 FAMC @F282@
+1 FAMS @F281@
+0 @I543@ INDI
+1 NAME /Francoise_Montespan/
+1 SEX F
+1 DEAT
+2 DATE 1707
+1 FAMS @F282@
+0 @I544@ INDI
+1 NAME /Marie_Louise_Orleans/
+1 SEX F
+1 DEAT
+2 DATE 1719
+1 FAMC @F281@
+1 FAMS @F287@
+0 @I545@ INDI
+1 NAME /Louise_Isabelle_Monpensier/
+1 SEX F
+1 DEAT
+2 DATE 1741
+1 FAMC @F281@
+1 FAMS @F330@
+0 @I546@ INDI
+1 NAME /Louis_I_Bourbon_Duke_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1752
+1 FAMC @F281@
+1 FAMS @F283@
+0 @I547@ INDI
+1 NAME /Augusta_Countess_Baden-Baden/
+1 SEX F
+1 DEAT
+2 DATE 1726
+1 FAMS @F283@
+0 @I548@ INDI
+1 NAME /Louis_I_Bourbon_King_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1724
+1 FAMC @F329@
+1 FAMS @F330@
+0 @I549@ INDI
+1 NAME /Louis_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1711
+1 FAMC @F277@
+1 FAMS @F285@
+0 @I550@ INDI
+1 NAME /Marie_Anne/
+1 SEX F
+1 DEAT
+2 DATE 1690
+1 FAMS @F285@
+0 @I551@ INDI
+1 NAME /Charles_Duke_Berry_Alencon/
+1 SEX M
+1 DEAT
+2 DATE 1714
+1 FAMC @F285@
+1 FAMS @F287@
+0 @I552@ INDI
+1 NAME /Louis_Bourbon_Duke_Burgandy/
+1 SEX M
+1 DEAT
+2 DATE 1712
+1 FAMC @F285@
+1 FAMS @F288@
+0 @I553@ INDI
+1 NAME /Philip_V_Bourbon_King_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1700
+1 DEAT
+2 DATE 1746
+1 FAMC @F285@
+1 FAMS @F286@
+1 FAMS @F329@
+0 @I554@ INDI
+1 NAME /Marie_Adelaide_Savoy/
+1 SEX F
+1 DEAT
+2 DATE 1712
+1 FAMS @F288@
+0 @I555@ INDI
+1 NAME /Louis_XV/
+1 SEX M
+1 BIRT
+2 DATE 1715
+1 DEAT
+2 DATE 1774
+1 FAMC @F288@
+1 FAMS @F289@
+0 @I556@ INDI
+1 NAME /Maria_Leszczynska_Poland/
+1 SEX F
+1 DEAT
+2 DATE 1761
+1 FAMS @F289@
+0 @I557@ INDI
+1 NAME /Marie_Therese_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1746
+1 FAMC @F286@
+1 FAMS @F290@
+0 @I558@ INDI
+1 NAME /Louis_Duke_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1765
+1 FAMC @F289@
+1 FAMS @F290@
+1 FAMS @F291@
+0 @I559@ INDI
+1 NAME /Maria_Josepha_Saxe/
+1 SEX F
+1 DEAT
+2 DATE 1767
+1 FAMS @F291@
+0 @I560@ INDI
+1 NAME /Marie_Therese/
+1 SEX F
+1 DEAT
+2 DATE 1748
+1 FAMC @F290@
+0 @I561@ INDI
+1 NAME /Louis_XVIII_Count_Provence/
+1 SEX M
+1 BIRT
+2 DATE 1793
+1 DEAT
+2 DATE 1824
+1 FAMC @F291@
+0 @I562@ INDI
+1 NAME /Louis_XVI/
+1 SEX M
+1 BIRT
+2 DATE 1774
+1 DEAT
+2 DATE 1793
+1 FAMC @F291@
+1 FAMS @F297@
+0 @I563@ INDI
+1 NAME /Marie_Theresa_Sardinia/
+1 SEX F
+1 DEAT
+2 DATE 1805
+1 FAMC @F290@
+1 FAMS @F292@
+0 @I564@ INDI
+1 NAME /Charles_X/
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT
+2 DATE 1836
+1 FAMC @F291@
+1 FAMS @F292@
+0 @I565@ INDI
+1 NAME /Louis_Philip_I_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1785
+1 FAMC @F283@
+1 FAMS @F293@
+0 @I566@ INDI
+1 NAME /Louise_Henriette_Bourbon-Conti/
+1 SEX F
+1 DEAT
+2 DATE 1759
+1 FAMC @F294@
+1 FAMS @F293@
+0 @I567@ INDI
+1 NAME /Louis_Armand__II_Bourbon_Prince_Conti/
+1 SEX M
+1 DEAT
+2 DATE 1727
+1 FAMS @F294@
+0 @I568@ INDI
+1 NAME /Matilda_Orleans/
+1 SEX F
+1 DEAT
+2 DATE 1822
+1 FAMC @F293@
+1 FAMS @F295@
+0 @I569@ INDI
+1 NAME /Louis_Henry_I_Prince_Conti/
+1 SEX M
+1 DEAT
+2 DATE 1830
+1 FAMS @F295@
+0 @I570@ INDI
+1 NAME /Louis_Philip_II_Bourbon_Duke_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1793
+1 FAMC @F293@
+1 FAMS @F296@
+0 @I571@ INDI
+1 NAME /Louise_Bourbon/
+1 SEX F
+1 DEAT
+2 DATE 1822
+1 FAMS @F296@
+0 @I572@ INDI
+1 NAME /Louis_Philip_I_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1850
+1 FAMC @F296@
+1 NOTE Last King of France
+0 @I573@ INDI
+1 NAME /Marie_Antoinette_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1793
+1 FAMC @F371@
+1 FAMS @F297@
+0 @I574@ INDI
+1 NAME /Louis_XVII/
+1 SEX M
+1 DEAT
+2 DATE 1795
+1 FAMC @F297@
+0 @I575@ INDI
+1 NAME /Louis_Xavier/
+1 SEX M
+1 DEAT
+2 DATE 1789
+1 FAMC @F297@
+0 @I576@ INDI
+1 NAME /Marie_Therese_Bourbon/
+1 SEX F
+1 DEAT
+2 DATE 1851
+1 FAMC @F297@
+1 FAMS @F299@
+0 @I577@ INDI
+1 NAME /Louis_Antoine_Duke_Angouleme/
+1 SEX M
+1 DEAT
+2 DATE 1844
+1 FAMC @F292@
+1 FAMS @F299@
+0 @I578@ INDI
+1 NAME /Charles_Duke_Berry/
+1 SEX M
+1 DEAT
+2 DATE 1820
+1 FAMC @F292@
+1 FAMS @F298@
+0 @I579@ INDI
+1 NAME /Caroline_Two_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 1860
+1 FAMS @F298@
+0 @I580@ INDI
+1 NAME /Louis_VI/
+1 NAME the Fat
+1 SEX M
+1 BIRT
+2 DATE 1108
+1 DEAT
+2 DATE 1137
+1 FAMC @F301@
+1 FAMS @F300@
+0 @I581@ INDI
+1 NAME /Adelaide_Savoy/
+1 SEX F
+1 FAMS @F300@
+0 @I582@ INDI
+1 NAME /Philip_I_France/
+1 SEX M
+1 BIRT
+2 DATE 1060
+1 DEAT
+2 DATE 1108
+1 FAMC @F302@
+1 FAMS @F301@
+0 @I583@ INDI
+1 NAME /Henry_I_France/
+1 SEX M
+1 BIRT
+2 DATE 1031
+1 DEAT
+2 DATE 1060
+1 FAMC @F303@
+1 FAMS @F302@
+0 @I584@ INDI
+1 NAME /Robert_II_France/
+1 NAME the Pious
+1 SEX M
+1 BIRT
+2 DATE 0996
+1 DEAT
+2 DATE 1031
+1 FAMC @F304@
+1 FAMS @F303@
+1 FAMS @F305@
+1 FAMS @F306@
+0 @I585@ INDI
+1 NAME Hugh /Capet/
+1 SEX M
+1 BIRT
+2 DATE 0987
+1 DEAT
+2 DATE 0996
+1 FAMC @F420@
+1 FAMS @F304@
+0 @I586@ INDI
+1 NAME /Adelaide_Poitou/
+1 SEX F
+1 FAMS @F304@
+0 @I587@ INDI
+1 NAME /Rosalie_Ivrea/
+1 SEX F
+1 FAMS @F305@
+0 @I588@ INDI
+1 NAME /Berta_Burgandy/
+1 SEX F
+1 FAMS @F306@
+0 @I589@ INDI
+1 NAME /Constance_Arles/
+1 SEX F
+1 FAMS @F303@
+0 @I590@ INDI
+1 NAME /Robert_Duke_Burgandy/
+1 SEX M
+1 FAMC @F303@
+1 FAMS @F307@
+0 @I591@ INDI
+1 NAME /Alice_Semur/
+1 SEX F
+1 FAMS @F307@
+0 @I592@ INDI
+1 NAME /Henry_Duke_Burgandy/
+1 SEX M
+1 FAMC @F307@
+1 FAMS @F308@
+0 @I593@ INDI
+1 NAME /Sibelle_Barcelona/
+1 SEX F
+1 FAMS @F308@
+0 @I594@ INDI
+1 NAME /Henry_Burgandy_Count_Portugal/
+1 SEX M
+1 DEAT
+2 DATE 1112
+1 FAMC @F308@
+1 FAMS @F309@
+0 @I595@ INDI
+1 NAME /Alfonso_I_Burgandy_King_Portugal/
+1 SEX M
+1 BIRT
+2 DATE 1139
+1 DEAT
+2 DATE 1185
+1 FAMC @F309@
+0 @I596@ INDI
+1 NAME /Edward_Stafford_Duke_Buckingham/
+1 SEX M
+1 DEAT
+2 DATE 1521
+1 FAMC @F310@
+0 @I597@ INDI
+1 NAME /Philip_II_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1556
+1 DEAT
+2 DATE 1598
+1 FAMC @F312@
+1 FAMS @F311@
+1 FAMS @F321@
+1 FAMS @F322@
+1 FAMS @F323@
+0 @I598@ INDI
+1 NAME /Margarite_Austria/
+1 SEX F
+1 FAMC @F220@
+0 @I599@ INDI
+1 NAME /Isabella_Portugal/
+1 SEX F
+1 DEAT
+2 DATE 1539
+1 FAMC @F318@
+1 FAMS @F312@
+0 @I600@ INDI
+1 NAME /Maria/
+1 SEX F
+1 DEAT
+2 DATE 1603
+1 FAMC @F312@
+1 FAMS @F313@
+0 @I601@ INDI
+1 NAME /Maximilian_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1564
+1 DEAT
+2 DATE 1576
+1 FAMC @F362@
+1 FAMS @F313@
+0 @I602@ INDI
+1 NAME /Ferdinand_I_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1531
+1 DEAT
+2 DATE 1564
+1 FAMC @F221@
+1 FAMS @F362@
+0 @I603@ INDI
+1 NAME /Isabelle_Bourbon/
+1 SEX F
+1 FAMS @F219@
+0 @I604@ INDI
+1 NAME /Frederick_III_Roman_Emperor/
+1 NAME of Styria and Carinthia
+1 SEX M
+1 BIRT
+2 DATE 1440
+1 DEAT
+2 DATE 1493
+1 FAMC @F459@
+1 FAMS @F314@
+0 @I605@ INDI
+1 NAME /Eleanor_Portugal/
+1 SEX F
+1 FAMS @F314@
+0 @I606@ INDI
+1 NAME /Isabella_Burgandy/
+1 SEX F
+1 FAMS @F218@
+0 @I607@ INDI
+1 NAME Camila /Shand/
+1 NAME Duchess of Cornwall
+1 SEX F
+1 FAMS @F315@
+1 FAMS @F316@
+0 @I608@ INDI
+1 NAME Andrew /Parker Bowles/
+1 SEX M
+1 FAMS @F316@
+0 @I609@ INDI
+1 NAME /Isabella/
+1 SEX F
+1 DEAT
+2 DATE 1498
+1 FAMC @F109@
+1 FAMS @F317@
+0 @I610@ INDI
+1 NAME /Alfonso_Portugal/
+1 SEX M
+1 DEAT
+2 DATE 1491
+1 FAMS @F317@
+0 @I611@ INDI
+1 NAME /Maria/
+1 SEX F
+1 DEAT
+2 DATE 1517
+1 FAMC @F109@
+1 FAMS @F318@
+0 @I612@ INDI
+1 NAME /Manual_I_Portugal/
+1 SEX M
+1 FAMC @F317@
+1 FAMS @F318@
+0 @I613@ INDI
+1 NAME /John_III_Portugal/
+1 SEX M
+1 FAMC @F318@
+1 FAMS @F319@
+0 @I614@ INDI
+1 NAME /Catherine/
+1 SEX F
+1 DEAT
+2 DATE 1578
+1 FAMC @F221@
+1 FAMS @F319@
+0 @I615@ INDI
+1 NAME /Maria/
+1 SEX F
+1 DEAT
+2 DATE 1545
+1 FAMC @F319@
+1 FAMS @F321@
+0 @I616@ INDI
+1 NAME /John/
+1 SEX M
+1 DEAT
+2 DATE 1554
+1 FAMC @F319@
+1 FAMS @F320@
+0 @I617@ INDI
+1 NAME /Joan/
+1 SEX F
+1 DEAT
+2 DATE 1573
+1 FAMC @F312@
+1 FAMS @F320@
+0 @I619@ INDI
+1 NAME /Anna_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1580
+1 FAMC @F313@
+1 FAMS @F323@
+0 @I620@ INDI
+1 NAME /Isabella/
+1 SEX F
+1 FAMC @F322@
+1 FAMS @F324@
+0 @I621@ INDI
+1 NAME /Albert_I_Austria/
+1 SEX M
+1 FAMS @F324@
+0 @I622@ INDI
+1 NAME /Catherine/
+1 SEX F
+1 DEAT
+2 DATE 1633
+1 FAMC @F322@
+1 FAMS @F325@
+0 @I623@ INDI
+1 NAME /Charles_I_Duke_Savoy/
+1 SEX M
+1 FAMS @F325@
+0 @I624@ INDI
+1 NAME /Margaret_Archduchess_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1611
+1 FAMC @F363@
+1 FAMS @F275@
+0 @I625@ INDI
+1 NAME /Maria_Anna/
+1 SEX F
+1 DEAT
+2 DATE 1646
+1 FAMC @F275@
+1 FAMS @F326@
+0 @I626@ INDI
+1 NAME /Ferdinand_III_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1637
+1 DEAT
+2 DATE 1657
+1 FAMC @F364@
+1 FAMS @F326@
+1 FAMS @F495@
+0 @I627@ INDI
+1 NAME /Marianna_Archduchess_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1696
+1 FAMC @F326@
+1 FAMS @F327@
+0 @I628@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 DEAT
+2 DATE 1568
+1 FAMC @F230@
+1 FAMS @F322@
+0 @I629@ INDI
+1 NAME /Margaret_Theresa_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1673
+1 FAMS @F373@
+0 @I631@ INDI
+1 NAME /Isabelle/
+1 SEX F
+1 DEAT
+2 DATE 1759
+1 FAMC @F289@
+1 FAMS @F335@
+0 @I632@ INDI
+1 NAME /Isabelle_Farnese_Duchess_Parma/
+1 SEX F
+1 BIRT
+2 DATE 1692
+1 FAMS @F286@
+0 @I633@ INDI
+1 NAME /Marie_Louise_Savoy/
+1 SEX F
+1 BIRT
+2 DATE 1688
+1 FAMS @F329@
+0 @I634@ INDI
+1 NAME /Ferdinand_VI/
+1 SEX M
+1 BIRT
+2 DATE 1724
+1 DEAT
+2 DATE 1759
+1 FAMC @F329@
+1 FAMS @F331@
+0 @I635@ INDI
+1 NAME /Maria_Barbara/
+1 SEX F
+1 DEAT
+2 DATE 1758
+1 FAMC @F332@
+1 FAMS @F331@
+0 @I636@ INDI
+1 NAME /John_V_Portugal/
+1 SEX M
+1 FAMS @F332@
+0 @I637@ INDI
+1 NAME /Joseph_I_Portugal/
+1 SEX M
+1 FAMC @F332@
+1 FAMS @F333@
+0 @I638@ INDI
+1 NAME /Philip_I_Duke_Parma/
+1 SEX M
+1 DEAT
+2 DATE 1765
+1 FAMC @F286@
+1 FAMS @F335@
+0 @I639@ INDI
+1 NAME /Marianne/
+1 SEX F
+1 DEAT
+2 DATE 1781
+1 FAMC @F286@
+1 FAMS @F333@
+0 @I640@ INDI
+1 NAME /Charles_III_Bourbon_King_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1759
+1 DEAT
+2 DATE 1788
+1 FAMC @F286@
+1 FAMS @F334@
+0 @I641@ INDI
+1 NAME /Maria_Amalia_Saxony/
+1 SEX F
+1 DEAT
+2 DATE 1760
+1 FAMS @F334@
+0 @I642@ INDI
+1 NAME /Marie_Louise_Parma/
+1 SEX F
+1 DEAT
+2 DATE 1819
+1 FAMC @F335@
+1 FAMS @F337@
+0 @I643@ INDI
+1 NAME /Antoine/
+1 SEX M
+1 DEAT
+2 DATE 1817
+1 FAMC @F334@
+1 FAMS @F339@
+0 @I644@ INDI
+1 NAME /Charles_IV_Bourbon_King_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1788
+1 DEAT
+2 DATE 1819
+1 FAMC @F334@
+1 FAMS @F337@
+0 @I645@ INDI
+1 NAME /Maria_Louisa/
+1 SEX F
+1 DEAT
+2 DATE 1792
+1 FAMC @F334@
+1 FAMS @F336@
+0 @I646@ INDI
+1 NAME /Leopold_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1790
+1 DEAT
+2 DATE 1792
+1 FAMC @F371@
+1 FAMS @F336@
+0 @I647@ INDI
+1 NAME /Ferdinand_I_King_Two_Sicilies/
+1 SEX M
+1 DEAT
+2 DATE 1827
+1 FAMC @F334@
+1 FAMS @F338@
+0 @I648@ INDI
+1 NAME /Marie_Caroline_Archduchess_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1814
+1 FAMC @F371@
+1 FAMS @F338@
+0 @I649@ INDI
+1 NAME /Marie_Amalie/
+1 SEX F
+1 DEAT
+2 DATE 1798
+1 FAMC @F337@
+1 FAMS @F339@
+0 @I650@ INDI
+1 NAME Marie /Antoinette_Bourbon_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 1806
+0 @I651@ INDI
+1 NAME /Charlotte/
+1 SEX F
+1 DEAT
+2 DATE 1839
+1 FAMC @F337@
+1 FAMS @F341@
+0 @I652@ INDI
+1 NAME /Maria_I_Queen_Portugal/
+1 SEX F
+1 FAMC @F333@
+1 FAMS @F340@
+0 @I653@ INDI
+1 NAME /John_VI_Portugal/
+1 SEX M
+1 FAMC @F340@
+1 FAMS @F341@
+0 @I654@ INDI
+1 NAME /Maria_Isabel_Portugal/
+1 SEX F
+1 DEAT
+2 DATE 1818
+1 FAMC @F341@
+0 @I655@ INDI
+1 NAME /Marie_Christine_Bourbon_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 1878
+1 FAMS @F349@
+0 @I656@ INDI
+1 NAME /Ferdinand_VII_Bourbon_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1819
+1 DEAT
+2 DATE 1833
+1 FAMC @F337@
+1 FAMS @F359@
+1 FAMS @F349@
+0 @I657@ INDI
+1 NAME /Isabella_II_Bourbon_Spain/
+1 SEX F
+1 BIRT
+2 DATE 1833
+1 DEAT
+2 DATE 1875
+1 FAMC @F349@
+1 FAMS @F344@
+0 @I658@ INDI
+1 NAME /Francis_Assisi_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1902
+1 FAMC @F345@
+1 FAMS @F344@
+0 @I659@ INDI
+1 NAME /Francis_de_Paula/
+1 SEX M
+1 DEAT
+2 DATE 1865
+1 FAMC @F337@
+1 FAMS @F345@
+0 @I660@ INDI
+1 NAME /Louise_Charlotte_Bourbon_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 1844
+1 FAMC @F347@
+1 FAMS @F345@
+0 @I661@ INDI
+1 NAME /Marie_Antoinette_Bourbon_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 1806
+1 FAMC @F338@
+1 FAMS @F359@
+0 @I662@ INDI
+1 NAME /Marie_Isabella/
+1 SEX F
+1 DEAT
+2 DATE 1848
+1 FAMC @F337@
+1 FAMS @F347@
+0 @I663@ INDI
+1 NAME /Francis_I_King_Two_Sicilies/
+1 SEX M
+1 DEAT
+2 DATE 1830
+1 FAMS @F347@
+0 @I664@ INDI
+1 NAME /Maria_Louise_Bourbon_Spain/
+1 SEX F
+1 DEAT
+2 DATE 1897
+1 FAMC @F349@
+1 FAMS @F350@
+0 @I665@ INDI
+1 NAME /Antoine_Orleans_Duke_Montpensier/
+1 SEX M
+1 FAMS @F350@
+0 @I666@ INDI
+1 NAME /Maria_de_las_Mercedes_Orleans/
+1 SEX F
+1 DEAT
+2 DATE 1879
+1 FAMC @F350@
+1 FAMS @F351@
+0 @I667@ INDI
+1 NAME /Antoine_Orleans/
+1 SEX M
+1 DEAT
+2 DATE 1930
+1 FAMC @F350@
+0 @I668@ INDI
+1 NAME /Eulalia/
+1 SEX F
+1 DEAT
+2 DATE 1958
+1 FAMC @F344@
+0 @I669@ INDI
+1 NAME /Alfonso_XII_Bourbon_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1875
+1 DEAT
+2 DATE 1885
+1 FAMC @F344@
+1 FAMS @F351@
+1 FAMS @F352@
+0 @I670@ INDI
+1 NAME /Maria_de_la_Paz/
+1 SEX F
+1 DEAT
+2 DATE 1942
+1 FAMC @F344@
+1 FAMS @F353@
+0 @I671@ INDI
+1 NAME /Isabella/
+1 SEX F
+1 DEAT
+2 DATE 1931
+1 FAMC @F344@
+0 @I672@ INDI
+1 NAME /Marie_Christine_Archduchess_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1929
+1 FAMS @F352@
+0 @I673@ INDI
+1 NAME /Maria_de_las_Mercedes/
+1 SEX F
+1 DEAT
+2 DATE 1905
+1 FAMC @F352@
+1 FAMS @F355@
+0 @I674@ INDI
+1 NAME /Alfonso_XIII_Bourbon_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1886
+1 DEAT
+2 DATE 1941
+1 FAMC @F352@
+1 FAMS @F356@
+0 @I675@ INDI
+1 NAME /Maria_Theresa/
+1 SEX F
+1 DEAT
+2 DATE 1912
+1 FAMC @F352@
+1 FAMS @F354@
+0 @I676@ INDI
+1 NAME /Louis_Ferdinand_Bavaria/
+1 SEX M
+1 FAMS @F353@
+0 @I677@ INDI
+1 NAME /Ferdinand_Bavaria/
+1 SEX M
+1 FAMC @F353@
+1 FAMS @F354@
+0 @I678@ INDI
+1 NAME /Charles_Bourbon_Sicilies/
+1 SEX M
+1 FAMS @F355@
+0 @I679@ INDI
+1 NAME /Maria_de_las_Mercedes_Bourbon_Sicilies/
+1 SEX F
+1 DEAT
+2 DATE 2000
+1 FAMC @F355@
+1 FAMS @F357@
+0 @I680@ INDI
+1 NAME /Victoria_Battenberg/
+1 SEX F
+1 BIRT
+2 DATE 1887
+1 FAMS @F356@
+0 @I681@ INDI
+1 NAME /Alfonso_Count_Covadonga/
+1 SEX M
+1 DEAT
+2 DATE 1938
+1 FAMC @F356@
+0 @I682@ INDI
+1 NAME /Gonzalo/
+1 SEX M
+1 DEAT
+2 DATE 1934
+1 FAMC @F356@
+0 @I683@ INDI
+1 NAME /John_Bourbon_Count_Barcelona/
+1 SEX M
+1 BIRT
+2 DATE 1913
+1 FAMC @F356@
+1 FAMS @F357@
+0 @I684@ INDI
+1 NAME /James_Duke_Segovia/
+1 SEX M
+1 DEAT
+2 DATE 1975
+1 FAMC @F356@
+0 @I685@ INDI
+1 NAME /Beatrice/
+1 SEX F
+1 BIRT
+2 DATE 1909
+1 FAMC @F356@
+0 @I686@ INDI
+1 NAME /Maria_Christina/
+1 SEX F
+1 DEAT
+2 DATE 1996
+1 FAMC @F356@
+0 @I687@ INDI
+1 NAME /Alfonso/
+1 SEX M
+1 DEAT
+2 DATE 1956
+1 FAMC @F357@
+0 @I688@ INDI
+1 NAME /Maria_del_Pilar_Duchess_Badajoz/
+1 SEX F
+1 BIRT
+2 DATE 1936
+1 FAMC @F357@
+0 @I689@ INDI
+1 NAME /Juan_Carlos_I_Bourbon_Spain/
+1 SEX M
+1 BIRT
+2 DATE 1938
+1 FAMC @F357@
+1 FAMS @F358@
+0 @I690@ INDI
+1 NAME /Margaret_Duchess_Soria/
+1 SEX F
+1 BIRT
+2 DATE 1939
+1 FAMC @F357@
+0 @I691@ INDI
+1 NAME /Sophia_Greece/
+1 SEX F
+1 BIRT
+2 DATE 1938
+1 FAMS @F358@
+0 @I692@ INDI
+1 NAME /Helena/
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMC @F358@
+0 @I693@ INDI
+1 NAME /Philip_Prince_Asturias/
+1 SEX M
+1 BIRT
+2 DATE 1968
+1 FAMC @F358@
+0 @I694@ INDI
+1 NAME /Christina_Duchess_Palma_de_Maiorca/
+1 SEX F
+1 BIRT
+2 DATE 1965
+1 FAMC @F358@
+0 @I695@ INDI
+1 NAME Kathryn /Howard/
+1 SEX F
+1 FAMS @F360@
+0 @I696@ INDI
+1 NAME Katherine /Parr/
+1 SEX F
+1 FAMS @F361@
+0 @I697@ INDI
+1 NAME /Leopold_I_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1658
+1 DEAT
+2 DATE 1705
+1 FAMC @F326@
+1 FAMS @F366@
+1 FAMS @F367@
+1 FAMS @F373@
+0 @I698@ INDI
+1 NAME /Anne_Bohemia_Hungary/
+1 SEX F
+1 DEAT
+2 DATE 1547
+1 FAMS @F362@
+0 @I699@ INDI
+1 NAME /Ferdinand_II_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1595
+1 FAMC @F362@
+1 FAMS @F493@
+0 @I700@ INDI
+1 NAME /Charles_II_Archduke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1590
+1 FAMC @F362@
+1 FAMS @F363@
+0 @I701@ INDI
+1 NAME /Ferdinand_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1618
+1 DEAT
+2 DATE 1637
+1 FAMC @F363@
+1 FAMS @F364@
+0 @I702@ INDI
+1 NAME /Maria_Anna_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1616
+1 FAMC @F491@
+1 FAMS @F364@
+0 @I703@ INDI
+1 NAME /Claudia_Archduchess_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1676
+1 FAMS @F366@
+0 @I704@ INDI
+1 NAME /Eleanor_Neuburg/
+1 SEX F
+1 DEAT
+2 DATE 1720
+1 FAMS @F367@
+0 @I705@ INDI
+1 NAME /Joseph_I_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1690
+1 DEAT
+2 DATE 1711
+1 FAMC @F367@
+1 FAMS @F368@
+0 @I706@ INDI
+1 NAME /Charles_VI_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1711
+1 DEAT
+2 DATE 1740
+1 FAMC @F367@
+1 FAMS @F370@
+1 NOTE His death caused the War of the Austrian Succession.
+0 @I707@ INDI
+1 NAME /Wilhelmina_Amalia/
+1 SEX F
+1 DEAT
+2 DATE 1742
+1 FAMS @F368@
+0 @I708@ INDI
+1 NAME /Maria_Amalia_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1756
+1 FAMC @F368@
+1 FAMS @F369@
+0 @I709@ INDI
+1 NAME /Charles_VII_Roman_Emperor/
+1 SEX M
+1 DEAT
+2 DATE 1745
+1 FAMC @F498@
+1 FAMS @F369@
+0 @I710@ INDI
+1 NAME /Elizabeth/
+1 SEX F
+1 FAMS @F370@
+0 @I712@ INDI
+1 NAME /Maria_Anna/
+1 SEX F
+1 FAMC @F370@
+0 @I713@ INDI
+1 NAME /Francis_I_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1745
+1 DEAT
+2 DATE 1765
+1 FAMC @F497@
+1 FAMS @F371@
+0 @I714@ INDI
+1 NAME /Maria_Theresa_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1780
+1 FAMC @F370@
+1 FAMS @F371@
+0 @I715@ INDI
+1 NAME /Joseph_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1765
+1 DEAT
+2 DATE 1790
+1 FAMC @F371@
+1 FAMS @F499@
+0 @I716@ INDI
+1 NAME /Francis_II_Roman_Emperor_Francis_I_Austria/
+1 SEX M
+1 BIRT
+2 DATE 1792
+1 DEAT
+2 DATE 1835
+1 FAMC @F336@
+1 FAMS @F501@
+1 NOTE Last of the Holy Roman Emperors (after the Battle of Austerlitz).
+0 @I717@ INDI
+1 NAME /Maria_Anna_Bavaria/
+1 SEX F
+1 BIRT
+2 DATE 1551
+1 DEAT
+2 DATE 1608
+1 FAMC @F372@
+1 FAMS @F363@
+0 @I718@ INDI
+1 NAME /Anna/
+1 SEX F
+1 DEAT
+2 DATE 1590
+1 FAMC @F362@
+1 FAMS @F372@
+0 @I719@ INDI
+1 NAME /Albert_V_Bavaria/
+1 SEX M
+1 FAMS @F372@
+0 @I721@ INDI
+1 NAME /Pedro_Cruel_Castile/
+1 SEX M
+1 BIRT
+2 DATE 1350
+1 DEAT
+2 DATE 1369
+1 FAMS @F374@
+0 @I722@ INDI
+1 NAME /Catalina/
+1 NAME Catherine of Lancaster
+1 SEX F
+1 DEAT
+2 DATE 1418
+1 FAMC @F12@
+1 FAMS @F375@
+0 @I723@ INDI
+1 NAME /Henry_III_Castile/
+1 SEX M
+1 DEAT
+2 DATE 1406
+1 FAMC @F401@
+1 FAMS @F375@
+0 @I724@ INDI
+1 NAME Payne de /Roet/
+1 SEX M
+1 FAMS @F376@
+0 @I725@ INDI
+1 NAME Hugh /Swynford/
+1 SEX M
+1 DEAT
+2 DATE 1372
+1 FAMS @F377@
+0 @I726@ INDI
+1 NAME /Peter_I_Duke_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1356
+1 FAMS @F378@
+1 NOTE Died in the Battle of Poitiers.
+2 CONT Occasionally insane.
+0 @I727@ INDI
+1 NAME /Isabelle_Valois/
+1 SEX F
+1 BIRT
+2 DATE 1325
+1 FAMC @F379@
+1 FAMS @F378@
+0 @I728@ INDI
+1 NAME /Mahaut_Chatillon/
+1 SEX F
+1 FAMS @F379@
+0 @I729@ INDI
+1 NAME /Margaret_Bavaria/
+1 SEX F
+1 FAMS @F217@
+0 @I730@ INDI
+1 NAME /Fulk_Count_Anjou/
+1 SEX M
+1 FAMS @F380@
+1 NOTE of Jerusalem
+0 @I735@ INDI
+1 NAME Thomas /Boleyn_Earl_Wiltshire/
+1 SEX M
+1 DEAT
+2 DATE 1538
+1 FAMC @F385@
+1 FAMS @F383@
+0 @I736@ INDI
+1 NAME Elizabeth /Howard/
+1 SEX F
+1 DEAT
+2 DATE 1538
+1 FAMC @F384@
+1 FAMS @F383@
+0 @I737@ INDI
+1 NAME Thomas /Howard_Duke_Norfolk/
+1 SEX M
+1 DEAT
+2 DATE 1524
+1 FAMS @F384@
+0 @I738@ INDI
+1 NAME Elizabeth /Tilney/
+1 SEX F
+1 FAMS @F384@
+0 @I739@ INDI
+1 NAME William /Boleyn/
+1 SEX M
+1 DEAT
+2 DATE 1505
+1 FAMS @F385@
+0 @I740@ INDI
+1 NAME Margaret /Butler/
+1 SEX F
+1 DEAT
+2 DATE 1539
+1 FAMS @F385@
+0 @I741@ INDI
+1 NAME /Anne_Burgandy/
+1 SEX F
+1 DEAT
+2 DATE 1432
+1 FAMC @F217@
+1 FAMS @F386@
+0 @I742@ INDI
+1 NAME /Jaquetta_Luxembourg/
+1 SEX F
+1 FAMC @F389@
+1 FAMS @F387@
+1 FAMS @F388@
+0 @I743@ INDI
+1 NAME /Richard_Wydville/
+1 SEX M
+1 FAMS @F388@
+0 @I744@ INDI
+1 NAME /Peter_I_Comte_de_St_Pol/
+1 SEX M
+1 DEAT
+2 DATE 1433
+1 FAMC @F390@
+1 FAMS @F389@
+1 NOTE Count of Brienne
+0 @I745@ INDI
+1 NAME /John_Beauvoir/
+1 SEX M
+1 FAMS @F390@
+0 @I746@ INDI
+1 NAME /Robert_Magnificent_Duke_Normandy/
+1 NAME Robert the Devil
+1 SEX M
+1 DEAT
+2 DATE 1035
+1 FAMC @F550@
+1 FAMS @F391@
+0 @I748@ INDI
+1 NAME /Herleva_Falaise/
+1 SEX F
+1 FAMS @F391@
+0 @I749@ INDI
+1 NAME /Margaret_Bourbon/
+1 SEX F
+1 DEAT
+2 DATE 1483
+1 FAMS @F226@
+0 @I750@ INDI
+1 NAME /Charlotte_Savoy/
+1 SEX F
+1 FAMS @F209@
+0 @I751@ INDI
+1 NAME /Margaret_Orleans/
+1 SEX F
+1 FAMC @F222@
+1 FAMS @F394@
+0 @I752@ INDI
+1 NAME /Richard_Brittany/
+1 SEX M
+1 FAMS @F394@
+0 @I753@ INDI
+1 NAME /Francis_II_Duke_Brittany/
+1 SEX M
+1 FAMC @F394@
+1 FAMS @F395@
+0 @I754@ INDI
+1 NAME /Margaret_Foix/
+1 SEX F
+1 FAMS @F395@
+0 @I755@ INDI
+1 NAME /Juan_II_Castile/
+1 SEX M
+1 BIRT
+2 DATE 1406
+1 DEAT
+2 DATE 1454
+1 FAMC @F375@
+1 FAMS @F397@
+1 FAMS @F398@
+0 @I756@ INDI
+1 NAME /Maria_Castile/
+1 SEX F
+1 DEAT
+2 DATE 1458
+1 FAMC @F375@
+1 FAMS @F396@
+0 @I757@ INDI
+1 NAME /Alfonso_V_Aragon_Naples/
+1 SEX M
+1 FAMS @F396@
+0 @I758@ INDI
+1 NAME /Maria_Aragon/
+1 SEX F
+1 FAMC @F400@
+1 FAMS @F397@
+0 @I759@ INDI
+1 NAME /Henry_IV_Castile/
+1 NAME The Impotent
+1 SEX M
+1 BIRT
+2 DATE 1454
+1 DEAT
+2 DATE 1474
+1 FAMC @F397@
+0 @I760@ INDI
+1 NAME /Isabel_Portugal/
+1 SEX F
+1 FAMS @F398@
+0 @I761@ INDI
+1 NAME /Juan_II_Aragon/
+1 SEX M
+1 BIRT
+2 DATE 1458
+1 DEAT
+2 DATE 1479
+1 FAMC @F400@
+1 FAMS @F399@
+0 @I762@ INDI
+1 NAME /Juana_Enriquez/
+1 SEX F
+1 FAMS @F399@
+0 @I763@ INDI
+1 NAME /Ferdinand_I_Aragon/
+1 SEX M
+1 FAMS @F400@
+0 @I764@ INDI
+1 NAME /Eleanor_Albuquerque/
+1 SEX F
+1 FAMS @F400@
+0 @I765@ INDI
+1 NAME /John_I_Castile/
+1 SEX M
+1 FAMS @F401@
+0 @I766@ INDI
+1 NAME /Eleanor_Aragon/
+1 SEX F
+1 FAMS @F401@
+0 @I767@ INDI
+1 NAME /William_I_Hainault/
+1 SEX M
+1 DEAT
+2 DATE 1337
+1 FAMS @F402@
+0 @I768@ INDI
+1 NAME /Isabella_France/
+1 SEX F
+1 DEAT
+2 DATE 1358
+1 FAMC @F268@
+1 FAMS @F4@
+0 @I770@ INDI
+1 NAME /Louis_the_Child/
+1 SEX M
+0 @I771@ INDI
+1 NAME /Henry_I_Germany/
+1 SEX M
+1 BIRT
+2 DATE 0919
+1 DEAT
+2 DATE 0936
+1 FAMC @F403@
+1 FAMS @F415@
+0 @I772@ INDI
+1 NAME /Otto_I_Duke_Saxony/
+1 SEX M
+1 BIRT
+2 DATE 0851
+1 DEAT
+2 DATE 0912
+1 FAMS @F403@
+0 @I773@ INDI
+1 NAME /Hedwiga/
+1 SEX F
+1 FAMC @F404@
+1 FAMS @F403@
+0 @I774@ INDI
+1 NAME /Henry_Franconia/
+1 SEX M
+1 DEAT
+2 DATE 0886
+1 FAMS @F404@
+0 @I775@ INDI
+1 NAME /Ingeltrude/
+1 SEX F
+1 FAMC @F405@
+1 FAMS @F404@
+0 @I776@ INDI
+1 NAME /Gisela/
+1 SEX F
+1 FAMC @F406@
+1 FAMS @F405@
+0 @I777@ INDI
+1 NAME /Eberhard_Friuli/
+1 SEX M
+1 DEAT
+2 DATE 0866
+1 FAMS @F405@
+0 @I778@ INDI
+1 NAME /Louis_Pious/
+1 SEX M
+1 FAMC @F407@
+1 FAMS @F406@
+0 @I779@ INDI
+1 NAME /Charlemagne/
+1 SEX M
+1 BIRT
+2 DATE 0768
+1 DEAT
+2 DATE 0814
+1 FAMC @F546@
+1 FAMS @F407@
+0 @I780@ INDI
+1 NAME /Louis_II_the_German/
+1 SEX M
+1 DEAT
+2 DATE 0876
+1 FAMC @F406@
+1 FAMS @F408@
+0 @I781@ INDI
+1 NAME /Hemma/
+1 SEX F
+1 FAMS @F408@
+0 @I782@ INDI
+1 NAME /Carloman/
+1 SEX M
+1 DEAT
+2 DATE 0880
+1 FAMC @F408@
+1 FAMS @F409@
+0 @I783@ INDI
+1 NAME /Charles_the_Fat_France/
+1 SEX M
+1 BIRT
+2 DATE 0885
+1 DEAT
+2 DATE 0888
+1 FAMC @F408@
+0 @I784@ INDI
+1 NAME /Litwinde/
+1 SEX F
+1 FAMS @F409@
+0 @I785@ INDI
+1 NAME /Arnulf_Carinthia/
+1 SEX M
+1 DEAT
+2 DATE 0899
+1 FAMC @F409@
+1 FAMS @F410@
+0 @I786@ INDI
+1 NAME /Ota/
+1 SEX F
+1 FAMC @F411@
+1 FAMS @F410@
+0 @I787@ INDI
+1 NAME /Louis_the_Child/
+1 SEX M
+1 DEAT
+2 DATE 0911
+1 FAMC @F410@
+0 @I788@ INDI
+1 NAME /Berengar_Count_Hesse/
+1 SEX M
+1 FAMC @F412@
+1 FAMS @F411@
+0 @I789@ INDI
+1 NAME /Gebhard_Count_Lanhngau/
+1 SEX M
+1 FAMS @F412@
+0 @I790@ INDI
+1 NAME /Udo_Neustria/
+1 SEX M
+1 FAMC @F412@
+1 FAMS @F413@
+0 @I791@ INDI
+1 NAME /Conrad_Duke_Thuringia/
+1 SEX M
+1 DEAT
+2 DATE 0906
+1 FAMC @F413@
+1 FAMS @F414@
+0 @I792@ INDI
+1 NAME /Conrad_Germany/
+1 SEX M
+1 BIRT
+2 DATE 0890
+1 DEAT
+2 DATE 0918
+1 FAMC @F414@
+0 @I793@ INDI
+1 NAME /St_Matilda_Ringelheim/
+1 SEX F
+1 DEAT
+2 DATE 0968
+1 FAMS @F415@
+0 @I794@ INDI
+1 NAME /Edith_Wessex/
+1 SEX F
+1 DEAT
+2 DATE 0946
+1 FAMC @F416@
+1 FAMS @F417@
+0 @I795@ INDI
+1 NAME /Otto_I_Germany/
+1 SEX M
+1 BIRT
+2 DATE 0936
+1 DEAT
+2 DATE 0973
+1 FAMC @F415@
+1 FAMS @F417@
+1 FAMS @F418@
+0 @I796@ INDI
+1 NAME /Adelaide_Italy/
+1 NAME Adelheid
+1 SEX F
+1 DEAT
+2 DATE 0999
+1 FAMS @F418@
+0 @I797@ INDI
+1 NAME /Henry_Duke_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 0955
+1 FAMC @F415@
+1 FAMS @F421@
+0 @I798@ INDI
+1 NAME /Gerberga_Saxony/
+1 SEX F
+1 DEAT
+2 DATE 0984
+1 FAMC @F415@
+1 FAMS @F419@
+0 @I799@ INDI
+1 NAME /Louis_IV_France/
+1 SEX M
+1 BIRT
+2 DATE 0936
+1 DEAT
+2 DATE 0954
+1 FAMC @F476@
+1 FAMS @F419@
+1 NOTE d'Outremer
+0 @I800@ INDI
+1 NAME /Hedwige/
+1 SEX F
+1 DEAT
+2 DATE 0965
+1 FAMC @F415@
+1 FAMS @F420@
+0 @I801@ INDI
+1 NAME /Hugh_the_Great/
+1 SEX M
+1 DEAT
+2 DATE 0956
+1 FAMC @F424@
+1 FAMS @F420@
+0 @I802@ INDI
+1 NAME /Otto_II_Germany/
+1 SEX M
+1 BIRT
+2 DATE 0961
+1 DEAT
+2 DATE 0983
+1 FAMC @F418@
+1 FAMS @F423@
+0 @I803@ INDI
+1 NAME /Judith_Bavaria/
+1 SEX F
+1 FAMS @F421@
+0 @I804@ INDI
+1 NAME /Henry_II_Duke_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 0995
+1 FAMC @F421@
+1 FAMS @F422@
+0 @I805@ INDI
+1 NAME /Gisela_Burgundy/
+1 SEX F
+1 DEAT
+2 DATE 1006
+1 FAMS @F422@
+0 @I806@ INDI
+1 NAME /St_Henry_II_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1002
+1 DEAT
+2 DATE 1024
+1 FAMC @F422@
+0 @I807@ INDI
+1 NAME /Theophanu_Byzantium/
+1 SEX F
+1 DEAT
+2 DATE 0991
+1 FAMS @F423@
+0 @I808@ INDI
+1 NAME /Robert_I_France/
+1 SEX M
+1 BIRT
+2 DATE 0922
+1 DEAT
+2 DATE 0923
+1 FAMC @F468@
+1 FAMS @F424@
+1 FAMS @F470@
+0 @I809@ INDI
+1 NAME /Augusta_Victoria_Schleswig-Holstein/
+1 SEX F
+1 DEAT
+2 DATE 1921
+1 FAMS @F146@
+0 @I810@ INDI
+1 NAME /Otto_III_Germany/
+1 SEX M
+1 BIRT
+2 DATE 0983
+1 DEAT
+2 DATE 1002
+1 FAMC @F423@
+0 @I811@ INDI
+1 NAME /Liutgarde/
+1 SEX F
+1 FAMC @F417@
+1 FAMS @F425@
+0 @I812@ INDI
+1 NAME /Conrad_Duke_Lorraine/
+1 SEX M
+1 FAMS @F425@
+0 @I813@ INDI
+1 NAME /Henry_Speyer/
+1 SEX M
+1 DEAT
+2 DATE 1000
+1 FAMC @F425@
+1 FAMS @F426@
+0 @I814@ INDI
+1 NAME /Adelaide_Alsace/
+1 SEX F
+1 DEAT
+2 DATE 1046
+1 FAMS @F426@
+0 @I815@ INDI
+1 NAME /Conrad_II_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1024
+1 DEAT
+2 DATE 1039
+1 FAMC @F426@
+1 FAMS @F427@
+0 @I816@ INDI
+1 NAME /Gisela_Swabia/
+1 SEX F
+1 DEAT
+2 DATE 1043
+1 FAMS @F427@
+0 @I817@ INDI
+1 NAME /Henry_III_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1028
+1 DEAT
+2 DATE 1056
+1 FAMC @F427@
+1 FAMS @F428@
+0 @I818@ INDI
+1 NAME /Agnes_Poitou/
+1 SEX F
+1 DEAT
+2 DATE 1077
+1 FAMS @F428@
+0 @I819@ INDI
+1 NAME /Henry_IV_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1056
+1 DEAT
+2 DATE 1105
+1 FAMC @F428@
+1 FAMS @F429@
+0 @I820@ INDI
+1 NAME /Bertha_Savoy/
+1 SEX F
+1 DEAT
+2 DATE 1087
+1 FAMS @F429@
+0 @I822@ INDI
+1 NAME /Conrad_II_Italy/
+1 SEX M
+1 BIRT
+2 DATE 1074
+1 DEAT
+2 DATE 1101
+1 FAMC @F429@
+0 @I823@ INDI
+1 NAME /Agnes/
+1 SEX F
+1 DEAT
+2 DATE 1143
+1 FAMC @F429@
+1 FAMS @F430@
+1 FAMS @F464@
+0 @I824@ INDI
+1 NAME /Frederick_I_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1105
+1 FAMS @F430@
+0 @I825@ INDI
+1 NAME /Leopold_III_Austria/
+1 SEX M
+1 FAMS @F464@
+0 @I826@ INDI
+1 NAME /Frederick_II_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1147
+1 FAMC @F430@
+1 FAMS @F432@
+1 FAMS @F433@
+0 @I827@ INDI
+1 NAME /Conrad_III_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1138
+1 DEAT
+2 DATE 1152
+1 FAMC @F430@
+1 FAMS @F434@
+1 NOTE Hohenstaufen
+0 @I828@ INDI
+1 NAME /Judith/
+1 SEX F
+1 DEAT
+2 DATE 1130
+1 FAMC @F435@
+1 FAMS @F432@
+0 @I829@ INDI
+1 NAME /Agnes_Saarbrucken/
+1 SEX F
+1 DEAT
+2 DATE 1147
+1 FAMS @F433@
+0 @I830@ INDI
+1 NAME /Gertrude_von_Sulzbach/
+1 SEX F
+1 DEAT
+2 DATE 1146
+1 FAMS @F434@
+0 @I831@ INDI
+1 NAME Henry /Berengar/
+1 SEX M
+1 DEAT
+2 DATE 1150
+1 FAMC @F434@
+0 @I832@ INDI
+1 NAME /Frederick_IV_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1167
+1 FAMC @F434@
+0 @I833@ INDI
+1 NAME /Henry_IX_Duke_Bavaria/
+1 SEX M
+1 FAMC @F492@
+1 FAMS @F435@
+0 @I834@ INDI
+1 NAME /Henry_X_Duke_Bavaria/
+1 NAME the Proud
+1 SEX M
+1 DEAT
+2 DATE 1139
+1 FAMC @F435@
+1 FAMS @F436@
+0 @I835@ INDI
+1 NAME /Gertrude_Supplinburg/
+1 SEX F
+1 DEAT
+2 DATE 1143
+1 FAMC @F437@
+1 FAMS @F436@
+0 @I836@ INDI
+1 NAME /Lothair_III_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1125
+1 DEAT
+2 DATE 1137
+1 FAMS @F437@
+1 NOTE of Saxony. Chosen by the Diet.
+0 @I837@ INDI
+1 NAME /Henry_Duke_Bavaria/
+1 NAME The Lion
+1 SEX M
+1 DEAT
+2 DATE 1139
+1 FAMC @F436@
+1 FAMS @F438@
+0 @I838@ INDI
+1 NAME /Matilda_England/
+1 SEX F
+1 DEAT
+2 DATE 1189
+1 FAMS @F438@
+0 @I839@ INDI
+1 NAME /Otto_IV_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1208
+1 DEAT
+2 DATE 1215
+1 FAMC @F438@
+1 FAMS @F443@
+0 @I840@ INDI
+1 NAME /Frederick_I_Barbarossa/
+1 SEX M
+1 BIRT
+2 DATE 1152
+1 DEAT
+2 DATE 1190
+1 FAMC @F432@
+1 FAMS @F440@
+0 @I841@ INDI
+1 NAME /Bertha/
+1 SEX F
+1 DEAT
+2 DATE 1195
+1 FAMC @F432@
+1 FAMS @F439@
+0 @I842@ INDI
+1 NAME /Matthias_I_Duke_Lorraine/
+1 SEX M
+1 FAMS @F439@
+0 @I843@ INDI
+1 NAME /Beatrice_I_Countess_Burgundy/
+1 SEX F
+1 DEAT
+2 DATE 1184
+1 FAMS @F440@
+0 @I844@ INDI
+1 NAME /Conrad_Count_Palatine_Rhine/
+1 SEX M
+1 DEAT
+2 DATE 1195
+1 FAMC @F433@
+0 @I845@ INDI
+1 NAME /Judith/
+1 SEX F
+1 DEAT
+2 DATE 1191
+1 FAMC @F433@
+1 FAMS @F441@
+0 @I846@ INDI
+1 NAME /Louis_II_Landgrave_Thuringia/
+1 SEX M
+1 FAMS @F441@
+0 @I847@ INDI
+1 NAME /Philip_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1198
+1 DEAT
+2 DATE 1208
+1 FAMC @F440@
+1 FAMS @F442@
+0 @I848@ INDI
+1 NAME /Irene_Angelina/
+1 SEX F
+1 DEAT
+2 DATE 1208
+1 FAMS @F442@
+0 @I849@ INDI
+1 NAME /Beatrice/
+1 SEX F
+1 DEAT
+2 DATE 1212
+1 FAMC @F442@
+1 FAMS @F443@
+0 @I850@ INDI
+1 NAME /Cunigunde/
+1 SEX F
+1 FAMC @F442@
+0 @I851@ INDI
+1 NAME /Elisabeth/
+1 SEX F
+1 DEAT
+2 DATE 1235
+1 FAMC @F442@
+1 FAMS @F444@
+0 @I852@ INDI
+1 NAME /Ferdinand_III_Castile/
+1 SEX M
+1 FAMS @F444@
+0 @I853@ INDI
+1 NAME /Henry_VI_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1190
+1 DEAT
+2 DATE 1197
+1 FAMC @F440@
+1 FAMS @F445@
+0 @I854@ INDI
+1 NAME /Constance_Sicily/
+1 SEX F
+1 DEAT
+2 DATE 1198
+1 FAMS @F445@
+0 @I855@ INDI
+1 NAME /Frederick_V_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1170
+1 FAMC @F440@
+0 @I856@ INDI
+1 NAME /Conrad_II_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1196
+1 FAMC @F440@
+0 @I857@ INDI
+1 NAME /Otto_I_Count_Burgundy/
+1 SEX M
+1 DEAT
+2 DATE 1200
+1 FAMC @F440@
+1 FAMS @F446@
+0 @I858@ INDI
+1 NAME /Margaret_Countess_Blois/
+1 SEX F
+1 FAMS @F446@
+0 @I859@ INDI
+1 NAME /Frederick_VI_Duke_Swabia/
+1 SEX M
+1 DEAT
+2 DATE 1191
+1 FAMC @F440@
+0 @I860@ INDI
+1 NAME /Constance_Aragon/
+1 SEX F
+1 DEAT
+2 DATE 1222
+1 FAMS @F447@
+0 @I861@ INDI
+1 NAME /Yolande_Jerusalem/
+1 SEX F
+1 DEAT
+2 DATE 1228
+1 FAMS @F448@
+0 @I862@ INDI
+1 NAME /Conrad_IV_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1237
+1 DEAT
+2 DATE 1254
+1 FAMC @F448@
+1 FAMS @F449@
+0 @I863@ INDI
+1 NAME /Elisabeth_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1273
+1 FAMS @F449@
+0 @I864@ INDI
+1 NAME /Conradin/
+1 SEX M
+1 DEAT
+2 DATE 1268
+1 FAMC @F449@
+1 NOTE Lost a battle to Charles of Anjou and was executed. The last Hohenstaufen.
+0 @I865@ INDI
+1 NAME /Henry_Germany/
+1 SEX M
+1 DEAT
+2 DATE 1242
+1 FAMC @F447@
+1 FAMS @F450@
+0 @I866@ INDI
+1 NAME /Margaret_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1266
+1 FAMS @F450@
+0 @I867@ INDI
+1 NAME /Henry/
+1 SEX M
+1 DEAT
+2 DATE 1242
+1 FAMC @F450@
+0 @I868@ INDI
+1 NAME /Frederick/
+1 SEX M
+1 DEAT
+2 DATE 1252
+1 FAMC @F450@
+0 @I869@ INDI
+1 NAME /Margaret_Sicily/
+1 SEX F
+1 DEAT
+2 DATE 1270
+1 FAMC @F91@
+1 FAMS @F451@
+0 @I870@ INDI
+1 NAME /Albert_II_Margrave_Meissen/
+1 SEX M
+1 FAMS @F451@
+0 @I871@ INDI
+1 NAME /Frederick_I_Margrave_Meissen/
+1 SEX M
+1 DEAT
+2 DATE 1349
+1 FAMC @F451@
+1 FAMS @F452@
+0 @I872@ INDI
+1 NAME /Frederick_II_Margrave_Meissen/
+1 SEX M
+1 DEAT
+2 DATE 1349
+1 FAMC @F452@
+1 FAMS @F453@
+0 @I873@ INDI
+1 NAME /Matilda/
+1 SEX F
+1 DEAT
+2 DATE 1346
+1 FAMC @F454@
+1 FAMS @F453@
+0 @I874@ INDI
+1 NAME /Louis_IV_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1314
+1 DEAT
+2 DATE 1347
+1 FAMC @F455@
+1 FAMS @F454@
+0 @I875@ INDI
+1 NAME /Beatrix_Silesia-Golau/
+1 SEX F
+1 DEAT
+2 DATE 1322
+1 FAMS @F454@
+0 @I876@ INDI
+1 NAME /Louis_II_Duke_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 1294
+1 FAMS @F455@
+0 @I877@ INDI
+1 NAME /Matilda/
+1 SEX F
+1 DEAT
+2 DATE 1304
+1 FAMC @F456@
+1 FAMS @F455@
+0 @I878@ INDI
+1 NAME /Rudolf_I_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1273
+1 DEAT
+2 DATE 1291
+1 FAMC @F553@
+1 FAMS @F456@
+1 NOTE First Hapsburg Holy Roman Emperor.
+0 @I879@ INDI
+1 NAME /Gertrude_Hohenberg/
+1 SEX F
+1 DEAT
+2 DATE 1281
+1 FAMS @F456@
+0 @I880@ INDI
+1 NAME /Rudolf_Duke_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 1319
+1 FAMC @F455@
+1 FAMS @F458@
+0 @I881@ INDI
+1 NAME /Matilda_Nassau/
+1 SEX F
+1 FAMC @F457@
+1 FAMS @F458@
+0 @I882@ INDI
+1 NAME /Adolf_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1292
+1 DEAT
+2 DATE 1298
+1 FAMS @F457@
+1 NOTE of Nassau
+0 @I883@ INDI
+1 NAME /Albert_I_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1298
+1 DEAT
+2 DATE 1308
+1 FAMC @F456@
+1 FAMS @F465@
+0 @I884@ INDI
+1 NAME /Rudolf_II_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1290
+1 FAMC @F456@
+0 @I886@ INDI
+1 NAME /Ernest_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1424
+1 FAMC @F460@
+1 FAMS @F459@
+0 @I887@ INDI
+1 NAME /Cymburgis_Masovia/
+1 SEX F
+1 DEAT
+2 DATE 1429
+1 FAMS @F459@
+0 @I888@ INDI
+1 NAME /Albert_VI_Archduke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1463
+1 FAMC @F459@
+0 @I889@ INDI
+1 NAME /Frederick_IV_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1439
+1 FAMC @F461@
+1 FAMS @F460@
+0 @I890@ INDI
+1 NAME /Leopold_III_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1386
+1 FAMC @F463@
+1 FAMS @F461@
+0 @I891@ INDI
+1 NAME /Rudollf_IV_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1365
+1 FAMC @F463@
+0 @I892@ INDI
+1 NAME /Albert_II_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1358
+1 FAMC @F465@
+1 FAMS @F463@
+0 @I893@ INDI
+1 NAME /Johanna_Pfirt/
+1 SEX F
+1 FAMS @F463@
+0 @I894@ INDI
+1 NAME /Frederick_III_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1362
+1 FAMC @F463@
+0 @I895@ INDI
+1 NAME /Albert_III_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1395
+1 FAMC @F463@
+1 FAMS @F487@
+1 FAMS @F488@
+0 @I896@ INDI
+1 NAME /Charles_II_the_Bald_France/
+1 SEX M
+1 BIRT
+2 DATE 0843
+1 DEAT
+2 DATE 0877
+1 FAMC @F406@
+1 FAMS @F466@
+0 @I897@ INDI
+1 NAME /Louis_II_the_Stammerer_France/
+1 SEX M
+1 BIRT
+2 DATE 0877
+1 DEAT
+2 DATE 0879
+1 FAMC @F466@
+1 FAMS @F467@
+1 FAMS @F469@
+0 @I898@ INDI
+1 NAME /Louis_III_France/
+1 SEX M
+1 BIRT
+2 DATE 0879
+1 DEAT
+2 DATE 0882
+1 FAMC @F467@
+0 @I899@ INDI
+1 NAME /Carloman_II_France/
+1 SEX M
+1 BIRT
+2 DATE 0879
+1 DEAT
+2 DATE 0884
+1 FAMC @F467@
+0 @I900@ INDI
+1 NAME /Robert_the_Strong/
+1 SEX M
+1 DEAT
+2 DATE 0866
+1 FAMS @F468@
+1 NOTE Margrave in Neustria
+0 @I901@ INDI
+1 NAME /Odo_Paris/
+1 SEX M
+1 BIRT
+2 DATE 0888
+1 DEAT
+2 DATE 0898
+1 FAMC @F468@
+0 @I902@ INDI
+1 NAME /Charles_III_the_Simple_France/
+1 SEX M
+1 BIRT
+2 DATE 0898
+1 DEAT
+2 DATE 0922
+1 FAMC @F469@
+1 FAMS @F476@
+0 @I903@ INDI
+1 NAME /Ansguarde_Burgundy/
+1 SEX F
+1 FAMS @F467@
+0 @I904@ INDI
+1 NAME /Adelaide_Paris/
+1 SEX F
+1 FAMS @F469@
+0 @I905@ INDI
+1 NAME /Ermentrude/
+1 SEX F
+1 DEAT
+2 DATE 0914
+1 FAMC @F469@
+0 @I906@ INDI
+1 NAME /Rudolf_France/
+1 SEX M
+1 BIRT
+2 DATE 0923
+1 DEAT
+2 DATE 0936
+1 FAMC @F472@
+1 FAMS @F471@
+0 @I907@ INDI
+1 NAME /Beatrice_Vermandois/
+1 SEX F
+1 FAMS @F470@
+0 @I908@ INDI
+1 NAME /Emma/
+1 SEX F
+1 FAMC @F470@
+1 FAMS @F471@
+0 @I909@ INDI
+1 NAME /Richard_Judiciar_Burgundy/
+1 SEX M
+1 DEAT
+2 DATE 0921
+1 FAMS @F472@
+0 @I910@ INDI
+1 NAME /Louis_IV_d'Outremer_France/
+1 SEX M
+1 BIRT
+2 DATE 0936
+1 DEAT
+2 DATE 0954
+0 @I911@ INDI
+1 NAME /Lothair_France/
+1 SEX M
+1 BIRT
+2 DATE 0954
+1 DEAT
+2 DATE 0986
+1 FAMS @F475@
+0 @I912@ INDI
+1 NAME /Louis_V_the_Lazy/
+1 SEX M
+1 BIRT
+2 DATE 0986
+1 DEAT
+2 DATE 0987
+1 FAMC @F475@
+0 @I913@ INDI
+1 NAME /Richard_I_Duke_Normandy/
+1 NAME Richard_the_Fearless
+1 SEX M
+1 DEAT
+2 DATE 20 Nov 0996
+1 FAMS @F549@
+0 @I914@ INDI
+1 NAME /Jutte/
+1 SEX F
+1 DEAT
+2 DATE 1297
+1 FAMC @F456@
+1 FAMS @F478@
+0 @I915@ INDI
+1 NAME /Wenceslas_II_Bohemia/
+1 SEX M
+1 FAMS @F478@
+0 @I916@ INDI
+1 NAME /Elisabeth_Bohemia/
+1 SEX F
+1 DEAT
+2 DATE 1330
+1 FAMC @F478@
+1 FAMS @F479@
+0 @I917@ INDI
+1 NAME /John_Bohemia/
+1 SEX M
+1 DEAT
+2 DATE 1346
+1 FAMC @F480@
+1 FAMS @F479@
+0 @I918@ INDI
+1 NAME /Henry_VII_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1308
+1 DEAT
+2 DATE 1313
+1 FAMS @F480@
+0 @I919@ INDI
+1 NAME /Margaret_Brabant/
+1 SEX F
+1 DEAT
+2 DATE 1311
+1 FAMS @F480@
+0 @I920@ INDI
+1 NAME /Charles_IV_Germany/
+1 NAME Karl IV
+1 SEX M
+1 BIRT
+2 DATE 1347
+1 DEAT
+2 DATE 1378
+1 FAMC @F479@
+1 FAMS @F484@
+1 FAMS @F485@
+0 @I921@ INDI
+1 NAME /Anna_Bohemia/
+1 SEX F
+1 DEAT
+2 DATE 1338
+1 FAMC @F479@
+1 FAMS @F481@
+0 @I922@ INDI
+1 NAME /Elizabeth_Tirol/
+1 SEX F
+1 DEAT
+2 DATE 1312
+1 FAMS @F465@
+0 @I923@ INDI
+1 NAME /Leopold_I_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1326
+1 FAMC @F465@
+0 @I924@ INDI
+1 NAME /Rudolf_I_King_Bohemia/
+1 SEX M
+1 DEAT
+2 DATE 1307
+1 FAMC @F465@
+0 @I925@ INDI
+1 NAME /Frederick_I_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1330
+1 FAMC @F465@
+0 @I926@ INDI
+1 NAME /Otto_IV_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1339
+1 FAMC @F465@
+1 FAMS @F481@
+0 @I927@ INDI
+1 NAME /Adolf_Count_Palatine_Rhine/
+1 SEX M
+1 DEAT
+2 DATE 1327
+1 FAMC @F458@
+1 FAMS @F482@
+0 @I928@ INDI
+1 NAME /Irmengard_Ottingen/
+1 SEX F
+1 DEAT
+2 DATE 1399
+1 FAMS @F482@
+0 @I929@ INDI
+1 NAME /Rupert_II_Elector_Palatine/
+1 SEX M
+1 DEAT
+2 DATE 1398
+1 FAMC @F482@
+1 FAMS @F483@
+0 @I930@ INDI
+1 NAME /Beatrix_Sicily/
+1 SEX F
+1 FAMS @F483@
+0 @I931@ INDI
+1 NAME /Rupert_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1400
+1 DEAT
+2 DATE 1410
+1 FAMC @F483@
+0 @I932@ INDI
+1 NAME /Anne_Swidnica/
+1 SEX F
+1 DEAT
+2 DATE 1362
+1 FAMS @F484@
+0 @I933@ INDI
+1 NAME /Elizabeth_Pomerania/
+1 SEX F
+1 DEAT
+2 DATE 1393
+1 FAMS @F485@
+0 @I934@ INDI
+1 NAME /Eliszabeth/
+1 SEX F
+1 DEAT
+2 DATE 1373
+1 FAMC @F484@
+1 FAMS @F487@
+0 @I935@ INDI
+1 NAME /Wenceslas_Germany/
+1 NAME Wenzel
+1 SEX M
+1 BIRT
+2 DATE 1376
+1 DEAT
+2 DATE 1400
+1 FAMC @F484@
+0 @I936@ INDI
+1 NAME /Sigismund_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1410
+1 DEAT
+2 DATE 1437
+1 FAMC @F485@
+1 FAMS @F486@
+0 @I937@ INDI
+1 NAME /Barbara_Celje/
+1 SEX F
+1 DEAT
+2 DATE 1451
+1 FAMS @F486@
+0 @I938@ INDI
+1 NAME /Beatrix_Nuremberg/
+1 SEX F
+1 FAMS @F488@
+0 @I939@ INDI
+1 NAME /Albert_IV_Duke_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1404
+1 FAMC @F488@
+1 FAMS @F489@
+0 @I940@ INDI
+1 NAME /Johanna_Sophia_Bavaria/
+1 SEX F
+1 FAMS @F489@
+0 @I941@ INDI
+1 NAME /Albert_II_Germany/
+1 NAME Duke of Austria
+1 SEX M
+1 BIRT
+2 DATE 1438
+1 DEAT
+2 DATE 1439
+1 FAMC @F489@
+1 FAMS @F490@
+0 @I942@ INDI
+1 NAME /Elisabeth_Bohemia/
+1 SEX F
+1 DEAT
+2 DATE 1442
+1 FAMC @F486@
+1 FAMS @F490@
+0 @I943@ INDI
+1 NAME /William_V_Duke_Bavaria/
+1 SEX M
+1 FAMC @F372@
+1 FAMS @F491@
+0 @I944@ INDI
+1 NAME /Margaret_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1611
+0 @I945@ INDI
+1 NAME /Duke_Welf/
+1 SEX M
+1 FAMS @F492@
+0 @I946@ INDI
+1 NAME /Duke_Welf_Bavaria/
+1 SEX M
+1 FAMC @F435@
+0 @I947@ INDI
+1 NAME Ann /Gonzaga/
+1 SEX F
+1 DEAT
+2 DATE 1621
+1 FAMS @F493@
+0 @I948@ INDI
+1 NAME /Anna_Tyrol/
+1 SEX F
+1 DEAT
+2 DATE 1618
+1 FAMC @F493@
+1 FAMS @F494@
+0 @I949@ INDI
+1 NAME /Rudolph_II_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1575
+1 DEAT
+2 DATE 1612
+1 FAMC @F313@
+0 @I950@ INDI
+1 NAME /Matthias_Roman_Emperor/
+1 SEX M
+1 BIRT
+2 DATE 1612
+1 DEAT
+2 DATE 1619
+1 FAMC @F313@
+1 FAMS @F494@
+0 @I951@ INDI
+1 NAME Eleanor /Gozaga/
+1 SEX F
+1 DEAT
+2 DATE 1686
+1 FAMS @F495@
+0 @I952@ INDI
+1 NAME Eleanor /Josepha_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1697
+1 FAMC @F495@
+1 FAMS @F496@
+0 @I953@ INDI
+1 NAME /Charles_V_Duke_Lorraine/
+1 SEX M
+1 DEAT
+2 DATE 1690
+1 FAMS @F496@
+0 @I954@ INDI
+1 NAME /Leopold_Duke_Lorraine/
+1 SEX M
+1 DEAT
+2 DATE 1729
+1 FAMC @F496@
+1 FAMS @F497@
+0 @I955@ INDI
+1 NAME Maria /Antonia_Austria/
+1 SEX F
+1 DEAT
+2 DATE 1692
+1 FAMC @F373@
+1 FAMS @F498@
+0 @I956@ INDI
+1 NAME /Maximillian_II_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 1726
+1 FAMS @F498@
+0 @I957@ INDI
+1 NAME Maria /Josepha_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1767
+1 FAMC @F369@
+1 FAMS @F499@
+0 @I959@ INDI
+1 NAME /Maria_Teresa_Naples_Sicily/
+1 SEX F
+1 DEAT
+2 DATE 1807
+1 FAMC @F338@
+1 FAMS @F501@
+0 @I960@ INDI
+1 NAME /Marie_Louise_Duchess_Parma/
+1 SEX F
+1 DEAT
+2 DATE 1847
+1 FAMC @F501@
+1 FAMS @F502@
+0 @I961@ INDI
+1 NAME /Ferdinand_I_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1873
+1 FAMC @F501@
+0 @I962@ INDI
+1 NAME Napolean /Bonaparte/
+1 SEX M
+1 BIRT
+2 DATE 1806
+1 DEAT
+2 DATE 1813
+1 FAMC @F540@
+1 FAMS @F542@
+1 FAMS @F502@
+0 @I963@ INDI
+1 NAME /Napolean_II/
+1 SEX M
+1 DEAT
+2 DATE 22 Jul 1832
+1 FAMC @F502@
+0 @I964@ INDI
+1 NAME /Franz_Karl_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1878
+1 FAMC @F501@
+1 FAMS @F503@
+0 @I965@ INDI
+1 NAME /Sophie_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1872
+1 FAMC @F510@
+1 FAMS @F503@
+0 @I966@ INDI
+1 NAME /Franz_Joseph_I_Austria/
+1 SEX M
+1 DEAT
+2 DATE 1916
+1 FAMC @F503@
+1 FAMS @F504@
+0 @I967@ INDI
+1 NAME /Elizabeth_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1898
+1 FAMC @F511@
+1 FAMS @F504@
+0 @I968@ INDI
+1 NAME /Frederick_William_III_Prussia/
+1 SEX M
+1 FAMS @F505@
+0 @I969@ INDI
+1 NAME /Frederick_William_IV_Prussia/
+1 SEX M
+1 DEAT
+2 DATE 1861
+1 FAMC @F505@
+1 FAMS @F509@
+0 @I970@ INDI
+1 NAME /William_I_Prussia_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1871
+1 DEAT
+2 DATE 1888
+1 FAMC @F505@
+1 FAMS @F506@
+1 NOTE In 1857 Frederick William IV was stricken with apoplexy, and his brother William ruled in his place.
+0 @I971@ INDI
+1 NAME /Charles_Prussia/
+1 SEX M
+1 DEAT
+2 DATE 1883
+1 FAMC @F505@
+0 @I972@ INDI
+1 NAME /Augusta_Saxe_Weimar/
+1 SEX F
+1 DEAT
+2 DATE 1890
+1 FAMS @F506@
+0 @I973@ INDI
+1 NAME /Frederick_III_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1888
+1 FAMC @F506@
+1 FAMS @F507@
+0 @I974@ INDI
+1 NAME /Victoria_Princess_Royal/
+1 SEX F
+1 DEAT
+2 DATE 1901
+1 FAMS @F507@
+0 @I975@ INDI
+1 NAME /William_II_Germany/
+1 SEX M
+1 BIRT
+2 DATE 1888
+1 DEAT
+2 DATE 1918
+1 FAMC @F507@
+1 FAMS @F508@
+0 @I976@ INDI
+1 NAME /Augusta_Victoria_Schleswig_Holstein/
+1 SEX F
+1 DEAT
+2 DATE 1921
+1 FAMS @F508@
+0 @I977@ INDI
+1 NAME /Elisabeth_Ludovika_Bavaria/
+1 SEX F
+1 DEAT
+2 DATE 1873
+1 FAMC @F510@
+1 FAMS @F509@
+0 @I978@ INDI
+1 NAME /Maximillian_I_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 1825
+1 FAMS @F510@
+0 @I979@ INDI
+1 NAME /Marie_Ludovika_Bavaria/
+1 SEX F
+1 FAMC @F510@
+1 FAMS @F511@
+0 @I980@ INDI
+1 NAME /Maximillian_Joseph_Bavaria/
+1 SEX M
+1 DEAT
+2 DATE 1888
+1 FAMS @F511@
+0 @I981@ INDI
+1 NAME /Isabella_Countess_Gloucester/
+1 SEX F
+1 FAMS @F512@
+0 @I982@ INDI
+1 NAME /Duncan_I_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1034
+1 DEAT
+2 DATE 1040
+1 FAMC @F535@
+1 FAMS @F513@
+1 NOTE Macbeth's Duncan
+0 @I983@ INDI
+1 NAME /Edmund_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1094
+1 DEAT
+2 DATE 1097
+1 FAMC @F86@
+0 @I984@ INDI
+1 NAME /Edgar_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1097
+1 DEAT
+2 DATE 1107
+1 FAMC @F86@
+0 @I985@ INDI
+1 NAME /Alexander_I_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1107
+1 DEAT
+2 DATE 1124
+1 FAMC @F86@
+0 @I986@ INDI
+1 NAME /David_I_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1124
+1 DEAT
+2 DATE 1153
+1 FAMC @F86@
+1 FAMS @F519@
+0 @I987@ INDI
+1 NAME /Margaret_Scotland/
+1 SEX F
+1 FAMC @F513@
+1 FAMS @F514@
+0 @I988@ INDI
+1 NAME /Marie_de_Courcy/
+1 SEX F
+1 FAMS @F515@
+0 @I989@ INDI
+1 NAME /Isobel_Mar/
+1 SEX F
+1 FAMS @F59@
+0 @I990@ INDI
+1 NAME /Elizabeth_de_Burgh/
+1 SEX F
+1 DEAT
+2 DATE 1327
+1 FAMS @F516@
+0 @I991@ INDI
+1 NAME /David_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1331
+1 DEAT
+2 DATE 1370
+1 FAMC @F516@
+1 FAMS @F517@
+1 FAMS @F518@
+0 @I992@ INDI
+1 NAME Margaret /Drummond/
+1 SEX F
+1 FAMS @F518@
+0 @I993@ INDI
+1 NAME /Henry_Earl_Huntingdon/
+1 SEX M
+1 DEAT
+2 DATE 1152
+1 FAMC @F519@
+1 FAMS @F520@
+0 @I994@ INDI
+1 NAME /Matilda_Northumberland/
+1 SEX F
+1 DEAT
+2 DATE 1131
+1 FAMS @F519@
+0 @I995@ INDI
+1 NAME /Malcolm_IV_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1153
+1 DEAT
+2 DATE 1165
+1 FAMC @F520@
+0 @I996@ INDI
+1 NAME /William_I_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1165
+1 DEAT
+2 DATE 1214
+1 FAMC @F520@
+1 FAMS @F521@
+0 @I997@ INDI
+1 NAME /David_Earl_Huntingdon/
+1 SEX M
+1 FAMC @F520@
+1 FAMS @F522@
+0 @I998@ INDI
+1 NAME /Isobel/
+1 SEX F
+1 FAMC @F522@
+1 FAMS @F523@
+0 @I999@ INDI
+1 NAME /Robert_IV_de_Bruce/
+1 SEX M
+1 FAMS @F523@
+0 @I1000@ INDI
+1 NAME /Robert_V_de_Bruce/
+1 SEX M
+1 FAMC @F523@
+1 FAMS @F524@
+0 @I1001@ INDI
+1 NAME /Robert_VI_de_Bruce/
+1 SEX M
+1 FAMC @F524@
+1 FAMS @F525@
+0 @I1002@ INDI
+1 NAME /Marjorie_Countess_Carrick/
+1 SEX F
+1 FAMC @F526@
+1 FAMS @F525@
+0 @I1003@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMC @F527@
+1 FAMS @F526@
+0 @I1004@ INDI
+1 NAME /Niall_Earl_Carrick/
+1 SEX M
+1 FAMS @F526@
+0 @I1005@ INDI
+1 NAME /Walter_High_Steward/
+1 SEX M
+1 FAMS @F527@
+0 @I1006@ INDI
+1 NAME /Margaret_Scotland/
+1 SEX F
+1 DEAT
+2 DATE 1445
+1 FAMC @F20@
+1 FAMS @F528@
+0 @I1007@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMC @F522@
+1 FAMS @F529@
+0 @I1008@ INDI
+1 NAME /Alan_Lord_Galloway/
+1 SEX M
+1 FAMS @F529@
+0 @I1009@ INDI
+1 NAME /Devorguilla/
+1 SEX F
+1 FAMC @F529@
+1 FAMS @F530@
+0 @I1010@ INDI
+1 NAME /John_I_Balliol/
+1 SEX M
+1 FAMS @F530@
+0 @I1011@ INDI
+1 NAME /Edward_Balliol/
+1 SEX M
+1 FAMC @F530@
+0 @I1012@ INDI
+1 NAME /Margaret_Scotland/
+1 SEX F
+1 DEAT
+2 DATE 1283
+1 FAMC @F93@
+1 FAMS @F531@
+0 @I1013@ INDI
+1 NAME /Eric_II_Norway/
+1 SEX M
+1 DEAT
+2 DATE 1299
+1 FAMS @F531@
+0 @I1014@ INDI
+1 NAME /Margaret_Maid_Norway/
+1 SEX F
+1 BIRT
+2 DATE 1286
+1 DEAT
+2 DATE 1290
+1 FAMC @F531@
+0 @I1015@ INDI
+1 NAME /Donald_III_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1094
+1 DEAT
+2 DATE 1097
+1 FAMC @F513@
+1 FAMS @F532@
+0 @I1016@ INDI
+1 NAME /Bethoc/
+1 SEX F
+1 FAMC @F532@
+1 FAMS @F533@
+0 @I1017@ INDI
+1 NAME /Uctred_Tyndale/
+1 SEX M
+1 FAMS @F533@
+0 @I1018@ INDI
+1 NAME /Hextilda/
+1 SEX F
+1 FAMC @F533@
+1 FAMS @F534@
+0 @I1019@ INDI
+1 NAME Richard /Comyn/
+1 SEX M
+1 FAMS @F534@
+1 NOTE Judiciar of Lothian
+0 @I1020@ INDI
+1 NAME /Bethoc_Scone/
+1 SEX F
+1 FAMC @F536@
+1 FAMS @F535@
+0 @I1021@ INDI
+1 NAME /Malcolm_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1005
+1 DEAT
+2 DATE 1034
+1 FAMS @F536@
+0 @I1022@ INDI
+1 NAME /Unknown/
+1 SEX F
+1 FAMC @F536@
+1 FAMS @F537@
+0 @I1023@ INDI
+1 NAME /Findleach_Moray/
+1 SEX M
+1 FAMS @F537@
+0 @I1024@ INDI
+1 NAME /Macbeth/
+1 SEX M
+1 BIRT
+2 DATE 1040
+1 DEAT
+2 DATE 1057
+1 FAMC @F537@
+0 @I1025@ INDI
+1 NAME /Ingeborg_Thorfinn/
+1 SEX F
+1 FAMS @F538@
+0 @I1026@ INDI
+1 NAME /Duncan_II_Scotland/
+1 SEX M
+1 BIRT
+2 DATE 1094
+1 DEAT
+2 DATE 1094
+1 FAMC @F538@
+0 @I1027@ INDI
+1 NAME /Mary/
+1 SEX F
+1 DEAT
+2 DATE 1116
+1 FAMC @F86@
+1 FAMS @F539@
+0 @I1028@ INDI
+1 NAME /Eustace_Count_Boulogne/
+1 SEX M
+1 FAMS @F539@
+0 @I1029@ INDI
+1 NAME /Blanch/
+1 SEX F
+1 DEAT
+2 DATE 1294
+1 FAMC @F253@
+0 @I1030@ INDI
+1 NAME /Louis_Count_d'Evereux/
+1 SEX M
+1 DEAT
+2 DATE 1319
+1 FAMC @F253@
+0 @I1031@ INDI
+1 NAME /Marguerite/
+1 SEX F
+1 DEAT
+2 DATE 1318
+1 FAMC @F253@
+0 @I1032@ INDI
+1 NAME Carlo /Buonaparte/
+1 SEX M
+1 FAMS @F540@
+0 @I1033@ INDI
+1 NAME Joseph /Bonaparte/
+1 SEX M
+1 FAMC @F540@
+0 @I1034@ INDI
+1 NAME Louis /Bonaparte/
+1 SEX M
+1 FAMC @F540@
+1 FAMS @F541@
+0 @I1035@ INDI
+1 NAME /Napolean_III/
+1 NAME Louise-Napolean Bonaparte
+1 SEX M
+1 DEAT
+2 DATE 9 Jan 1873
+1 FAMC @F541@
+0 @I1036@ INDI
+1 NAME Josephine /de_Beauharnais/
+1 SEX F
+1 DEAT
+2 DATE 29 May 1814
+1 FAMS @F542@
+0 @I1037@ INDI
+1 NAME /Ernest_1_Duke_Saxe-Coburg/
+1 SEX M
+1 FAMC @F544@
+1 FAMS @F543@
+0 @I1038@ INDI
+1 NAME /Francis_Duke_Saxe-Coburg/
+1 SEX M
+1 FAMS @F544@
+0 @I1039@ INDI
+1 NAME /Suzanne_Bourbon/
+1 SEX F
+1 FAMC @F210@
+1 FAMS @F545@
+0 @I1040@ INDI
+1 NAME /Charles_III_Duke_Bourbon/
+1 SEX M
+1 DEAT
+2 DATE 1527
+1 FAMS @F545@
+0 @I1041@ INDI
+1 NAME /Pepin_the_Short/
+1 SEX M
+1 BIRT
+2 DATE 0752
+1 DEAT
+2 DATE 0768
+1 FAMC @F552@
+1 FAMS @F546@
+1 NOTE First of Carolingian Dynasty
+0 @I1042@ INDI
+1 NAME Charles /Martel/
+1 NAME The Hammer
+1 SEX M
+1 DEAT
+2 DATE 22 Oct 741
+1 FAMS @F552@
+0 @I1044@ INDI
+1 NAME /Gunnora_Normandy/
+1 SEX F
+1 DEAT
+2 DATE 1031
+1 FAMS @F549@
+0 @I1045@ INDI
+1 NAME /Richard_II_Duke_Normandy/
+1 NAME The Good
+1 SEX M
+1 DEAT
+2 DATE 1026
+1 FAMC @F549@
+1 FAMS @F550@
+0 @I1049@ INDI
+1 NAME /Judith/
+1 SEX F
+1 DEAT
+2 DATE 1017
+1 FAMC @F551@
+1 FAMS @F550@
+0 @I1050@ INDI
+1 NAME /Conan_Brittany/
+1 SEX M
+1 FAMS @F551@
+0 @I1051@ INDI
+1 NAME /Isabella_Castile/
+1 SEX F
+1 FAMC @F374@
+1 FAMS @F26@
+0 @I1052@ INDI
+1 NAME /Carloman/
+1 SEX M
+1 BIRT
+2 DATE 0741
+1 DEAT
+2 DATE 0747
+1 FAMC @F552@
+0 @I1053@ INDI
+1 NAME /Carloman_I/
+1 SEX M
+1 BIRT
+2 DATE 0768
+1 DEAT
+2 DATE 0771
+1 FAMC @F546@
+0 @I1054@ INDI
+1 NAME /Albert_IV_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 13 Dec 1239
+1 FAMC @F554@
+1 FAMS @F553@
+0 @I1055@ INDI
+1 NAME /Hedwig_Kyburg/
+1 SEX F
+1 FAMS @F553@
+0 @I1056@ INDI
+1 NAME /Rudolph_II_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 10 Apr 1232
+1 FAMC @F555@
+1 FAMS @F554@
+0 @I1057@ INDI
+1 NAME /Agnes_Staufen/
+1 SEX F
+1 FAMS @F554@
+0 @I1058@ INDI
+1 NAME /Albert_III_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 1199
+1 FAMC @F556@
+1 FAMS @F555@
+0 @I1059@ INDI
+1 NAME /Werner_II_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 19 Aug 1167
+1 FAMC @F557@
+1 FAMS @F556@
+0 @I1060@ INDI
+1 NAME /Otto_II_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 8 Nov 1111
+1 FAMC @F558@
+1 FAMS @F557@
+0 @I1061@ INDI
+1 NAME /Werner_I_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 11 Nov 1096
+1 FAMC @F559@
+1 FAMS @F558@
+0 @I1062@ INDI
+1 NAME /Radbot_Count_Habsburg/
+1 SEX M
+1 DEAT
+2 DATE 1045
+1 FAMS @F559@
+1 NOTE Founded the Habsburg Castle
+0 @I1063@ INDI
+1 NAME Catherine Elizabeth /Middleton/
+1 SEX F
+1 BIRT
+2 DATE 9 Jan 1982
+1 FAMS @F560@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I188@
+1 CHIL @I186@
+1 CHIL @I6@
+1 CHIL @I3@
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I7@
+0 @F4@ FAM
+1 HUSB @I7@
+1 WIFE @I768@
+1 CHIL @I190@
+1 CHIL @I8@
+0 @F5@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I50@
+1 CHIL @I21@
+1 CHIL @I20@
+1 CHIL @I19@
+1 CHIL @I18@
+1 CHIL @I15@
+0 @F6@ FAM
+1 HUSB @I6@
+1 CHIL @I12@
+1 CHIL @I11@
+0 @F7@ FAM
+1 HUSB @I12@
+1 CHIL @I13@
+0 @F8@ FAM
+1 HUSB @I13@
+1 CHIL @I23@
+0 @F9@ FAM
+1 HUSB @I15@
+1 WIFE @I17@
+1 CHIL @I116@
+0 @F10@ FAM
+1 HUSB @I19@
+1 WIFE @I22@
+1 CHIL @I81@
+0 @F11@ FAM
+1 MARR
+2 DATE 1371
+1 HUSB @I20@
+1 WIFE @I23@
+1 CHIL @I24@
+0 @F12@ FAM
+1 HUSB @I20@
+1 WIFE @I25@
+1 CHIL @I722@
+0 @F13@ FAM
+1 MARR
+2 DATE 1396
+1 HUSB @I20@
+1 WIFE @I26@
+1 CHIL @I196@
+1 CHIL @I29@
+1 CHIL @I28@
+1 CHIL @I27@
+0 @F14@ FAM
+1 HUSB @I24@
+1 WIFE @I30@
+1 CHIL @I34@
+1 CHIL @I33@
+1 CHIL @I32@
+1 CHIL @I31@
+0 @F15@ FAM
+1 HUSB @I34@
+1 WIFE @I35@
+1 CHIL @I42@
+0 @F16@ FAM
+1 HUSB @I36@
+1 WIFE @I35@
+1 CHIL @I39@
+1 CHIL @I38@
+0 @F17@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I41@
+0 @F18@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I44@
+0 @F19@ FAM
+1 HUSB @I28@
+1 WIFE @I195@
+1 CHIL @I192@
+1 CHIL @I47@
+1 CHIL @I46@
+0 @F20@ FAM
+1 HUSB @I48@
+1 WIFE @I47@
+1 CHIL @I1006@
+1 CHIL @I110@
+0 @F22@ FAM
+1 HUSB @I21@
+1 CHIL @I51@
+0 @F23@ FAM
+1 HUSB @I52@
+1 WIFE @I51@
+1 CHIL @I53@
+0 @F24@ FAM
+1 HUSB @I53@
+1 CHIL @I54@
+0 @F25@ FAM
+1 HUSB @I54@
+1 CHIL @I55@
+0 @F26@ FAM
+1 HUSB @I50@
+1 WIFE @I1051@
+1 CHIL @I56@
+0 @F27@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I58@
+0 @F28@ FAM
+1 HUSB @I58@
+1 WIFE @I59@
+1 CHIL @I70@
+1 CHIL @I68@
+1 CHIL @I66@
+1 CHIL @I65@
+1 CHIL @I62@
+0 @F29@ FAM
+1 HUSB @I46@
+1 CHIL @I61@
+1 CHIL @I60@
+0 @F30@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I87@
+1 CHIL @I73@
+1 CHIL @I72@
+1 CHIL @I64@
+0 @F31@ FAM
+1 HUSB @I66@
+1 WIFE @I67@
+1 CHIL @I203@
+0 @F32@ FAM
+1 HUSB @I68@
+1 WIFE @I69@
+1 CHIL @I202@
+0 @F33@ FAM
+1 HUSB @I71@
+1 WIFE @I70@
+0 @F34@ FAM
+1 HUSB @I41@
+1 WIFE @I73@
+1 CHIL @I100@
+1 CHIL @I92@
+1 CHIL @I91@
+1 CHIL @I74@
+0 @F35@ FAM
+1 HUSB @I75@
+1 WIFE @I227@
+1 CHIL @I76@
+1 CHIL @I57@
+0 @F36@ FAM
+1 HUSB @I77@
+1 WIFE @I81@
+1 CHIL @I85@
+1 CHIL @I82@
+1 CHIL @I75@
+0 @F37@ FAM
+1 HUSB @I78@
+1 CHIL @I77@
+0 @F38@ FAM
+1 HUSB @I79@
+1 CHIL @I78@
+0 @F39@ FAM
+1 HUSB @I80@
+1 CHIL @I79@
+0 @F40@ FAM
+1 HUSB @I82@
+1 WIFE @I83@
+0 @F41@ FAM
+1 HUSB @I84@
+1 CHIL @I83@
+0 @F42@ FAM
+1 HUSB @I86@
+1 WIFE @I85@
+0 @F43@ FAM
+1 HUSB @I88@
+1 WIFE @I87@
+1 CHIL @I89@
+0 @F44@ FAM
+1 HUSB @I89@
+1 CHIL @I90@
+0 @F45@ FAM
+1 HUSB @I93@
+1 WIFE @I92@
+1 CHIL @I109@
+0 @F46@ FAM
+1 HUSB @I94@
+1 WIFE @I92@
+1 CHIL @I95@
+0 @F47@ FAM
+1 HUSB @I96@
+1 WIFE @I95@
+1 CHIL @I97@
+0 @F48@ FAM
+1 MARR
+2 DATE July 1565
+1 HUSB @I97@
+1 WIFE @I98@
+1 CHIL @I99@
+0 @F50@ FAM
+1 HUSB @I102@
+1 WIFE @I100@
+1 CHIL @I103@
+0 @F51@ FAM
+1 HUSB @I104@
+1 WIFE @I103@
+1 CHIL @I107@
+1 CHIL @I350@
+1 CHIL @I105@
+0 @F52@ FAM
+1 HUSB @I106@
+1 WIFE @I105@
+0 @F54@ FAM
+1 HUSB @I109@
+1 WIFE @I219@
+1 CHIL @I98@
+0 @F56@ FAM
+1 HUSB @I111@
+1 CHIL @I48@
+0 @F57@ FAM
+1 HUSB @I112@
+1 CHIL @I111@
+0 @F58@ FAM
+1 HUSB @I114@
+1 WIFE @I113@
+1 CHIL @I112@
+0 @F59@ FAM
+1 HUSB @I115@
+1 WIFE @I989@
+1 CHIL @I113@
+0 @F60@ FAM
+1 HUSB @I116@
+1 WIFE @I117@
+0 @F61@ FAM
+1 HUSB @I116@
+1 WIFE @I118@
+0 @F63@ FAM
+1 MARR
+2 DATE 1200
+1 HUSB @I119@
+1 WIFE @I121@
+1 CHIL @I183@
+1 CHIL @I178@
+1 CHIL @I181@
+1 CHIL @I176@
+1 CHIL @I1@
+0 @F65@ FAM
+1 MARR
+2 DATE 1152
+1 HUSB @I122@
+1 WIFE @I123@
+1 CHIL @I126@
+1 CHIL @I125@
+1 CHIL @I124@
+1 CHIL @I119@
+0 @F66@ FAM
+1 HUSB @I126@
+1 WIFE @I127@
+1 CHIL @I128@
+0 @F67@ FAM
+1 HUSB @I129@
+1 WIFE @I130@
+1 CHIL @I134@
+1 CHIL @I133@
+1 CHIL @I132@
+1 CHIL @I131@
+0 @F68@ FAM
+1 HUSB @I135@
+1 WIFE @I134@
+1 CHIL @I137@
+1 CHIL @I136@
+0 @F69@ FAM
+1 HUSB @I136@
+1 WIFE @I138@
+1 CHIL @I139@
+0 @F70@ FAM
+1 HUSB @I133@
+1 WIFE @I140@
+1 CHIL @I142@
+1 CHIL @I141@
+0 @F71@ FAM
+1 HUSB @I143@
+1 WIFE @I142@
+0 @F72@ FAM
+1 MARR
+2 DATE June 1128
+1 HUSB @I144@
+1 WIFE @I142@
+1 CHIL @I349@
+1 CHIL @I122@
+0 @F73@ FAM
+1 HUSB @I99@
+1 WIFE @I145@
+1 CHIL @I148@
+1 CHIL @I147@
+1 CHIL @I146@
+0 @F74@ FAM
+1 HUSB @I147@
+1 WIFE @I149@
+1 CHIL @I537@
+1 CHIL @I156@
+1 CHIL @I153@
+1 CHIL @I151@
+0 @F75@ FAM
+1 HUSB @I150@
+1 WIFE @I148@
+1 CHIL @I165@
+1 CHIL @I164@
+1 CHIL @I163@
+0 @F76@ FAM
+1 HUSB @I151@
+1 WIFE @I152@
+0 @F77@ FAM
+1 HUSB @I154@
+1 WIFE @I153@
+1 CHIL @I155@
+0 @F78@ FAM
+1 HUSB @I156@
+1 WIFE @I157@
+1 CHIL @I200@
+1 CHIL @I159@
+0 @F79@ FAM
+1 HUSB @I156@
+1 WIFE @I158@
+1 CHIL @I160@
+0 @F80@ FAM
+1 HUSB @I155@
+1 WIFE @I159@
+0 @F81@ FAM
+1 HUSB @I160@
+1 WIFE @I360@
+1 CHIL @I162@
+1 CHIL @I161@
+0 @F82@ FAM
+1 HUSB @I166@
+1 WIFE @I165@
+1 CHIL @I167@
+0 @F83@ FAM
+1 HUSB @I167@
+1 WIFE @I168@
+1 CHIL @I170@
+1 CHIL @I169@
+0 @F84@ FAM
+1 HUSB @I171@
+1 WIFE @I170@
+0 @F85@ FAM
+1 HUSB @I169@
+1 WIFE @I172@
+1 CHIL @I240@
+1 CHIL @I239@
+1 CHIL @I238@
+1 CHIL @I237@
+1 CHIL @I232@
+1 CHIL @I230@
+1 CHIL @I228@
+0 @F86@ FAM
+1 HUSB @I173@
+1 WIFE @I413@
+1 CHIL @I1027@
+1 CHIL @I986@
+1 CHIL @I985@
+1 CHIL @I984@
+1 CHIL @I983@
+1 CHIL @I140@
+0 @F87@ FAM
+1 HUSB @I125@
+1 WIFE @I175@
+0 @F88@ FAM
+1 HUSB @I177@
+1 WIFE @I178@
+1 CHIL @I204@
+0 @F90@ FAM
+1 HUSB @I182@
+1 WIFE @I181@
+0 @F91@ FAM
+1 HUSB @I184@
+1 WIFE @I183@
+1 CHIL @I869@
+0 @F92@ FAM
+1 HUSB @I185@
+1 WIFE @I178@
+0 @F93@ FAM
+1 HUSB @I187@
+1 WIFE @I186@
+1 CHIL @I1012@
+0 @F94@ FAM
+1 HUSB @I189@
+1 WIFE @I188@
+0 @F97@ FAM
+1 HUSB @I192@
+1 WIFE @I193@
+1 CHIL @I40@
+0 @F98@ FAM
+1 HUSB @I197@
+1 WIFE @I196@
+1 CHIL @I198@
+1 CHIL @I59@
+0 @F99@ FAM
+1 HUSB @I198@
+1 CHIL @I199@
+0 @F101@ FAM
+1 HUSB @I201@
+1 WIFE @I200@
+0 @F102@ FAM
+1 HUSB @I205@
+1 WIFE @I204@
+1 CHIL @I206@
+0 @F103@ FAM
+1 HUSB @I206@
+1 CHIL @I207@
+0 @F104@ FAM
+1 HUSB @I207@
+1 CHIL @I208@
+0 @F105@ FAM
+1 HUSB @I208@
+1 CHIL @I209@
+0 @F106@ FAM
+1 HUSB @I209@
+1 CHIL @I210@
+0 @F107@ FAM
+1 HUSB @I210@
+1 CHIL @I36@
+0 @F108@ FAM
+1 HUSB @I91@
+1 WIFE @I211@
+0 @F109@ FAM
+1 HUSB @I212@
+1 WIFE @I213@
+1 CHIL @I611@
+1 CHIL @I609@
+1 CHIL @I438@
+1 CHIL @I211@
+0 @F110@ FAM
+1 HUSB @I110@
+1 CHIL @I220@
+1 CHIL @I214@
+0 @F111@ FAM
+1 HUSB @I214@
+1 WIFE @I222@
+1 CHIL @I93@
+0 @F113@ FAM
+1 MARR
+2 DATE 1509
+1 HUSB @I74@
+1 WIFE @I211@
+1 CHIL @I217@
+0 @F114@ FAM
+1 MARR
+2 DATE 1533
+1 HUSB @I74@
+1 WIFE @I215@
+1 CHIL @I218@
+0 @F115@ FAM
+1 MARR
+2 DATE 1536
+1 HUSB @I74@
+1 WIFE @I216@
+1 CHIL @I345@
+0 @F116@ FAM
+1 HUSB @I220@
+1 CHIL @I221@
+0 @F117@ FAM
+1 MARR
+2 DATE April 1558
+1 HUSB @I223@
+1 WIFE @I98@
+0 @F119@ FAM
+1 MARR
+2 DATE May 1567
+1 HUSB @I225@
+1 WIFE @I98@
+0 @F120@ FAM
+1 HUSB @I226@
+1 WIFE @I414@
+1 CHIL @I416@
+1 CHIL @I35@
+1 CHIL @I118@
+0 @F121@ FAM
+1 HUSB @I44@
+1 WIFE @I69@
+0 @F122@ FAM
+1 HUSB @I199@
+1 CHIL @I69@
+0 @F123@ FAM
+1 HUSB @I228@
+1 WIFE @I229@
+1 CHIL @I262@
+1 CHIL @I261@
+1 CHIL @I260@
+1 CHIL @I259@
+1 CHIL @I235@
+1 CHIL @I233@
+0 @F124@ FAM
+1 HUSB @I231@
+1 WIFE @I230@
+0 @F125@ FAM
+1 HUSB @I234@
+1 WIFE @I233@
+1 CHIL @I244@
+0 @F126@ FAM
+1 HUSB @I235@
+1 WIFE @I236@
+1 CHIL @I251@
+1 CHIL @I250@
+1 CHIL @I249@
+1 CHIL @I248@
+1 CHIL @I247@
+1 CHIL @I246@
+1 CHIL @I245@
+0 @F127@ FAM
+1 HUSB @I241@
+1 WIFE @I239@
+0 @F128@ FAM
+1 HUSB @I242@
+1 WIFE @I240@
+1 CHIL @I243@
+0 @F129@ FAM
+1 HUSB @I245@
+1 WIFE @I244@
+1 CHIL @I255@
+0 @F130@ FAM
+1 HUSB @I247@
+1 WIFE @I253@
+0 @F131@ FAM
+1 HUSB @I248@
+1 WIFE @I254@
+1 CHIL @I257@
+0 @F132@ FAM
+1 HUSB @I256@
+1 WIFE @I255@
+0 @F133@ FAM
+1 HUSB @I258@
+1 WIFE @I257@
+1 CHIL @I273@
+1 CHIL @I272@
+1 CHIL @I271@
+1 CHIL @I270@
+1 CHIL @I269@
+1 CHIL @I268@
+1 CHIL @I267@
+1 CHIL @I266@
+1 CHIL @I264@
+0 @F134@ FAM
+1 HUSB @I243@
+1 WIFE @I262@
+0 @F135@ FAM
+1 HUSB @I260@
+1 WIFE @I263@
+0 @F136@ FAM
+1 HUSB @I265@
+1 WIFE @I264@
+1 CHIL @I286@
+0 @F137@ FAM
+1 HUSB @I251@
+1 CHIL @I275@
+1 CHIL @I274@
+0 @F138@ FAM
+1 HUSB @I276@
+1 WIFE @I275@
+1 CHIL @I277@
+0 @F139@ FAM
+1 HUSB @I266@
+1 WIFE @I278@
+1 CHIL @I291@
+1 CHIL @I290@
+1 CHIL @I289@
+1 CHIL @I288@
+0 @F140@ FAM
+1 HUSB @I279@
+1 CHIL @I278@
+0 @F141@ FAM
+1 HUSB @I280@
+1 WIFE @I267@
+1 CHIL @I341@
+1 CHIL @I340@
+0 @F142@ FAM
+1 HUSB @I281@
+1 WIFE @I269@
+0 @F143@ FAM
+1 HUSB @I282@
+1 WIFE @I270@
+0 @F144@ FAM
+1 HUSB @I283@
+1 WIFE @I273@
+1 CHIL @I284@
+0 @F145@ FAM
+1 HUSB @I285@
+1 WIFE @I284@
+0 @F146@ FAM
+1 HUSB @I286@
+1 WIFE @I809@
+1 CHIL @I287@
+0 @F147@ FAM
+1 HUSB @I289@
+1 WIFE @I277@
+1 CHIL @I310@
+1 CHIL @I309@
+1 CHIL @I307@
+1 CHIL @I295@
+1 CHIL @I294@
+0 @F148@ FAM
+1 HUSB @I292@
+1 WIFE @I290@
+0 @F149@ FAM
+1 HUSB @I293@
+1 WIFE @I291@
+0 @F150@ FAM
+1 HUSB @I294@
+1 WIFE @I296@
+0 @F151@ FAM
+1 HUSB @I295@
+1 WIFE @I297@
+1 CHIL @I300@
+1 CHIL @I298@
+0 @F152@ FAM
+1 HUSB @I299@
+1 WIFE @I298@
+1 CHIL @I322@
+1 CHIL @I321@
+1 CHIL @I320@
+1 CHIL @I304@
+0 @F153@ FAM
+1 HUSB @I301@
+1 WIFE @I300@
+1 CHIL @I303@
+1 CHIL @I302@
+0 @F154@ FAM
+1 HUSB @I304@
+1 WIFE @I305@
+1 CHIL @I344@
+1 CHIL @I343@
+0 @F155@ FAM
+1 HUSB @I306@
+1 WIFE @I358@
+1 CHIL @I297@
+0 @F156@ FAM
+1 HUSB @I308@
+1 WIFE @I307@
+1 CHIL @I318@
+0 @F157@ FAM
+1 HUSB @I310@
+1 WIFE @I311@
+1 CHIL @I317@
+1 CHIL @I316@
+1 CHIL @I315@
+0 @F158@ FAM
+1 HUSB @I309@
+1 WIFE @I312@
+1 CHIL @I314@
+1 CHIL @I313@
+0 @F159@ FAM
+1 HUSB @I323@
+1 WIFE @I320@
+1 CHIL @I326@
+1 CHIL @I325@
+0 @F160@ FAM
+1 HUSB @I324@
+1 WIFE @I320@
+0 @F161@ FAM
+1 HUSB @I321@
+1 WIFE @I327@
+1 CHIL @I329@
+1 CHIL @I328@
+0 @F162@ FAM
+1 HUSB @I322@
+1 WIFE @I330@
+1 CHIL @I347@
+0 @F163@ FAM
+1 HUSB @I302@
+1 WIFE @I331@
+1 CHIL @I334@
+1 CHIL @I333@
+0 @F164@ FAM
+1 HUSB @I332@
+1 WIFE @I303@
+1 CHIL @I336@
+1 CHIL @I335@
+0 @F165@ FAM
+1 HUSB @I337@
+1 WIFE @I338@
+1 CHIL @I299@
+0 @F166@ FAM
+1 HUSB @I339@
+1 WIFE @I340@
+1 CHIL @I338@
+0 @F167@ FAM
+1 HUSB @I342@
+1 WIFE @I341@
+0 @F168@ FAM
+1 MARR
+2 DATE 1540
+1 HUSB @I74@
+1 WIFE @I346@
+0 @F169@ FAM
+1 HUSB @I348@
+1 CHIL @I305@
+0 @F170@ FAM
+1 HUSB @I351@
+1 CHIL @I106@
+0 @F171@ FAM
+1 HUSB @I352@
+1 WIFE @I107@
+1 CHIL @I355@
+0 @F172@ FAM
+1 HUSB @I353@
+1 WIFE @I354@
+1 CHIL @I352@
+0 @F173@ FAM
+1 HUSB @I355@
+1 WIFE @I357@
+1 CHIL @I356@
+0 @F175@ FAM
+1 HUSB @I161@
+1 WIFE @I361@
+0 @F176@ FAM
+1 HUSB @I362@
+1 CHIL @I130@
+0 @F177@ FAM
+1 HUSB @I363@
+1 CHIL @I362@
+0 @F178@ FAM
+1 HUSB @I364@
+1 CHIL @I363@
+0 @F179@ FAM
+1 HUSB @I365@
+1 CHIL @I364@
+0 @F180@ FAM
+1 HUSB @I366@
+1 CHIL @I365@
+0 @F181@ FAM
+1 HUSB @I367@
+1 WIFE @I368@
+1 CHIL @I366@
+0 @F183@ FAM
+1 HUSB @I369@
+1 WIFE @I370@
+1 CHIL @I368@
+1 CHIL @I372@
+1 CHIL @I371@
+0 @F185@ FAM
+1 HUSB @I373@
+1 CHIL @I377@
+1 CHIL @I376@
+1 CHIL @I375@
+1 CHIL @I369@
+0 @F186@ FAM
+1 HUSB @I374@
+1 CHIL @I373@
+0 @F187@ FAM
+1 HUSB @I376@
+1 CHIL @I378@
+0 @F188@ FAM
+1 HUSB @I378@
+1 WIFE @I379@
+1 CHIL @I394@
+0 @F190@ FAM
+1 HUSB @I381@
+1 CHIL @I382@
+0 @F191@ FAM
+1 HUSB @I382@
+1 CHIL @I383@
+0 @F192@ FAM
+1 HUSB @I383@
+1 CHIL @I385@
+1 CHIL @I384@
+0 @F193@ FAM
+1 HUSB @I386@
+1 WIFE @I385@
+0 @F194@ FAM
+1 HUSB @I387@
+1 WIFE @I371@
+1 CHIL @I388@
+0 @F195@ FAM
+1 HUSB @I372@
+1 CHIL @I393@
+1 CHIL @I392@
+1 CHIL @I391@
+1 CHIL @I390@
+1 CHIL @I389@
+0 @F196@ FAM
+1 HUSB @I394@
+1 CHIL @I395@
+1 CHIL @I380@
+0 @F197@ FAM
+1 HUSB @I396@
+1 WIFE @I395@
+0 @F198@ FAM
+1 HUSB @I392@
+1 CHIL @I397@
+1 CHIL @I396@
+0 @F199@ FAM
+1 HUSB @I397@
+1 CHIL @I400@
+1 CHIL @I399@
+1 CHIL @I398@
+0 @F200@ FAM
+1 HUSB @I400@
+1 WIFE @I401@
+1 CHIL @I403@
+0 @F201@ FAM
+1 HUSB @I400@
+1 WIFE @I402@
+1 CHIL @I407@
+1 CHIL @I406@
+1 CHIL @I386@
+0 @F202@ FAM
+1 HUSB @I403@
+1 CHIL @I404@
+0 @F203@ FAM
+1 HUSB @I404@
+1 CHIL @I413@
+1 CHIL @I405@
+0 @F204@ FAM
+1 HUSB @I408@
+1 WIFE @I407@
+1 CHIL @I409@
+0 @F205@ FAM
+1 HUSB @I410@
+1 WIFE @I402@
+1 CHIL @I412@
+1 CHIL @I411@
+0 @F206@ FAM
+1 HUSB @I380@
+1 CHIL @I381@
+0 @F207@ FAM
+1 HUSB @I415@
+1 WIFE @I118@
+0 @F208@ FAM
+1 HUSB @I416@
+1 WIFE @I469@
+1 CHIL @I418@
+1 CHIL @I417@
+0 @F209@ FAM
+1 MARR
+2 DATE 1451
+1 HUSB @I417@
+1 WIFE @I750@
+1 CHIL @I421@
+1 CHIL @I420@
+1 CHIL @I419@
+0 @F210@ FAM
+1 HUSB @I422@
+1 WIFE @I420@
+1 CHIL @I1039@
+0 @F212@ FAM
+1 HUSB @I424@
+1 WIFE @I471@
+1 CHIL @I425@
+1 CHIL @I226@
+0 @F213@ FAM
+1 HUSB @I426@
+1 WIFE @I473@
+1 CHIL @I479@
+1 CHIL @I431@
+1 CHIL @I430@
+1 CHIL @I429@
+1 CHIL @I424@
+0 @F214@ FAM
+1 HUSB @I427@
+1 WIFE @I487@
+1 CHIL @I426@
+0 @F215@ FAM
+1 HUSB @I428@
+1 WIFE @I482@
+1 CHIL @I485@
+1 CHIL @I483@
+1 CHIL @I427@
+0 @F216@ FAM
+1 HUSB @I431@
+1 WIFE @I475@
+1 CHIL @I432@
+0 @F217@ FAM
+1 HUSB @I432@
+1 WIFE @I729@
+1 CHIL @I741@
+1 CHIL @I433@
+0 @F218@ FAM
+1 HUSB @I433@
+1 WIFE @I606@
+1 CHIL @I434@
+0 @F219@ FAM
+1 HUSB @I434@
+1 WIFE @I603@
+1 CHIL @I435@
+0 @F220@ FAM
+1 HUSB @I436@
+1 WIFE @I435@
+1 CHIL @I598@
+1 CHIL @I437@
+0 @F221@ FAM
+1 HUSB @I437@
+1 WIFE @I438@
+1 CHIL @I449@
+1 CHIL @I614@
+1 CHIL @I602@
+1 CHIL @I439@
+0 @F222@ FAM
+1 HUSB @I425@
+1 WIFE @I468@
+1 CHIL @I751@
+1 CHIL @I441@
+1 CHIL @I440@
+0 @F223@ FAM
+1 HUSB @I440@
+1 WIFE @I470@
+1 CHIL @I442@
+0 @F224@ FAM
+1 HUSB @I441@
+1 WIFE @I525@
+1 CHIL @I443@
+0 @F225@ FAM
+1 HUSB @I443@
+1 WIFE @I444@
+1 CHIL @I446@
+1 CHIL @I526@
+0 @F226@ FAM
+1 HUSB @I445@
+1 WIFE @I749@
+1 CHIL @I444@
+0 @F227@ FAM
+1 HUSB @I446@
+1 WIFE @I447@
+1 CHIL @I452@
+1 CHIL @I451@
+1 CHIL @I448@
+0 @F229@ FAM
+1 HUSB @I446@
+1 WIFE @I449@
+0 @F230@ FAM
+1 HUSB @I448@
+1 WIFE @I450@
+1 CHIL @I628@
+1 CHIL @I460@
+1 CHIL @I458@
+1 CHIL @I455@
+1 CHIL @I454@
+1 CHIL @I223@
+0 @F231@ FAM
+1 HUSB @I109@
+1 WIFE @I451@
+0 @F232@ FAM
+1 HUSB @I452@
+1 WIFE @I453@
+0 @F234@ FAM
+1 HUSB @I459@
+1 WIFE @I458@
+0 @F237@ FAM
+1 HUSB @I461@
+1 WIFE @I464@
+1 CHIL @I149@
+1 CHIL @I531@
+1 CHIL @I465@
+0 @F238@ FAM
+1 HUSB @I465@
+1 WIFE @I534@
+1 CHIL @I536@
+1 CHIL @I466@
+0 @F239@ FAM
+1 HUSB @I442@
+1 WIFE @I421@
+0 @F240@ FAM
+1 HUSB @I442@
+1 WIFE @I467@
+1 CHIL @I447@
+1 CHIL @I462@
+0 @F241@ FAM
+1 HUSB @I442@
+1 WIFE @I100@
+0 @F242@ FAM
+1 HUSB @I463@
+1 WIFE @I462@
+0 @F243@ FAM
+1 HUSB @I472@
+1 WIFE @I479@
+1 CHIL @I468@
+0 @F244@ FAM
+1 HUSB @I426@
+1 WIFE @I474@
+0 @F245@ FAM
+1 HUSB @I429@
+1 WIFE @I476@
+1 CHIL @I477@
+0 @F246@ FAM
+1 HUSB @I477@
+1 WIFE @I478@
+1 CHIL @I469@
+0 @F247@ FAM
+1 HUSB @I480@
+1 WIFE @I489@
+1 CHIL @I516@
+1 CHIL @I428@
+0 @F248@ FAM
+1 HUSB @I428@
+1 WIFE @I481@
+0 @F249@ FAM
+1 HUSB @I484@
+1 WIFE @I483@
+0 @F250@ FAM
+1 HUSB @I486@
+1 WIFE @I485@
+1 CHIL @I9@
+0 @F251@ FAM
+1 HUSB @I427@
+1 WIFE @I488@
+0 @F253@ FAM
+1 HUSB @I480@
+1 WIFE @I490@
+1 CHIL @I1031@
+1 CHIL @I1030@
+1 CHIL @I1029@
+0 @F254@ FAM
+1 HUSB @I491@
+1 WIFE @I492@
+1 CHIL @I502@
+1 CHIL @I500@
+1 CHIL @I498@
+1 CHIL @I480@
+1 CHIL @I496@
+1 CHIL @I494@
+1 CHIL @I493@
+0 @F255@ FAM
+1 HUSB @I495@
+1 WIFE @I494@
+0 @F256@ FAM
+1 HUSB @I497@
+1 WIFE @I496@
+0 @F257@ FAM
+1 HUSB @I498@
+1 WIFE @I499@
+0 @F258@ FAM
+1 HUSB @I501@
+1 WIFE @I500@
+0 @F259@ FAM
+1 HUSB @I503@
+1 WIFE @I502@
+0 @F260@ FAM
+1 HUSB @I504@
+1 WIFE @I505@
+1 CHIL @I491@
+0 @F261@ FAM
+1 HUSB @I506@
+1 WIFE @I507@
+1 CHIL @I504@
+0 @F262@ FAM
+1 HUSB @I506@
+1 WIFE @I508@
+0 @F263@ FAM
+1 HUSB @I506@
+1 WIFE @I509@
+0 @F264@ FAM
+1 HUSB @I510@
+1 WIFE @I123@
+1 CHIL @I512@
+1 CHIL @I511@
+0 @F265@ FAM
+1 HUSB @I513@
+1 WIFE @I511@
+0 @F266@ FAM
+1 HUSB @I514@
+1 WIFE @I512@
+0 @F267@ FAM
+1 HUSB @I510@
+1 WIFE @I515@
+1 CHIL @I506@
+0 @F268@ FAM
+1 HUSB @I516@
+1 WIFE @I517@
+1 CHIL @I768@
+1 CHIL @I520@
+1 CHIL @I519@
+1 CHIL @I518@
+0 @F269@ FAM
+1 HUSB @I520@
+1 WIFE @I521@
+1 CHIL @I523@
+0 @F270@ FAM
+1 HUSB @I520@
+1 WIFE @I522@
+0 @F271@ FAM
+1 HUSB @I524@
+1 WIFE @I523@
+1 CHIL @I488@
+0 @F272@ FAM
+1 HUSB @I527@
+1 WIFE @I526@
+1 CHIL @I528@
+0 @F273@ FAM
+1 HUSB @I529@
+1 WIFE @I528@
+1 CHIL @I461@
+0 @F274@ FAM
+1 HUSB @I532@
+1 WIFE @I531@
+1 CHIL @I539@
+1 CHIL @I535@
+0 @F275@ FAM
+1 HUSB @I533@
+1 WIFE @I624@
+1 CHIL @I625@
+1 CHIL @I534@
+1 CHIL @I532@
+0 @F277@ FAM
+1 HUSB @I466@
+1 WIFE @I535@
+1 CHIL @I549@
+0 @F278@ FAM
+1 HUSB @I536@
+1 WIFE @I537@
+1 CHIL @I538@
+0 @F279@ FAM
+1 HUSB @I539@
+1 WIFE @I538@
+0 @F280@ FAM
+1 HUSB @I536@
+1 WIFE @I540@
+1 CHIL @I541@
+0 @F281@ FAM
+1 HUSB @I541@
+1 WIFE @I542@
+1 CHIL @I546@
+1 CHIL @I545@
+1 CHIL @I544@
+0 @F282@ FAM
+1 HUSB @I466@
+1 WIFE @I543@
+1 CHIL @I542@
+0 @F283@ FAM
+1 HUSB @I546@
+1 WIFE @I547@
+1 CHIL @I565@
+0 @F285@ FAM
+1 HUSB @I549@
+1 WIFE @I550@
+1 CHIL @I553@
+1 CHIL @I552@
+1 CHIL @I551@
+0 @F286@ FAM
+1 HUSB @I553@
+1 WIFE @I632@
+1 CHIL @I640@
+1 CHIL @I639@
+1 CHIL @I638@
+1 CHIL @I557@
+0 @F287@ FAM
+1 HUSB @I551@
+1 WIFE @I544@
+0 @F288@ FAM
+1 HUSB @I552@
+1 WIFE @I554@
+1 CHIL @I555@
+0 @F289@ FAM
+1 HUSB @I555@
+1 WIFE @I556@
+1 CHIL @I631@
+1 CHIL @I558@
+0 @F290@ FAM
+1 HUSB @I558@
+1 WIFE @I557@
+1 CHIL @I563@
+1 CHIL @I560@
+0 @F291@ FAM
+1 HUSB @I558@
+1 WIFE @I559@
+1 CHIL @I564@
+1 CHIL @I562@
+1 CHIL @I561@
+0 @F292@ FAM
+1 HUSB @I564@
+1 WIFE @I563@
+1 CHIL @I578@
+1 CHIL @I577@
+0 @F293@ FAM
+1 HUSB @I565@
+1 WIFE @I566@
+1 CHIL @I570@
+1 CHIL @I568@
+0 @F294@ FAM
+1 HUSB @I567@
+1 CHIL @I566@
+0 @F295@ FAM
+1 HUSB @I569@
+1 WIFE @I568@
+0 @F296@ FAM
+1 HUSB @I570@
+1 WIFE @I571@
+1 CHIL @I572@
+0 @F297@ FAM
+1 HUSB @I562@
+1 WIFE @I573@
+1 CHIL @I576@
+1 CHIL @I575@
+1 CHIL @I574@
+0 @F298@ FAM
+1 HUSB @I578@
+1 WIFE @I579@
+0 @F299@ FAM
+1 HUSB @I577@
+1 WIFE @I576@
+0 @F300@ FAM
+1 HUSB @I580@
+1 WIFE @I581@
+1 CHIL @I510@
+0 @F301@ FAM
+1 HUSB @I582@
+1 CHIL @I580@
+0 @F302@ FAM
+1 HUSB @I583@
+1 CHIL @I582@
+0 @F303@ FAM
+1 HUSB @I584@
+1 WIFE @I589@
+1 CHIL @I590@
+1 CHIL @I583@
+0 @F304@ FAM
+1 HUSB @I585@
+1 WIFE @I586@
+1 CHIL @I584@
+0 @F305@ FAM
+1 HUSB @I584@
+1 WIFE @I587@
+0 @F306@ FAM
+1 HUSB @I584@
+1 WIFE @I588@
+0 @F307@ FAM
+1 HUSB @I590@
+1 WIFE @I591@
+1 CHIL @I592@
+0 @F308@ FAM
+1 HUSB @I592@
+1 WIFE @I593@
+1 CHIL @I594@
+0 @F309@ FAM
+1 HUSB @I594@
+1 CHIL @I595@
+0 @F310@ FAM
+1 HUSB @I55@
+1 CHIL @I596@
+0 @F311@ FAM
+1 HUSB @I597@
+1 WIFE @I217@
+0 @F312@ FAM
+1 HUSB @I439@
+1 WIFE @I599@
+1 CHIL @I617@
+1 CHIL @I600@
+1 CHIL @I597@
+0 @F313@ FAM
+1 HUSB @I601@
+1 WIFE @I600@
+1 CHIL @I950@
+1 CHIL @I949@
+1 CHIL @I619@
+0 @F314@ FAM
+1 HUSB @I604@
+1 WIFE @I605@
+1 CHIL @I436@
+0 @F315@ FAM
+1 MARR
+2 DATE 2005
+1 HUSB @I304@
+1 WIFE @I607@
+0 @F316@ FAM
+1 MARR
+2 DATE 1973
+1 HUSB @I608@
+1 WIFE @I607@
+0 @F317@ FAM
+1 HUSB @I610@
+1 WIFE @I609@
+1 CHIL @I612@
+0 @F318@ FAM
+1 HUSB @I612@
+1 WIFE @I611@
+1 CHIL @I599@
+1 CHIL @I613@
+0 @F319@ FAM
+1 HUSB @I613@
+1 WIFE @I614@
+1 CHIL @I616@
+1 CHIL @I615@
+0 @F320@ FAM
+1 HUSB @I616@
+1 WIFE @I617@
+0 @F321@ FAM
+1 HUSB @I597@
+1 WIFE @I615@
+0 @F322@ FAM
+1 HUSB @I597@
+1 WIFE @I628@
+1 CHIL @I622@
+1 CHIL @I620@
+0 @F323@ FAM
+1 HUSB @I597@
+1 WIFE @I619@
+1 CHIL @I533@
+0 @F324@ FAM
+1 HUSB @I621@
+1 WIFE @I620@
+0 @F325@ FAM
+1 HUSB @I623@
+1 WIFE @I622@
+0 @F326@ FAM
+1 HUSB @I626@
+1 WIFE @I625@
+1 CHIL @I697@
+1 CHIL @I627@
+0 @F327@ FAM
+1 HUSB @I532@
+1 WIFE @I627@
+0 @F329@ FAM
+1 HUSB @I553@
+1 WIFE @I633@
+1 CHIL @I634@
+1 CHIL @I548@
+0 @F330@ FAM
+1 HUSB @I548@
+1 WIFE @I545@
+0 @F331@ FAM
+1 HUSB @I634@
+1 WIFE @I635@
+0 @F332@ FAM
+1 HUSB @I636@
+1 CHIL @I637@
+1 CHIL @I635@
+0 @F333@ FAM
+1 HUSB @I637@
+1 WIFE @I639@
+1 CHIL @I652@
+0 @F334@ FAM
+1 HUSB @I640@
+1 WIFE @I641@
+1 CHIL @I647@
+1 CHIL @I645@
+1 CHIL @I644@
+1 CHIL @I643@
+0 @F335@ FAM
+1 HUSB @I638@
+1 WIFE @I631@
+1 CHIL @I642@
+0 @F336@ FAM
+1 HUSB @I646@
+1 WIFE @I645@
+1 CHIL @I716@
+0 @F337@ FAM
+1 HUSB @I644@
+1 WIFE @I642@
+1 CHIL @I659@
+1 CHIL @I656@
+1 CHIL @I662@
+1 CHIL @I651@
+1 CHIL @I649@
+0 @F338@ FAM
+1 HUSB @I647@
+1 WIFE @I648@
+1 CHIL @I959@
+1 CHIL @I661@
+0 @F339@ FAM
+1 HUSB @I643@
+1 WIFE @I649@
+0 @F340@ FAM
+1 WIFE @I652@
+1 CHIL @I653@
+0 @F341@ FAM
+1 HUSB @I653@
+1 WIFE @I651@
+1 CHIL @I654@
+0 @F344@ FAM
+1 HUSB @I658@
+1 WIFE @I657@
+1 CHIL @I671@
+1 CHIL @I670@
+1 CHIL @I669@
+1 CHIL @I668@
+0 @F345@ FAM
+1 HUSB @I659@
+1 WIFE @I660@
+1 CHIL @I658@
+0 @F347@ FAM
+1 HUSB @I663@
+1 WIFE @I662@
+1 CHIL @I660@
+0 @F349@ FAM
+1 HUSB @I656@
+1 WIFE @I655@
+1 CHIL @I664@
+1 CHIL @I657@
+0 @F350@ FAM
+1 HUSB @I665@
+1 WIFE @I664@
+1 CHIL @I667@
+1 CHIL @I666@
+0 @F351@ FAM
+1 HUSB @I669@
+1 WIFE @I666@
+0 @F352@ FAM
+1 HUSB @I669@
+1 WIFE @I672@
+1 CHIL @I675@
+1 CHIL @I674@
+1 CHIL @I673@
+0 @F353@ FAM
+1 HUSB @I676@
+1 WIFE @I670@
+1 CHIL @I677@
+0 @F354@ FAM
+1 HUSB @I677@
+1 WIFE @I675@
+0 @F355@ FAM
+1 HUSB @I678@
+1 WIFE @I673@
+1 CHIL @I679@
+0 @F356@ FAM
+1 HUSB @I674@
+1 WIFE @I680@
+1 CHIL @I686@
+1 CHIL @I685@
+1 CHIL @I684@
+1 CHIL @I683@
+1 CHIL @I682@
+1 CHIL @I681@
+0 @F357@ FAM
+1 HUSB @I683@
+1 WIFE @I679@
+1 CHIL @I690@
+1 CHIL @I689@
+1 CHIL @I688@
+1 CHIL @I687@
+0 @F358@ FAM
+1 HUSB @I689@
+1 WIFE @I691@
+1 CHIL @I694@
+1 CHIL @I693@
+1 CHIL @I692@
+0 @F359@ FAM
+1 HUSB @I656@
+1 WIFE @I661@
+0 @F360@ FAM
+1 HUSB @I74@
+1 WIFE @I695@
+0 @F361@ FAM
+1 HUSB @I74@
+1 WIFE @I696@
+0 @F362@ FAM
+1 HUSB @I602@
+1 WIFE @I698@
+1 CHIL @I718@
+1 CHIL @I700@
+1 CHIL @I699@
+1 CHIL @I601@
+0 @F363@ FAM
+1 HUSB @I700@
+1 WIFE @I717@
+1 CHIL @I624@
+1 CHIL @I701@
+0 @F364@ FAM
+1 HUSB @I701@
+1 WIFE @I702@
+1 CHIL @I626@
+0 @F366@ FAM
+1 HUSB @I697@
+1 WIFE @I703@
+0 @F367@ FAM
+1 HUSB @I697@
+1 WIFE @I704@
+1 CHIL @I706@
+1 CHIL @I705@
+0 @F368@ FAM
+1 HUSB @I705@
+1 WIFE @I707@
+1 CHIL @I708@
+0 @F369@ FAM
+1 HUSB @I709@
+1 WIFE @I708@
+1 CHIL @I957@
+0 @F370@ FAM
+1 HUSB @I706@
+1 WIFE @I710@
+1 CHIL @I714@
+1 CHIL @I712@
+0 @F371@ FAM
+1 HUSB @I713@
+1 WIFE @I714@
+1 CHIL @I648@
+1 CHIL @I646@
+1 CHIL @I715@
+1 CHIL @I573@
+0 @F372@ FAM
+1 HUSB @I719@
+1 WIFE @I718@
+1 CHIL @I943@
+1 CHIL @I717@
+0 @F373@ FAM
+1 HUSB @I697@
+1 WIFE @I629@
+1 CHIL @I955@
+0 @F374@ FAM
+1 HUSB @I721@
+1 CHIL @I1051@
+1 CHIL @I25@
+0 @F375@ FAM
+1 HUSB @I723@
+1 WIFE @I722@
+1 CHIL @I756@
+1 CHIL @I755@
+0 @F376@ FAM
+1 HUSB @I724@
+1 CHIL @I26@
+0 @F377@ FAM
+1 MARR
+2 DATE 1366
+1 HUSB @I725@
+1 WIFE @I26@
+0 @F378@ FAM
+1 HUSB @I726@
+1 WIFE @I727@
+1 CHIL @I471@
+0 @F379@ FAM
+1 HUSB @I428@
+1 WIFE @I728@
+1 CHIL @I727@
+0 @F380@ FAM
+1 HUSB @I730@
+1 CHIL @I144@
+0 @F383@ FAM
+1 HUSB @I735@
+1 WIFE @I736@
+1 CHIL @I215@
+0 @F384@ FAM
+1 HUSB @I737@
+1 WIFE @I738@
+1 CHIL @I736@
+0 @F385@ FAM
+1 HUSB @I739@
+1 WIFE @I740@
+1 CHIL @I735@
+0 @F386@ FAM
+1 HUSB @I32@
+1 WIFE @I741@
+0 @F387@ FAM
+1 HUSB @I742@
+0 @F388@ FAM
+1 HUSB @I743@
+1 WIFE @I742@
+1 CHIL @I63@
+0 @F389@ FAM
+1 HUSB @I744@
+1 CHIL @I742@
+0 @F390@ FAM
+1 HUSB @I745@
+1 CHIL @I744@
+0 @F391@ FAM
+1 HUSB @I746@
+1 WIFE @I748@
+1 CHIL @I129@
+0 @F393@ FAM
+1 HUSB @I419@
+1 WIFE @I467@
+0 @F394@ FAM
+1 HUSB @I752@
+1 WIFE @I751@
+1 CHIL @I753@
+0 @F395@ FAM
+1 HUSB @I753@
+1 WIFE @I754@
+1 CHIL @I467@
+0 @F396@ FAM
+1 HUSB @I757@
+1 WIFE @I756@
+0 @F397@ FAM
+1 HUSB @I755@
+1 WIFE @I758@
+1 CHIL @I759@
+0 @F398@ FAM
+1 HUSB @I755@
+1 WIFE @I760@
+1 CHIL @I213@
+0 @F399@ FAM
+1 HUSB @I761@
+1 WIFE @I762@
+1 CHIL @I212@
+0 @F400@ FAM
+1 HUSB @I763@
+1 WIFE @I764@
+1 CHIL @I761@
+1 CHIL @I758@
+0 @F401@ FAM
+1 HUSB @I765@
+1 WIFE @I766@
+1 CHIL @I723@
+0 @F402@ FAM
+1 HUSB @I767@
+1 CHIL @I9@
+0 @F403@ FAM
+1 HUSB @I772@
+1 WIFE @I773@
+1 CHIL @I771@
+0 @F404@ FAM
+1 HUSB @I774@
+1 WIFE @I775@
+1 CHIL @I773@
+0 @F405@ FAM
+1 HUSB @I777@
+1 WIFE @I776@
+1 CHIL @I775@
+0 @F406@ FAM
+1 HUSB @I778@
+1 CHIL @I896@
+1 CHIL @I780@
+1 CHIL @I776@
+0 @F407@ FAM
+1 HUSB @I779@
+1 CHIL @I778@
+0 @F408@ FAM
+1 HUSB @I780@
+1 WIFE @I781@
+1 CHIL @I783@
+1 CHIL @I782@
+0 @F409@ FAM
+1 HUSB @I782@
+1 WIFE @I784@
+1 CHIL @I785@
+0 @F410@ FAM
+1 HUSB @I785@
+1 WIFE @I786@
+1 CHIL @I787@
+0 @F411@ FAM
+1 HUSB @I788@
+1 CHIL @I786@
+0 @F412@ FAM
+1 HUSB @I789@
+1 CHIL @I790@
+1 CHIL @I788@
+0 @F413@ FAM
+1 HUSB @I790@
+1 CHIL @I791@
+0 @F414@ FAM
+1 HUSB @I791@
+1 CHIL @I792@
+0 @F415@ FAM
+1 HUSB @I771@
+1 WIFE @I793@
+1 CHIL @I800@
+1 CHIL @I798@
+1 CHIL @I797@
+1 CHIL @I795@
+0 @F416@ FAM
+1 HUSB @I389@
+1 CHIL @I794@
+0 @F417@ FAM
+1 HUSB @I795@
+1 WIFE @I794@
+1 CHIL @I811@
+0 @F418@ FAM
+1 HUSB @I795@
+1 WIFE @I796@
+1 CHIL @I802@
+0 @F419@ FAM
+1 HUSB @I799@
+1 WIFE @I798@
+0 @F420@ FAM
+1 HUSB @I801@
+1 WIFE @I800@
+1 CHIL @I585@
+0 @F421@ FAM
+1 HUSB @I797@
+1 WIFE @I803@
+1 CHIL @I804@
+0 @F422@ FAM
+1 HUSB @I804@
+1 WIFE @I805@
+1 CHIL @I806@
+0 @F423@ FAM
+1 HUSB @I802@
+1 WIFE @I807@
+1 CHIL @I810@
+0 @F424@ FAM
+1 HUSB @I808@
+1 CHIL @I801@
+0 @F425@ FAM
+1 HUSB @I812@
+1 WIFE @I811@
+1 CHIL @I813@
+0 @F426@ FAM
+1 HUSB @I813@
+1 WIFE @I814@
+1 CHIL @I815@
+0 @F427@ FAM
+1 HUSB @I815@
+1 WIFE @I816@
+1 CHIL @I817@
+0 @F428@ FAM
+1 HUSB @I817@
+1 WIFE @I818@
+1 CHIL @I819@
+0 @F429@ FAM
+1 HUSB @I819@
+1 WIFE @I820@
+1 CHIL @I823@
+1 CHIL @I822@
+1 CHIL @I143@
+0 @F430@ FAM
+1 HUSB @I824@
+1 WIFE @I823@
+1 CHIL @I827@
+1 CHIL @I826@
+0 @F432@ FAM
+1 HUSB @I826@
+1 WIFE @I828@
+1 CHIL @I841@
+1 CHIL @I840@
+0 @F433@ FAM
+1 HUSB @I826@
+1 WIFE @I829@
+1 CHIL @I845@
+1 CHIL @I844@
+0 @F434@ FAM
+1 HUSB @I827@
+1 WIFE @I830@
+1 CHIL @I832@
+1 CHIL @I831@
+0 @F435@ FAM
+1 HUSB @I833@
+1 CHIL @I946@
+1 CHIL @I834@
+1 CHIL @I828@
+0 @F436@ FAM
+1 HUSB @I834@
+1 WIFE @I835@
+1 CHIL @I837@
+0 @F437@ FAM
+1 HUSB @I836@
+1 CHIL @I835@
+0 @F438@ FAM
+1 HUSB @I837@
+1 WIFE @I838@
+1 CHIL @I839@
+0 @F439@ FAM
+1 HUSB @I842@
+1 WIFE @I841@
+0 @F440@ FAM
+1 HUSB @I840@
+1 WIFE @I843@
+1 CHIL @I859@
+1 CHIL @I857@
+1 CHIL @I856@
+1 CHIL @I855@
+1 CHIL @I853@
+1 CHIL @I847@
+0 @F441@ FAM
+1 HUSB @I846@
+1 WIFE @I845@
+0 @F442@ FAM
+1 HUSB @I847@
+1 WIFE @I848@
+1 CHIL @I851@
+1 CHIL @I850@
+1 CHIL @I849@
+0 @F443@ FAM
+1 HUSB @I839@
+1 WIFE @I849@
+0 @F444@ FAM
+1 HUSB @I852@
+1 WIFE @I851@
+0 @F445@ FAM
+1 HUSB @I853@
+1 WIFE @I854@
+1 CHIL @I184@
+0 @F446@ FAM
+1 HUSB @I857@
+1 WIFE @I858@
+0 @F447@ FAM
+1 HUSB @I184@
+1 WIFE @I860@
+1 CHIL @I865@
+0 @F448@ FAM
+1 HUSB 㘐ǣ18苀ǣ
+1 WIFE @I861@
+1 CHIL @I862@
+0 @F449@ FAM
+1 HUSB @I862@
+1 WIFE @I863@
+1 CHIL @I864@
+0 @F450@ FAM
+1 HUSB @I865@
+1 WIFE @I866@
+1 CHIL @I868@
+1 CHIL @I867@
+0 @F451@ FAM
+1 HUSB @I870@
+1 WIFE @I869@
+1 CHIL @I871@
+0 @F452@ FAM
+1 HUSB @I871@
+1 CHIL @I872@
+0 @F453@ FAM
+1 HUSB @I872@
+1 WIFE @I873@
+0 @F454@ FAM
+1 HUSB @I874@
+1 WIFE @I875@
+1 CHIL @I873@
+0 @F455@ FAM
+1 HUSB @I876@
+1 WIFE @I877@
+1 CHIL @I880@
+1 CHIL @I874@
+0 @F456@ FAM
+1 HUSB @I878@
+1 WIFE @I879@
+1 CHIL @I914@
+1 CHIL @I884@
+1 CHIL @I883@
+1 CHIL @I877@
+0 @F457@ FAM
+1 HUSB @I882@
+1 CHIL @I881@
+0 @F458@ FAM
+1 HUSB @I880@
+1 WIFE @I881@
+1 CHIL @I927@
+0 @F459@ FAM
+1 HUSB @I886@
+1 WIFE @I887@
+1 CHIL @I888@
+1 CHIL @I604@
+0 @F460@ FAM
+1 HUSB @I889@
+1 CHIL @I886@
+0 @F461@ FAM
+1 HUSB @I890@
+1 CHIL @I889@
+0 @F463@ FAM
+1 HUSB @I892@
+1 WIFE @I893@
+1 CHIL @I895@
+1 CHIL @I894@
+1 CHIL @I891@
+1 CHIL @I890@
+0 @F464@ FAM
+1 HUSB @I825@
+1 WIFE @I823@
+0 @F465@ FAM
+1 HUSB @I883@
+1 WIFE @I922@
+1 CHIL @I926@
+1 CHIL @I925@
+1 CHIL @I924@
+1 CHIL @I923@
+1 CHIL @I892@
+0 @F466@ FAM
+1 HUSB @I896@
+1 CHIL @I897@
+0 @F467@ FAM
+1 HUSB @I897@
+1 WIFE @I903@
+1 CHIL @I899@
+1 CHIL @I898@
+0 @F468@ FAM
+1 HUSB @I900@
+1 CHIL @I901@
+1 CHIL @I808@
+0 @F469@ FAM
+1 HUSB @I897@
+1 WIFE @I904@
+1 CHIL @I905@
+1 CHIL @I902@
+0 @F470@ FAM
+1 HUSB @I808@
+1 WIFE @I907@
+1 CHIL @I908@
+0 @F471@ FAM
+1 HUSB @I906@
+1 WIFE @I908@
+0 @F472@ FAM
+1 HUSB @I909@
+1 CHIL @I906@
+0 @F475@ FAM
+1 HUSB @I911@
+1 CHIL @I912@
+0 @F476@ FAM
+1 HUSB @I902@
+1 CHIL @I799@
+0 @F478@ FAM
+1 HUSB @I915@
+1 WIFE @I914@
+1 CHIL @I916@
+0 @F479@ FAM
+1 HUSB @I917@
+1 WIFE @I916@
+1 CHIL @I921@
+1 CHIL @I920@
+0 @F480@ FAM
+1 HUSB @I918@
+1 WIFE @I919@
+1 CHIL @I917@
+0 @F481@ FAM
+1 HUSB @I926@
+1 WIFE @I921@
+0 @F482@ FAM
+1 HUSB @I927@
+1 WIFE @I928@
+1 CHIL @I929@
+0 @F483@ FAM
+1 HUSB @I929@
+1 WIFE @I930@
+1 CHIL @I931@
+0 @F484@ FAM
+1 HUSB @I920@
+1 WIFE @I932@
+1 CHIL @I935@
+1 CHIL @I934@
+0 @F485@ FAM
+1 HUSB @I920@
+1 WIFE @I933@
+1 CHIL @I936@
+0 @F486@ FAM
+1 HUSB @I936@
+1 WIFE @I937@
+1 CHIL @I942@
+0 @F487@ FAM
+1 HUSB @I895@
+1 WIFE @I934@
+0 @F488@ FAM
+1 HUSB @I895@
+1 WIFE @I938@
+1 CHIL @I939@
+0 @F489@ FAM
+1 HUSB @I939@
+1 WIFE @I940@
+1 CHIL @I941@
+0 @F490@ FAM
+1 HUSB @I941@
+1 WIFE @I942@
+0 @F491@ FAM
+1 HUSB @I943@
+1 CHIL @I702@
+0 @F492@ FAM
+1 HUSB @I945@
+1 CHIL @I833@
+0 @F493@ FAM
+1 HUSB @I699@
+1 WIFE @I947@
+1 CHIL @I948@
+0 @F494@ FAM
+1 HUSB @I950@
+1 WIFE @I948@
+0 @F495@ FAM
+1 HUSB @I626@
+1 WIFE @I951@
+1 CHIL @I952@
+0 @F496@ FAM
+1 HUSB @I953@
+1 WIFE @I952@
+1 CHIL @I954@
+0 @F497@ FAM
+1 HUSB @I954@
+1 CHIL @I713@
+0 @F498@ FAM
+1 HUSB @I956@
+1 WIFE @I955@
+1 CHIL @I709@
+0 @F499@ FAM
+1 HUSB @I715@
+1 WIFE @I957@
+0 @F501@ FAM
+1 HUSB @I716@
+1 WIFE @I959@
+1 CHIL @I964@
+1 CHIL @I961@
+1 CHIL @I960@
+0 @F502@ FAM
+1 HUSB @I962@
+1 WIFE @I960@
+1 CHIL @I963@
+0 @F503@ FAM
+1 HUSB @I964@
+1 WIFE @I965@
+1 CHIL @I966@
+0 @F504@ FAM
+1 HUSB @I966@
+1 WIFE @I967@
+0 @F505@ FAM
+1 HUSB @I968@
+1 CHIL @I971@
+1 CHIL @I970@
+1 CHIL @I969@
+0 @F506@ FAM
+1 HUSB @I970@
+1 WIFE @I972@
+1 CHIL @I973@
+0 @F507@ FAM
+1 HUSB @I973@
+1 WIFE @I974@
+1 CHIL @I975@
+0 @F508@ FAM
+1 HUSB @I975@
+1 WIFE @I976@
+0 @F509@ FAM
+1 HUSB @I969@
+1 WIFE @I977@
+0 @F510@ FAM
+1 HUSB @I978@
+1 CHIL @I979@
+1 CHIL @I965@
+1 CHIL @I977@
+0 @F511@ FAM
+1 HUSB @I980@
+1 WIFE @I979@
+1 CHIL @I967@
+0 @F512@ FAM
+1 MARR
+2 DATE 1189
+1 HUSB @I119@
+1 WIFE @I981@
+0 @F513@ FAM
+1 HUSB @I982@
+1 CHIL @I1015@
+1 CHIL @I987@
+1 CHIL @I173@
+0 @F514@ FAM
+1 HUSB @I405@
+1 WIFE @I987@
+0 @F515@ FAM
+1 HUSB @I182@
+1 WIFE @I988@
+1 CHIL @I187@
+0 @F516@ FAM
+1 HUSB @I115@
+1 WIFE @I990@
+1 CHIL @I991@
+0 @F517@ FAM
+1 HUSB @I991@
+1 WIFE @I190@
+0 @F518@ FAM
+1 HUSB @I991@
+1 WIFE @I992@
+0 @F519@ FAM
+1 HUSB @I986@
+1 WIFE @I994@
+1 CHIL @I993@
+0 @F520@ FAM
+1 HUSB @I993@
+1 CHIL @I997@
+1 CHIL @I996@
+1 CHIL @I995@
+0 @F521@ FAM
+1 HUSB @I996@
+1 CHIL @I182@
+0 @F522@ FAM
+1 HUSB @I997@
+1 CHIL @I1007@
+1 CHIL @I998@
+0 @F523@ FAM
+1 HUSB @I999@
+1 WIFE @I998@
+1 CHIL @I1000@
+0 @F524@ FAM
+1 HUSB @I1000@
+1 CHIL @I1001@
+0 @F525@ FAM
+1 HUSB @I1001@
+1 WIFE @I1002@
+1 CHIL @I115@
+0 @F526@ FAM
+1 HUSB @I1004@
+1 WIFE @I1003@
+1 CHIL @I1002@
+0 @F527@ FAM
+1 HUSB @I1005@
+1 CHIL @I1003@
+0 @F528@ FAM
+1 MARR
+2 DATE 1436
+1 HUSB @I417@
+1 WIFE @I1006@
+0 @F529@ FAM
+1 HUSB @I1008@
+1 WIFE @I1007@
+1 CHIL @I1009@
+0 @F530@ FAM
+1 HUSB @I1010@
+1 WIFE @I1009@
+1 CHIL @I1011@
+0 @F531@ FAM
+1 HUSB @I1013@
+1 WIFE @I1012@
+1 CHIL @I1014@
+0 @F532@ FAM
+1 HUSB @I1015@
+1 CHIL @I1016@
+0 @F533@ FAM
+1 HUSB @I1017@
+1 WIFE @I1016@
+1 CHIL @I1018@
+0 @F534@ FAM
+1 HUSB @I1019@
+1 WIFE @I1018@
+0 @F535@ FAM
+1 WIFE @I1020@
+1 CHIL @I982@
+0 @F536@ FAM
+1 HUSB @I1021@
+1 CHIL @I1022@
+1 CHIL @I1020@
+0 @F537@ FAM
+1 HUSB @I1023@
+1 WIFE @I1022@
+1 CHIL @I1024@
+0 @F538@ FAM
+1 HUSB @I173@
+1 WIFE @I1025@
+1 CHIL @I1026@
+0 @F539@ FAM
+1 HUSB @I1028@
+1 WIFE @I1027@
+1 CHIL @I138@
+0 @F540@ FAM
+1 HUSB @I1032@
+1 CHIL @I1034@
+1 CHIL @I1033@
+1 CHIL @I962@
+0 @F541@ FAM
+1 HUSB @I1034@
+1 CHIL @I1035@
+0 @F542@ FAM
+1 HUSB @I962@
+1 WIFE @I1036@
+0 @F543@ FAM
+1 HUSB @I1037@
+1 CHIL @I258@
+0 @F544@ FAM
+1 HUSB @I1038@
+1 CHIL @I254@
+1 CHIL @I1037@
+0 @F545@ FAM
+1 HUSB @I1040@
+1 WIFE @I1039@
+0 @F546@ FAM
+1 HUSB @I1041@
+1 CHIL @I1053@
+1 CHIL @I779@
+0 @F549@ FAM
+1 HUSB @I913@
+1 WIFE @I1044@
+1 CHIL @I1045@
+1 CHIL @I402@
+0 @F550@ FAM
+1 HUSB @I1045@
+1 WIFE @I1049@
+1 CHIL @I746@
+0 @F551@ FAM
+1 HUSB @I1050@
+1 CHIL @I1049@
+0 @F552@ FAM
+1 HUSB @I1042@
+1 CHIL @I1041@
+1 CHIL @I1052@
+0 @F553@ FAM
+1 HUSB @I1054@
+1 WIFE @I1055@
+1 CHIL @I878@
+0 @F554@ FAM
+1 HUSB @I1056@
+1 WIFE @I1057@
+1 CHIL @I1054@
+0 @F555@ FAM
+1 HUSB @I1058@
+1 CHIL @I1056@
+0 @F556@ FAM
+1 HUSB @I1059@
+1 CHIL @I1058@
+0 @F557@ FAM
+1 HUSB @I1060@
+1 CHIL @I1059@
+0 @F558@ FAM
+1 HUSB @I1061@
+1 CHIL @I1060@
+0 @F559@ FAM
+1 HUSB @I1062@
+1 CHIL @I1061@
+0 @F560@ FAM
+1 MARR
+2 DATE 29 April 2011
+2 PLAC Westminster Abbey
+1 HUSB @I343@
+1 WIFE @I1063@
+0 TRLR
