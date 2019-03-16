@@ -7,6 +7,9 @@ jdmcox.com/ijl15.zip
 add _UNICODE AND UNICODE to Project Settings C/C++ tab Category: General Preprocessor Definitions
 when debugging 16-bit char data, instead of looking at &Buf[x] in the Watch window, look at &Buf[x],ma
 */
+#define _UNICODE
+#define UNICODE
+#define _CRT_SECURE_NO_WARNINGS 
 #include <windows.h>
 #include <stdio.h>//for _snwprintf
 #include <tchar.h>//for unicode
@@ -400,7 +403,7 @@ TCHAR MarrData[5000];
 TCHAR IniShow[] = TEXT("ShowIndivInfo=");
 TCHAR Loops[] = TEXT("00,000 loops");
 TCHAR Additions[] = TEXT("\r\n***Additional entries***\r\nNAME: \r\n\r\nEVENT:\r\nTYPE: \r\nDATE: \r\nPLACE: \r\n\r\nEVENT:\r\nTYPE: \r\nDATE: \r\nPLACE: \r\n\r\nEVENT:\r\nTYPE: \r\nDATE: \r\nPLACE: \r\n\r\nNOTE: \r\n\r\n\r\n\r\n\r\n");
-TCHAR *Ones[12] = {TEXT("ALI"),TEXT("BUR"),TEXT("CHR"),TEXT("EDU"),TEXT("EVE"),TEXT("GRA"),TEXT("NAM"),TEXT("NOT"),TEXT("OCC"),TEXT("RES"),TEXT("MAR"),TEXT("DIV")};
+const TCHAR *Ones[12] = {TEXT("ALI"),TEXT("BUR"),TEXT("CHR"),TEXT("EDU"),TEXT("EVE"),TEXT("GRA"),TEXT("NAM"),TEXT("NOT"),TEXT("OCC"),TEXT("RES"),TEXT("MAR"),TEXT("DIV")};
 int TypeNameLen[12] = {10, 11, 15, 14, 10, 14, 9, 9, 14, 14, 10, 11};
 TCHAR Alias[] = TEXT("\r\nALIAS:\r\n");//10
 TCHAR Burial[] = TEXT("\r\nBURIED:\r\n");//11

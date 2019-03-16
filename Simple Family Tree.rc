@@ -1,0 +1,451 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR1             CURSOR                  "hmove.cur"
+IDC_CURSOR2             CURSOR                  "hand.cur"
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+SIMPLEFAMILYTREE MENU 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Open/Create...",             OPEN
+        MENUITEM "Save &As",                    ID_FILE_SAVEAS
+        MENUITEM "&Print Screen...",            PRINT
+        MENUITEM "E&xit",                       ID_FILE_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo",                       ID_UNDO
+        MENUITEM "&Select Font",                ID_EDIT_FONT
+        MENUITEM "&Decrease Font Size   -",     ID_EDIT_DECREASESIZE
+        MENUITEM "&Increase Font Size   +",     ID_EDIT_INCREASESIZE
+        MENUITEM "Show &Middle Name",           ID_EDIT_SHOWMIDDLENAME
+    END
+    MENUITEM "&New Individual",             ID_NEWINDIVIDUAL
+    MENUITEM "&Individual's Info",          ID_INDIVIDUALSINFO
+    MENUITEM "&List of Individuals",        ID_SHOWLISTOFINDIVIDUALS
+    MENUITEM "&READ THIS!",                 READTHIS
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+LIST DIALOGEX 0, 0, 182, 453
+STYLE DS_SYSMODAL | DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION "List of Individuals"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    LISTBOX         IDC_LIST1,5,60,168,360,LBS_SORT | WS_VSCROLL | WS_TABSTOP
+    CTEXT           "Double click on an entry or press Enter",IDC_STATIC,25,5,123,8
+    CTEXT           "to display a highlighted entry's family tree.",IDC_STATIC,25,15,130,8
+END
+
+INDIVIDUAL DIALOGEX 0, 0, 297, 356
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,180,330,45,14
+    PUSHBUTTON      "Cancel",IDCANCEL,240,330,45,14
+    EDITTEXT        IDC_EDIT3,35,10,15,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT1,50,10,240,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT2,35,30,65,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT5,120,29,170,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT4,35,50,65,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT6,120,50,170,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT7,5,80,285,165,ES_MULTILINE | ES_READONLY | WS_VSCROLL
+    EDITTEXT        IDC_EDIT8,35,66,190,12,ES_AUTOHSCROLL | ES_READONLY | NOT WS_BORDER
+    LTEXT           "Name: ",IDC_STATIC,10,12,24,8
+    LTEXT           "Born: ",IDC_STATIC,10,32,20,8
+    LTEXT           "Died:",IDC_STATIC,10,52,18,8
+    LTEXT           "in",IDC_STATIC,110,32,8,8
+    LTEXT           "in",IDC_STATIC,110,52,8,8
+    GROUPBOX        "",IDC_STATIC,5,275,160,80
+    PUSHBUTTON      "Add a &Father",IDC_BUTTON2,15,285,60,14
+    PUSHBUTTON      "Add a &Mother",IDC_BUTTON6,95,285,65,14
+    PUSHBUTTON      "Add a &Child",IDC_BUTTON4,15,305,60,14
+    PUSHBUTTON      "Add a &Spouse",IDC_BUTTON3,95,305,65,14
+    PUSHBUTTON      "&Un-Link",IDC_BUTTON5,15,330,60,14
+    PUSHBUTTON      "Delete",IDC_BUTTON8,95,330,65,14
+    PUSHBUTTON      "Swap Primary && Secondary Parents",IDC_BUTTON12,5,245,120,14,NOT WS_VISIBLE
+    PUSHBUTTON      "&Edit Name/Born/Died",EDIT,130,260,81,15
+    PUSHBUTTON      "&Gedcom",IDC_BUTTON1,215,260,35,15
+    PUSHBUTTON      "&READ",READ,255,245,30,15
+    PUSHBUTTON      "Name&2",IDC_BUTTON11,180,285,45,14
+    PUSHBUTTON      "Marr&iages",IDC_BUTTON7,240,285,45,14
+    PUSHBUTTON      "E&vents",IDC_BUTTON9,180,305,45,14
+    PUSHBUTTON      "&Note",IDC_BUTTON10,240,305,45,14
+    PUSHBUTTON      "Remove Photo Link",IDC_BUTTON13,55,260,70,14,NOT WS_VISIBLE
+    PUSHBUTTON      "Link &Photo",IDC_BUTTON14,5,260,45,14
+    PUSHBUTTON      "E&xport",IDC_BUTTON15,255,260,30,14
+END
+
+NEWINDIVIDUAL DIALOG  0, 0, 297, 98
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+CAPTION " New Individual"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_EDIT1,70,10,220,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,35,30,65,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,120,29,170,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,35,50,65,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,120,50,170,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "OK",IDOK,20,75,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,225,75,50,14
+    LTEXT           "Name: ",IDC_STATIC,10,15,24,8
+    LTEXT           "Born: ",IDC_STATIC,10,35,20,8
+    LTEXT           "Died:",IDC_STATIC,10,55,18,8
+    LTEXT           "in",IDC_STATIC,110,35,8,8
+    LTEXT           "in",IDC_STATIC,110,55,8,8
+    CONTROL         "MR",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON | WS_TABSTOP,40,5,27,10
+    CONTROL         "MS",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON | WS_TABSTOP,40,15,27,10
+    PUSHBUTTON      "&READ",IDC_BUTTON1,120,75,50,14
+END
+
+GED DIALOG  0, 0, 297, 390
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_EDIT1,0,0,295,387,ES_MULTILINE | ES_READONLY | NOT WS_BORDER | WS_VSCROLL
+END
+
+EVENT DIALOG  0, 0, 297, 186
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION " Events"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,15,165,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,230,165,50,14
+    LTEXT           "Event",IDC_STATIC,50,5,20,8
+    LTEXT           "Date",IDC_STATIC,140,5,16,8
+    LTEXT           "Place",IDC_STATIC,220,5,19,8
+    EDITTEXT        IDC_EDIT1,5,15,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,130,15,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,185,15,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,5,40,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,130,40,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,185,40,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,5,65,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,130,65,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT9,185,65,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,5,90,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT11,130,90,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT12,185,90,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT13,5,110,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT14,130,110,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT15,185,110,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT16,5,140,120,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT17,130,140,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT18,185,140,105,14,ES_AUTOHSCROLL
+END
+
+NEW DIALOG  0, 0, 117, 53
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Link or Create"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "&New Individual",IDC_BUTTON1,10,30,100,14
+    PUSHBUTTON      "Link to an &Existing Individual",IDC_BUTTON2,10,10,100,14
+END
+
+NAME2 DIALOG  0, 0, 222, 51
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Name2"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,15,30,40,14
+    PUSHBUTTON      "Cancel",IDCANCEL,160,30,45,14
+    EDITTEXT        IDC_EDIT1,5,5,210,14,ES_AUTOHSCROLL
+END
+
+NOTE DIALOGEX 0, 0, 297, 257
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Note"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,40,240,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,210,240,50,14
+    EDITTEXT        IDC_EDIT1,0,5,295,230,ES_MULTILINE | ES_WANTRETURN | WS_VSCROLL,WS_EX_ACCEPTFILES
+END
+
+BEG DIALOGEX 0, 0, 297, 242
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT1,20,10,255,205,ES_CENTER | ES_MULTILINE | ES_AUTOHSCROLL | ES_READONLY,WS_EX_TRANSPARENT
+    PUSHBUTTON      "OK",IDC_BUTTON1,120,220,50,14
+END
+
+MARRIAGES DIALOG  0, 0, 297, 131
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Marriage Details  (Add a Spouse first)"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,20,110,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,225,110,50,14
+    LTEXT           "Married to",IDC_STATIC,40,5,32,8
+    LTEXT           "Date",IDC_STATIC,140,5,16,8
+    LTEXT           "Place",IDC_STATIC,220,5,19,8
+    EDITTEXT        IDC_EDIT2,5,15,120,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT3,130,15,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,185,15,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,5,40,120,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT6,130,40,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,185,40,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,5,65,120,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT9,130,65,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,185,65,105,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT11,5,90,120,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT12,130,90,50,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT13,185,90,105,14,ES_AUTOHSCROLL
+END
+
+GEDFILE DIALOG  0, 0, 459, 374
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "GED file"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,7,353,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,402,353,50,14
+    EDITTEXT        IDC_EDIT1,0,7,455,339,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL | NOT WS_BORDER | WS_VSCROLL | WS_HSCROLL
+END
+
+FIXBUG DIALOG  0, 0, 582, 386
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION 
+"PUT THE APPROPRIATE NUMBER (and space) AT THE BEGINNING OF THE LINE THAT DOESN'T BEGIN WITH A NUMBER"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,15,365,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,520,365,50,14
+    EDITTEXT        IDC_EDIT1,0,0,580,360,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    "LIST", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 175
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 390
+    END
+
+    "INDIVIDUAL", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 290
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 312
+    END
+
+    "GED", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 387
+    END
+
+    "EVENT", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 185
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 139
+    END
+
+    "NEW", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 110
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 46
+    END
+
+    "NAME2", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 215
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 44
+    END
+
+    "NOTE", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 290
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 250
+    END
+
+    "MARRIAGES", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 290
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 124
+    END
+
+    "GEDFILE", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 452
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 367
+    END
+
+    "FIXBUG", DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 575
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 379
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_ICON1               ICON                    "SimpleFamilyTree.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,3,2,0
+ PRODUCTVERSION 1,3,2,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "CompanyName", "JDMCox Software"
+            VALUE "FileDescription", "Simple Family Tree"
+            VALUE "FileVersion", "1, 3, 2, 0"
+            VALUE "InternalName", "Simple Family Tree"
+            VALUE "LegalCopyright", "Copyright © 2006"
+            VALUE "OriginalFilename", "Simple Family Tree.exe"
+            VALUE "ProductName", "  Simple Family Tree"
+            VALUE "ProductVersion", "1, 3, 2, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
