@@ -118,7 +118,6 @@
     <ClCompile Include="Simple Family Tree.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="afxres.h" />
     <ClInclude Include="ijl.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
