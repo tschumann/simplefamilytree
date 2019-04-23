@@ -115,7 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Simple Family Tree.cpp" />
+    <ClCompile Include="simplefamilytree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ijl.h" />
@@ -125,7 +125,7 @@
     <Library Include="ijl15.lib" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Simple Family Tree.rc" />
+    <ResourceCompile Include="simplefamilytree.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,11 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Simple Family Tree.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="ijl.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -31,7 +26,12 @@
     <Library Include="ijl15.lib" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="Simple Family Tree.rc">
+    <ClCompile Include="simplefamilytree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="simplefamilytree.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>
