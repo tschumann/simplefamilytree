@@ -1,12 +1,18 @@
 simplefamilytree
 ================
-Fork of Simple Family Tree by Doug Cox of http://jdmcox.com/
+Based on Simple Family Tree source code provided at http://jdmcox.com/.
 
-Simple Family Tree enables you to create, view, and edit a family tree.
-It displays ancestors and descendants of any selected individual.
-You can add new individual, spouse, child, father or mother.
-You can enter marriage details, a second name, events, and notes.
-It reads and writes files in Gedcom format.
+Original source code by Doug Cox.
+
+About
+-----
+From http://jdmcox.com/:
+
+> __Simple Family Tree 1.32__ enables you to create, view, and edit a family tree quickly and easily.
+> It displays ancestors and descendants of any selected individual.
+> You can add New Individual, Spouse, Child, Father, or Mother.
+> You can enter marriage details, a second name, events, and notes.
+> It reads and writes files in Gedcom format.
 
 Building
 --------
