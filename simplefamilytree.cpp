@@ -48,7 +48,6 @@ when debugging 16-bit char data, instead of looking at &Buf[x] in the Watch wind
 #define MASK6BYTES 0xFC//11111100
 
 BOOL errorinbuf = FALSE, kings, badformat = FALSE, badend, multiplemonitors, showpurple = FALSE;
-//WINDOWPLACEMENT windowPlacement;
 TCHAR MulMonHelp[] = TEXT("Multiple Monitor Help");
 TCHAR FixBuf[10000];
 
