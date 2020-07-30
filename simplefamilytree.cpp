@@ -205,98 +205,52 @@ Move the right border past the screen's right border to the next monitor's right
 To print the wider virtual screen, hold CTRL down and press the PrintScreen key.");
 //TCHAR SameSex[] = TEXT("Same-sex couples can't share children\nin this program because they might appear\nto be the biological parents.");
 
-BOOL CheckBuf(void)
-;
-void Fill_Indiv(void)
-;
-void FillArray(void)
-;
-void FillhdcMem(void)
-;
-void InitializeAgain(void)
-;
-BOOL GetSpouse(void)
-;
-BOOL GetChild(void)
-;
-DWORD GetName(void)
-;
-void GetData(void)
-;
-int CALLBACK ListProc(HWND hwndListDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK IndivProc(HWND hwndIndiv, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK NewIndivProc(HWND hwndNewIndiv, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK NewProc(HWND hwndNew, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK GEDProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-//int CALLBACK FixGedProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-//;
-int CALLBACK Name2Proc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK EventProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK NoteProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK MarriageProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-int CALLBACK FixBugProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
-;
-void PutFAMS(DWORD Offset)
-;
-void PutFAMC(DWORD Offset)
-;
-void PutNewFAM(int Person, DWORD Offset)
-;
-void PutFAM(int Person, DWORD Offset)
-;
-BOOL CheckifChild(DWORD Offset)
-;
-void GetNameinBuf(DWORD Offset, TCHAR* Name)
-;
-void CheckFAM(void)
-;
-void GetSpouseOffset(DWORD Num)
-;
-void SaveEdited(void)
-;
-void ReStart(void)
-;
-DWORD GetBufEnd(DWORD x)
-;
-int CheckRelative(DWORD saveHighlighted, DWORD savei)
-;
-void ParseBirthday(void)
-;
-void ParseBirthday2(void)
-;
-void ShowJpeg(void)
-;
-//void GetPhotoFileName(void)
-//;
-void UndoIt(void)
-;
-void CheckForPhotos(void)
-;
-void SortSiblings(void)
-;
-void CursorMoved(int xPos, int yPos)
-;
-DWORD Atoi(TCHAR*ptr)
-;
-void RemovePhoto(DWORD)
-;
-//void FixGed(void)
-//;
-LRESULT CALLBACK PhotoProc(HWND hwndPhoto, UINT message, WPARAM wParam, LPARAM lParam)
-;
-void CheckFAMS(void)
-;
-//void MergeFile(void)
-//;
+BOOL CheckBuf(void);
+void Fill_Indiv(void);
+void FillArray(void);
+void FillhdcMem(void);
+void InitializeAgain(void);
+BOOL GetSpouse(void);
+BOOL GetChild(void);
+DWORD GetName(void);
+void GetData(void);
+int CALLBACK ListProc(HWND hwndListDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK IndivProc(HWND hwndIndiv, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK NewIndivProc(HWND hwndNewIndiv, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK NewProc(HWND hwndNew, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK GEDProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+//int CALLBACK FixGedProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK Name2Proc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK EventProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK NoteProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK MarriageProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+int CALLBACK FixBugProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam);
+void PutFAMS(DWORD Offset);
+void PutFAMC(DWORD Offset);
+void PutNewFAM(int Person, DWORD Offset);
+void PutFAM(int Person, DWORD Offset);
+BOOL CheckifChild(DWORD Offset);
+void GetNameinBuf(DWORD Offset, TCHAR* Name);
+void CheckFAM(void);
+void GetSpouseOffset(DWORD Num);
+void SaveEdited(void);
+void ReStart(void);
+DWORD GetBufEnd(DWORD x);
+int CheckRelative(DWORD saveHighlighted, DWORD savei);
+void ParseBirthday(void);
+void ParseBirthday2(void);
+void ShowJpeg(void);
+//void GetPhotoFileName(void);
+void UndoIt(void);
+void CheckForPhotos(void);
+void SortSiblings(void);
+void CursorMoved(int xPos, int yPos);
+DWORD Atoi(TCHAR*ptr);
+void RemovePhoto(DWORD);
+//void FixGed(void);
+LRESULT CALLBACK PhotoProc(HWND hwndPhoto, UINT message, WPARAM wParam, LPARAM lParam);
+void CheckFAMS(void);
+//void MergeFile(void);
 
 TCHAR PrinterName[64];
 DWORD PrinterNameLen = 64;
@@ -1880,7 +1834,6 @@ skip:		free(lpInfo);
 	return DefWindowProc(hwnd, message, wParam, lParam);
 }
 
-
 //SUBROUTINES////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 void Fill_Indiv(void)
 {
@@ -2605,7 +2558,6 @@ x4:;
 		///////////
 }
 
-
 void FillArray(void)
 {
 	SetCursor(hWaitingCursor);
@@ -3190,7 +3142,6 @@ gaploop:
 	arrayfilled = TRUE;
 }
 
-
 void FillhdcMem(void)
 {
 	DWORD w;
@@ -3494,7 +3445,6 @@ DWORD GetName(void)
 	temp[x] = 0;
 	return x;
 }
-
 
 int CALLBACK FixBugProc(HWND hwndDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
@@ -6974,7 +6924,6 @@ BOOL GetChild(void)
 	return FALSE;
 }//end of GetChild
 
-
 BOOL PutMarrDivData(DWORD i)
 {
 	DWORD MarrDate = 0, MarrPlace = 0, DivDate = 0, DivPlace = 0;
@@ -7421,7 +7370,6 @@ x12:if (gotmarrdata == FALSE)
 	BigNote[ptr] = 0;
 	BigNoteLen = ptr;
 }
-
 
 void PutFAMS(DWORD Offset)
 {
@@ -8934,7 +8882,6 @@ void CheckFAMS(void)
 	}
 */
 }
-
 
 int CheckRelative(DWORD saveHighlighted, DWORD savei)
 {
