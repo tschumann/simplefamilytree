@@ -499,13 +499,21 @@ WNDPROC pListProc;
 LRESULT CALLBACK EditListProc(HWND hwnd2, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	if ((message == WM_SYSKEYDOWN) && (wParam == 'I') && (!showindividual))
+	{
 		SendMessage(hwndListDlg, WM_COMMAND, IDC_BUTTON1, 0);
+	}
 	else if ((message == WM_SYSKEYDOWN) && (wParam == 'F') && (showindividual))
+	{
 		SendMessage(hwndListDlg, WM_COMMAND, IDC_BUTTON1, 0);
+	}
 	else if ((message == WM_KEYDOWN) && (wParam == VK_RETURN))
+	{
 		SendMessage(hwndListDlg, WM_COMMAND, (WPARAM)IDOK, 0);
+	}
 	else if ((message == WM_KEYDOWN) && (wParam == VK_ESCAPE))
+	{
 		SendMessage(hwndListDlg, WM_COMMAND, (WPARAM)IDCANCEL, 0);
+	}
 	return CallWindowProc(pListProc, hwnd2, message, wParam, lParam);
 }
 
@@ -561,7 +569,9 @@ LRESULT CALLBACK PhotoProc(HWND hwndPhoto, UINT message, WPARAM wParam, LPARAM l
 
 	case WM_KEYDOWN:
 		if (wParam == VK_ESCAPE)
+		{
 			DestroyWindow(hwndPhoto);
+		}
 //		else if (wParam == 'P')
 //		{
 //			gotmouseover = FALSE;
@@ -598,7 +608,9 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR szCmdLine,
 	wndclass.lpszClassName = szAppName;
 
 	if (!RegisterClass(&wndclass))
+	{
 		return 0;
+	}
 
 	wndclass.lpfnWndProc = PhotoProc;
 	wndclass.hIcon = NULL;
@@ -614,21 +626,24 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR szCmdLine,
 			CmdLine = '"';
 			y = 1;
 		}
-		for (x = 0; szCmdLine[y] != CmdLine ; x++, y++)
+		for (x = 0; szCmdLine[y] != CmdLine; x++, y++)
+		{
 			FullFilename[x] = szCmdLine[y];
+		}
 		FullFilename[x] = 0;
-		for ( ; (x > 0) && (FullFilename[x] != '\\'); x--)
+		for (; (x > 0) && (FullFilename[x] != '\\'); x--)
+		{
 			;
+		}
 		for (x++, y = 0; FullFilename[x] != 0; x++, y++)
+		{
 			Filename[y] = FullFilename[x];
+		}
 		Filename[y] = 0;
 		fromcommandline = TRUE;
 	}
 
-	hwnd = CreateWindow(szAppName, szAppName,
-		WS_OVERLAPPEDWINDOW,
-		CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT,
-		NULL, NULL, hInstance, NULL);
+	hwnd = CreateWindow(szAppName, szAppName, WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, CW_USEDEFAULT, NULL, NULL, hInstance, NULL);
 
 	ShowWindow(hwnd, SW_SHOWMAXIMIZED);
 	UpdateWindow(hwnd);
@@ -652,34 +667,50 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		rect.right = LOWORD(lParam);
 		rect.bottom = HIWORD(lParam);
 		if (Height > rect.bottom)
+		{
 			Top = Height - rect.bottom;
+		}
 		else
+		{
 			Top = 0;
+		}
 		if (Width > rect.right)
+		{
 			Left = Width - rect.right;
+		}
 		else
+		{
 			Left = 0;
+		}
 		break;
 
 	case WM_CREATE:
 		if (NOERROR == SHGetSpecialFolderPath(hwnd, FinalFilename, CSIDL_APPDATA, 0)) {
 			for (x = 0; (x < MAX_PATH) && (FinalFilename[x] != 0); x++)
+			{
 				;
+			}
 			if (x < MAX_PATH) {
 				for (y = 0; SimpleFamilyTree[y] != 0; x++, y++)
+				{
 					FinalFilename[x] = SimpleFamilyTree[y];
+				}
 				FinalFilename[x] = 0;
 				CreateDirectory(FinalFilename, NULL);
 			}
 		}
 		else
+		{
 			FinalFilename[0] = 0;
+		}
 
 		hMenu = GetMenu(hwnd);
 		CheckMenuItem(hMenu, ID_EDIT_SHOWMIDDLENAME, MF_CHECKED);
 		PhotoDirectory[0] = 0;
 		for (x = 0; x < 512; x++)
+		{
 			Backspace[x] = -1;
+		}
 		bs = 0;
 		RowsUp = MIDROW;
 		LastIndiv = 0;//flag
@@ -747,7 +778,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		lf.lfQuality = 1;
 		lf.lfPitchAndFamily = 0x22;
 		for (x = 0; Arial[x] != 0; x++)
+		{
 			lf.lfFaceName[x] = Arial[x];
+		}
 		lf.lfFaceName[x] = 0;
 		hFont = CreateFontIndirect(&lf);
 
@@ -762,7 +795,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		lf2.lfQuality = 1;
 		lf2.lfPitchAndFamily = 0x31;
 		for (x = 0; CourierNew[x] != 0; x++)
+		{
 			lf2.lfFaceName[x] = CourierNew[x];
+		}
 		lf2.lfFaceName[x] = 0;
 		hFont2 = CreateFontIndirect(&lf2);
 /*
@@ -791,7 +826,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		lf4.lfQuality = 1;
 		lf4.lfPitchAndFamily = 0x22;
 		for (x = 0; SmallFonts[x] != 0; x++)
+		{
 			lf4.lfFaceName[x] = SmallFonts[x];
+		}
 		lf4.lfFaceName[x] = 0;
 
 		cf.lStructSize    = sizeof (CHOOSEFONT) ;
@@ -815,7 +852,8 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		cyScreen = GetSystemMetrics(SM_CYVIRTUALSCREEN);
 		Width = cxScreen;
 		Height = cyScreen;
-		if (cxSingleScreen != cxScreen) {
+		if (cxSingleScreen != cxScreen)
+		{
 			AppendMenu(hMenu, MF_STRING, 0x1234, TEXT("Multiple Monitor Help"));
 		}
 		IndivTop = GetSystemMetrics(SM_CYFRAME);
@@ -846,7 +884,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 		if (fromcommandline)
 		{
 			for (x = 0; x < 512; x++)
+			{
 				Backspace[x] = -1;
+			}
 			bs = 0;
 			xLoc = yLoc = 0;
 			arrayfilled = FALSE;
@@ -888,24 +928,35 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 							IniBuf[y++] = ((utf[x] & 0x1F) << 6) | (utf[x+1] & MASKBITS);
 							x += 2;
 						}
-						else if(utf[x] < MASKBYTE)// 0xxxxxxx
+						else if (utf[x] < MASKBYTE)// 0xxxxxxx
+						{
 							IniBuf[y++] = (TCHAR)utf[x++];
+						}
 						else
+						{
 							IniBuf[y++] = (TCHAR)utf[x++];//not utf-8 character
+						}
 					}
 					free(utf);
 					for (x = 0; (IniBuf[x] != '\r') && (x < fileSize); x++)
+					{
 						FullFilename[x] = IniBuf[x];
+					}
 					FullFilename[x] = 0;
 					if (0 != GetFileTitle(FullFilename, Filename, MAX_PATH))
+					{
 						MessageBox(hwnd, TEXT("Filename error"), Error, MB_OK);
+					}
 					else
 					{
-						if ((0 == wcscmp(Filename, TEXT("The Kings of Europe.ged")))
-							|| (0 == wcscmp(Filename, TEXT("RomanEmperors.ged"))))
+						if ((0 == wcscmp(Filename, TEXT("The Kings of Europe.ged"))) || (0 == wcscmp(Filename, TEXT("RomanEmperors.ged"))))
+						{
 							kings = TRUE;
+						}
 						else
+						{
 							kings = FALSE;
+						}
 					}
 					x += 2;//to beginning of second line
 					if (x < y)
@@ -914,21 +965,33 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 						{
 							x++;
 							if ((IniBuf[x] < '0') || (IniBuf[x] > '9'))//not a number
+							{
 								x++;
+							}
 							for (IndivNumber = 0; ((IniBuf[x] >= '0') && (IniBuf[x] <= '9') && (x < y)); x++)//@I71@
+							{
 								IndivNumber = (IndivNumber * 10) + (IniBuf[x] - '0');
-							for ( ; (x < y) && (IniBuf[x] != '\n'); x++)
+							}
+							for (; (x < y) && (IniBuf[x] != '\n'); x++)
+							{
 								;
+							}
 							if (IniBuf[x] == '\n')
 							{
-								for ( ; (x < y) && (IniBuf[x] != '='); x++)
+								for (; (x < y) && (IniBuf[x] != '='); x++)
+								{
 									;
+								}
 								if (IniBuf[x] == '=')
 								{
-									if ((IniBuf[x+1] == '1') || (IniBuf[x+1] == 'T') || (IniBuf[x+1] == 'Y'))
+									if ((IniBuf[x + 1] == '1') || (IniBuf[x + 1] == 'T') || (IniBuf[x + 1] == 'Y'))
+									{
 										showindividual = TRUE;
+									}
 									else
+									{
 										showindividual = FALSE;
+									}
 //									for ( ; (x < y-5) && (IniBuf[x] != '\n'); x++)
 //										;
 //									if (IniBuf[x] == '\n')
@@ -984,11 +1047,17 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 			if (GetOpenFileName(&ofn))
 			{
 				if (0 == wcscmp(Filename, TEXT("The Kings of Europe.ged")))
+				{
 					kings = TRUE;
+				}
 				else
+				{
 					kings = FALSE;
+				}
 				for (x = 0; x < 512; x++)
+				{
 					Backspace[x] = -1;
+				}
 				bs = 0;
 				xLoc = yLoc = 0;
 				arrayfilled = FALSE;
@@ -1020,7 +1089,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 				for (x = 0, y = 0; x < fileSize; x++)
 				{
 					if (Buf[x] < 0x80)
-						utf[y++] = *(BYTE*)&Buf[x];
+					{
+						utf[y++] = *(BYTE*)& Buf[x];
+					}
 					else if (Buf[x] < 0x800)
 					{
 						utf[y++] = ((BYTE)(MASK2BYTES | Buf[x] >> 6));
@@ -1033,13 +1104,19 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 						utf[y++] = ((BYTE)(MASKBYTE | Buf[x] & MASKBITS));
 					}
 					else
+					{
 						MessageBox(hwnd, TEXT("HUH?"), NULL, MB_OK);
+					}
 				}
 				hFile = CreateFile(FullSaveAsFilename, GENERIC_READ|GENERIC_WRITE, 0, NULL, CREATE_ALWAYS, 0, NULL);
 				if (0 == WriteFile(hFile, utf, y, &dwBytesWritten, NULL))
+				{
 					MessageBox(hwnd, FullFilename, TEXT("This file was NOT written:"), MB_OK);
+				}
 				else
+				{
 					FlushFileBuffers(hFile);
+				}
 				CloseHandle(hFile);
 				VirtualFree(utf, 0, MEM_RELEASE);
 			}
@@ -1059,7 +1136,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 				if (PrinterName[0] != 0)
 				{
 					if (IDYES == MessageBox(hwnd, PrinterName, TEXT("Use this printer?"), MB_YESNO))
-						goto skip;	
+					{
+						goto skip;
+					}
 				}
 			}
 			for ( dwItem = 0; dwItem < dwNumItems; dwItem++ )
@@ -1075,7 +1154,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 			}
 skip:		free(lpInfo);
 			if (dwItem == dwNumItems)
+			{
 				break;//nothing chosen;
+			}
 			OpenPrinter(PrinterName, &hPrinter, NULL);//get hPrinter for DocumentProperties
 			dwNeeded = DocumentProperties(hwnd, hPrinter, PrinterName, NULL, NULL, 0);//get DEVMODE size
 			pDevMode = (LPDEVMODE)malloc(dwNeeded);
@@ -1103,7 +1184,9 @@ skip:		free(lpInfo);
 					{//the /100 is there because of the previous w/(8.5*10) and the 10.5*1000
 						StretchBlt(hDC, 0, 0, (rect.right * x)/100, (rect.bottom * y)/100, hdcPrn, 0, 0, rect.right, rect.bottom, SRCCOPY);
 						if (EndPage(hDC) > 0)
+						{
 							EndDoc(hDC);
+						}
 					}
 				}
 			}
@@ -1165,12 +1248,16 @@ skip:		free(lpInfo);
 				{
 					unlinked = FALSE;
 					if (DestroyWindow(hwndIndiv))
+					{
 						hwndIndiv = NULL;
+					}
 				}
 				if (hwndListDlg)
 				{
 					if (DestroyWindow(hwndListDlg))
+					{
 						hwndListDlg = NULL;
+					}
 				}
 				hwndListDlg = CreateDialog(hInst, TEXT("LIST"), hwnd, ListProc);
 			}
@@ -1188,7 +1275,9 @@ skip:		free(lpInfo);
 				if (hwndIndiv)
 				{
 					if (DestroyWindow(hwndIndiv))
+					{
 						hwndIndiv = NULL;
+					}
 				}
 				hwndIndiv = CreateDialog(hInst, TEXT("INDIVIDUAL"), hwnd, IndivProc);
 				indivbox = FALSE;
@@ -1231,13 +1320,21 @@ skip:		free(lpInfo);
 			xLoc += (xPrevious-xPos);
 			yLoc += (yPrevious-yPos);
 			if (xLoc < 0)
+			{
 				xLoc = 0;
+			}
 			if (xLoc > Left)
+			{
 				xLoc = Left;
+			}
 			if (yLoc < 0)
+			{
 				yLoc = 0;
+			}
 			if (yLoc > Top)
+			{
 				yLoc = Top;
+			}
 			FillhdcMem();
 		}
 		break;
@@ -1256,33 +1353,47 @@ skip:		free(lpInfo);
 //		}
 
 		if (inbox == FALSE)
+		{
 			SetCursor(hDrawingCursor1);
+		}
 		else//if (MouseLoc == highlighted)
 		{
 			if (list)
 			{
 				list = FALSE;
 				if (DestroyWindow(hwndListDlg))
+				{
 					hwndListDlg = NULL;
+				}
 			}
 			oldHighlighted = highlighted;
 			if (MouseLoc < RealLastIndiv)
+			{
 				highlighted = MouseLoc;
+			}
 			else
 			{
 				y = Indiv[MouseLoc].Num;
 				for (x = 0; (x < RealLastIndiv) && (Indiv[x].Num != y); x++)
+				{
 					;
+				}
 				highlighted = x;
 				MouseLoc = x;
 			}
 
 			if (bs == 511)
+			{
 				bs = 0;
+			}
 			bs++;
 			if (Backspace[bs] != -1)
+			{
 				for (x = 511; x >= bs; x--)
-					Backspace[x] = Backspace[x-1];
+				{
+					Backspace[x] = Backspace[x - 1];
+				}
+			}
 			Backspace[bs] = highlighted;
 			InitializeAgain();
 			SendMessage(hwnd, WM_MOUSEMOVE, 0, lParam);
@@ -1305,9 +1416,13 @@ skip:		free(lpInfo);
 
 	case WM_LBUTTONUP:
 		if (inbox == FALSE)
+		{
 			SetCursor(hDrawingCursor2);
+		}
 		else
+		{
 			SetCursor(hCursor);
+		}
 		return 0;
 
 	case WM_RBUTTONDOWN:
@@ -1318,7 +1433,9 @@ skip:		free(lpInfo);
 			if (hwndIndiv)
 			{
 				if (DestroyWindow(hwndIndiv))
+				{
 					hwndIndiv = NULL;
+				}
 			}
 			hwndIndiv = CreateDialog(hInst, TEXT("INDIVIDUAL"), hwnd, IndivProc);
 			indivbox = FALSE;
@@ -1368,33 +1485,45 @@ skip:		free(lpInfo);
 		{
 			if (wParam & 0x80000000)
 			{
-				if (xLoc < (Left-50))
+				if (xLoc < (Left - 50))
+				{
 					xLoc += 50;
+				}
 				else
+				{
 					xLoc = Left;
+				}
 			}
 			else if (xLoc > 50)
 			{
 				xLoc -= 50;
 			}
 			else
+			{
 				xLoc = 0;
+			}
 		}
 		else
 		{
 			if (wParam & 0x80000000)
 			{
-				if (yLoc < (Top-50))
+				if (yLoc < (Top - 50))
+				{
 					yLoc += 50;
+				}
 				else
+				{
 					yLoc = Top;
+				}
 			}
 			else if (yLoc > 50)
 			{
 				yLoc -= 50;
 			}
 			else
+			{
 				yLoc = 0;
+			}
 		}
 		CursorMoved(xPos, yPos);
 		FillhdcMem();
@@ -1431,7 +1560,9 @@ skip:		free(lpInfo);
 			{
 				Font++;
 				if (Font == 6)
+				{
 					hFont = CreateFontIndirect(&lf);
+				}
 				else
 				{
 					if (Font == 5)
@@ -8107,14 +8238,22 @@ BOOL CheckBuf(void)
 		MessageBox(hwnd, TEXT("File doesn't start with 0 HEAD"), ERROR, MB_OK);
 		return FALSE;
 	}
-	for (x = fileSize-1; (Buf[x] == '\n') || (Buf[x] == '\r'); x--)
+	for (x = fileSize - 1; (Buf[x] == '\n') || (Buf[x] == '\r'); x--)
+	{
 		;
-	for (y = x; (y < fileSize) && (Buf[y-1] != '\n'); y++)
+	}
+	for (y = x; (y < fileSize) && (Buf[y - 1] != '\n'); y++)
+	{
 		;
+	}
 	if (Buf[y] == '\r')
+	{
 		fileSize = y; // get rid of multiple line feeds / carriage returns
-	for ( ; (x != 0) && (Buf[x] != '\n'); x--)
+	}
+	for (; (x != 0) && (Buf[x] != '\n'); x--)
+	{
 		;
+	}
 	x++;
 	if ((Buf[x] != '0') || (Buf[x+1] != ' ') || (Buf[x+2] != 'T') || (Buf[x+3] != 'R') || (Buf[x+4] != 'L') || (Buf[x+5] != 'R'))
 	{
@@ -8122,7 +8261,9 @@ BOOL CheckBuf(void)
 		return FALSE;
 	}
 	else
+	{
 		Fams = x;
+	}
 	badformat = FALSE;
 	SetCursor(hWaitingCursor);
 	for (x = 0; x < fileSize; x++)
@@ -8148,8 +8289,10 @@ if ((Buf[x] == '\r') && (Buf[x+1] != '\n')) {
 		if ((Buf[x+1] == '2') && (Buf[x+2] == ' ') && (Buf[x+3] == 'C') && (Buf[x+4] == 'O') && (Buf[x+5] == 'N') && (Buf[x+6] == 'T') && (Buf[x] != '\n'))
 		{ // new Oct 19 2010
 			fileSize++;
-			for (y = fileSize-1; y >= x; y--)
-				Buf[y+1] = Buf[y];
+			for (y = fileSize - 1; y >= x; y--)
+			{
+				Buf[y + 1] = Buf[y];
+			}
 			Buf[x++] = '\r';
 			Buf[x++] = '\n';
 			badformat = TRUE;
@@ -8158,7 +8301,9 @@ if ((Buf[x] == '\r') && (Buf[x+1] != '\n')) {
 		{ // new Oct 19 2010
 			fileSize++;
 			for (y = fileSize; y >= x; y--)
-				Buf[y+1] = Buf[y];
+			{
+				Buf[y + 1] = Buf[y];
+			}
 			Buf[x++] = '\r';
 			Buf[x++] = '\n';
 			badformat = TRUE;
@@ -8171,37 +8316,89 @@ if ((Buf[x] == '\r') && (Buf[x+1] != '\n')) {
 	}
 	SetCursor(hCursor);
 	if (badformat)
+	{
 		return FALSE;
+	}
 	else
+	{
 		return TRUE;
+	}
 }
 
 void GetDate(void)
 {
-			if ((one == 'J') && (two == 'A') && (three == 'N'))
-				{gotmonth = TRUE; w += 3;}
-			else if ((one == 'F') && (two == 'E') && (three == 'B'))
-				{gotmonth = TRUE; w += 3; date[d] += 31;}
-			else if ((one == 'M') && (two == 'A') && (three == 'R'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28;}
-			else if ((one == 'A') && (two == 'P') && (three == 'R'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31;}
-			else if ((one == 'M') && (two == 'A') && (three == 'Y'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30;}
-			else if ((one == 'J') && (two == 'U') && (three == 'N'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31;}
-			else if ((one == 'J') && (two == 'U') && (three == 'L'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30;}
-			else if ((one == 'A') && (two == 'U') && (three == 'G'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30+31;}
-			else if ((one == 'S') && (two == 'E') && (three == 'P'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30+31+31;}
-			else if ((one == 'O') && (two == 'C') && (three == 'T'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30+31+31+30;}
-			else if ((one == 'N') && (two == 'O') && (three == 'V'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30+31+31+30+31;}
-			else if ((one == 'D') && (two == 'E') && (three == 'C'))
-				{gotmonth = TRUE; w += 3; date[d] += 31+28+31+30+31+30+31+31+30+31+30;}
+	// TODO: should this handle leap years too?
+	if ((one == 'J') && (two == 'A') && (three == 'N'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+	}
+	else if ((one == 'F') && (two == 'E') && (three == 'B'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31;
+	}
+	else if ((one == 'M') && (two == 'A') && (three == 'R'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28;
+	}
+	else if ((one == 'A') && (two == 'P') && (three == 'R'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31;
+	}
+	else if ((one == 'M') && (two == 'A') && (three == 'Y'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30;
+	}
+	else if ((one == 'J') && (two == 'U') && (three == 'N'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31;
+	}
+	else if ((one == 'J') && (two == 'U') && (three == 'L'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30;
+	}
+	else if ((one == 'A') && (two == 'U') && (three == 'G'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30 + 31;
+	}
+	else if ((one == 'S') && (two == 'E') && (three == 'P'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31;
+	}
+	else if ((one == 'O') && (two == 'C') && (three == 'T'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30;
+	}
+	else if ((one == 'N') && (two == 'O') && (three == 'V'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31;
+	}
+	else if ((one == 'D') && (two == 'E') && (three == 'C'))
+	{
+		gotmonth = TRUE;
+		w += 3;
+		date[d] += 31 + 28 + 31 + 30 + 31 + 30 + 31 + 31 + 30 + 31 + 30;
+	}
 }
 
 void ParseBirthday(void)
@@ -8336,6 +8533,7 @@ void ShowJpeg(void)
 	_snwprintf(Error, 512, TEXT("Press Esc  [%s]"), Jpeg);
 	SetWindowText(hwndPhoto, Error);
 }
+
 /*
 void GetPhotoFileName(void)
 {
@@ -8353,6 +8551,7 @@ void GetPhotoFileName(void)
 	SimpleFamilyTreePhotosTxt[x] = 0;
 }
 */
+
 void UndoIt(void)
 {
 	if (Filename[0])
@@ -8402,7 +8601,9 @@ void UndoIt(void)
 				SendMessage(hwnd, WM_COMMAND, ID_SHOWLISTOFINDIVIDUALS, 0);//show LIST OF INDIVIDUALS
 			}
 			else
+			{
 				MessageBox(hwnd, FullFilename, TEXT("There's no backup file for:"), MB_OK);
+			}
 		}
 	}
 }
@@ -8645,7 +8846,9 @@ void CheckForPhotos(void)
 	}
 	CloseHandle(hPhotoFile2);
 	if (!photowritten)
+	{
 		DeleteFile(SimpleFamilyTreePhotosTxt);
+	}
 	CloseHandle(hPhotoFile);
 }
 
@@ -9109,7 +9312,9 @@ void RemovePhoto(DWORD x)
 			VirtualFree(utf, 0, MEM_RELEASE);
 		}
 		else // it would be empty
+		{
 			DeleteFile(SimpleFamilyTreePhotosTxt);
+		}
 	}
 }
 /*
