@@ -7,8 +7,13 @@ jdmcox.com/ijl15.zip
 add _UNICODE AND UNICODE to Project Settings C/C++ tab Category: General Preprocessor Definitions
 when debugging 16-bit char data, instead of looking at &Buf[x] in the Watch window, look at &Buf[x],ma
 */
+#ifndef _UNICODE
 #define _UNICODE
+#endif // _UNICODE
+
+#ifndef UNICODE
 #define UNICODE
+#endif // UNICODE
 #define _CRT_SECURE_NO_WARNINGS 
 #include <windows.h>
 #include <stdio.h>//for _snwprintf
@@ -16,6 +21,7 @@ when debugging 16-bit char data, instead of looking at &Buf[x] in the Watch wind
 #include <shlobj.h> // for SHGetFolderPath
 #include "resource.h"
 #include "ijl.h"//put ijl15.lib in -Linker -Input -Additional Dependencies
+#include "simplefamilytree.h"
 #define LIGHTGRAY 0xF0F7F8
 #define ROWS 100
 #define COLS 1500

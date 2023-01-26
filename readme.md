@@ -4,6 +4,7 @@ Based on Simple Family Tree source code provided at http://jdmcox.com/.
 
 Original source code by Doug Cox.
 
+
 About
 -----
 From http://jdmcox.com/:
@@ -14,6 +15,14 @@ From http://jdmcox.com/:
 > You can enter marriage details, a second name, events, and notes.
 > It reads and writes files in Gedcom format.
 
+
 Building
 --------
 Open simplefamilytree.sln in Visual Studio and compile.
+
+
+Tests
+-----
+```
+powershell ./test.ps1
+```
