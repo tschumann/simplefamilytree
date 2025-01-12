@@ -18,11 +18,12 @@ From http://jdmcox.com/:
 
 Building
 --------
-Open simplefamilytree.sln in Visual Studio and compile.
+Open `simplefamilytree.sln` in Visual Studio and compile.
 
 
 Tests
------
+-------
+Open "Developer Powershell for VS"
 ```
-powershell ./test.ps1
+./test.ps1
 ```
